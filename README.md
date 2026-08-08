@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/kingai-sea-hero.svg" alt="KING AI SEA — The Intelligent Lifeform for People & Enterprises" width="100%" />
+
 # 👑 KING AI · SEA
 ## **The Intelligent Lifeform for People & Enterprises**
 ### **Think · Remember · Act · Evolve**
