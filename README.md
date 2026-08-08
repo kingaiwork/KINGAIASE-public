@@ -6,20 +6,16 @@
 ## **The Intelligent Lifeform for People & Enterprises**
 ### **Think · Remember · Act · Evolve**
 
-**Not another chatbot. Not another automation tool.**  
-**A digital intelligent lifeform designed to understand goals, stay with you, work with you, and grow with you.**
+**Not another chatbot. Not another isolated AI tool.**  
+**A persistent digital intelligence designed to understand goals, coordinate AI employees, connect approved systems, help execute real work, and become more useful over time.**
 
 🌐 **Official Website:** https://www.kingai.work  
 ✉️ **Business & Partnership:** vip@kingai.work
 
-![Future](https://img.shields.io/badge/FUTURE-INTELLIGENCE-111827?style=for-the-badge)
-![Lifeform](https://img.shields.io/badge/DIGITAL-LIFEFORM-312e81?style=for-the-badge)
-![Enterprise](https://img.shields.io/badge/ENTERPRISE-AI-0f172a?style=for-the-badge)
-![Personal](https://img.shields.io/badge/PERSONAL-SECOND%20BRAIN-1e1b4b?style=for-the-badge)
-
----
-
-### ✦ One AI. A Living Digital Intelligence.
+![Agentic AI](https://img.shields.io/badge/AGENTIC-AI-111827?style=for-the-badge)
+![AI Workforce](https://img.shields.io/badge/AI-WORKFORCE-312e81?style=for-the-badge)
+![Intelligent Lifeform](https://img.shields.io/badge/INTELLIGENT-LIFEFORM-0f172a?style=for-the-badge)
+![Enterprise](https://img.shields.io/badge/ENTERPRISE-INTELLIGENCE-1e1b4b?style=for-the-badge)
 
 > **Give ordinary AI a question. Give KING AI a goal.**
 
@@ -31,246 +27,525 @@
 
 ## 01 · What is KING AI SEA?
 
-**KING AI SEA** is a next-generation intelligent lifeform system created for both **individuals and enterprises**.
+**KING AI SEA** is a unified intelligent-lifeform system for **individuals, enterprises, developers, AI employees, intelligent websites, intelligent applications and agentic automation**.
 
-It is designed to go beyond conversation. It can understand objectives, retain useful context, coordinate work, connect with approved tools and systems, assist with real-world execution, and continuously adapt to the way its owner works.
+It is designed to move beyond one-off AI conversations and become a persistent intelligence layer across real digital work.
 
-KING AI SEA is built around a simple promise:
+KING AI SEA can be positioned as:
 
-### **AI should not only answer. AI should understand, assist, execute, and evolve.**
+🧠 **Personal Second Brain** · 🏢 **Enterprise Intelligent Lifeform** · 🤖 **AI Workforce** · 🌐 **Intelligent Website** · 📱 **Intelligent App Layer** · ⚙️ **Agentic Automation Platform** · 🧑‍💻 **Developer Agent Platform** · 🛡️ **Governed Digital Intelligence**
 
-It can become your:
+### The public product promise
 
-🧠 **Second Brain** · 🤝 **AI Partner** · 🛰️ **Digital Operator** · 🧩 **AI Workforce** · 🛡️ **Intelligent Guardian** · ⚙️ **Automation Center** · 📊 **Decision Assistant** · 🌐 **Digital Presence**
+**Understand the goal. Preserve useful context. Coordinate work. Act within permission. Observe results. Improve over time.**
 
 ---
 
-## 02 · A Different Kind of AI Experience
+## 02 · One Unified System, Many Intelligent Forms
 
-Most AI products wait for instructions.
+KING AI SEA remains one system while adapting to different environments.
 
-KING AI SEA is designed for a deeper relationship between human intent and digital intelligence.
+### 👤 Personal Intelligence
+A persistent second brain for planning, knowledge, projects, communication, research, creativity, technical work and digital-life operations.
 
-Instead of repeatedly explaining the same context, users can build an intelligent digital companion that becomes increasingly familiar with their goals, working style, priorities, projects, preferences, and operating environment.
+### 🏢 Enterprise Intelligence
+A business-wide intelligence layer connecting people, AI employees, knowledge, workflows, applications and operating signals.
 
-### The experience is designed to feel less like “using software” and more like **working with a digital intelligence that knows how you operate.**
+### 🤖 AI Employees
+Specialized digital roles for customer service, sales, marketing, operations, finance, HR, IT, security, management and industry-specific work.
 
-```mermaid
-flowchart LR
-    A[🎯 Your Goal] --> B[🧠 Understand]
-    B --> C[🧭 Plan]
-    C --> D[⚙️ Act]
-    D --> E[📡 Observe]
-    E --> F[✨ Improve]
-    F --> B
+### 🌐 Intelligent Websites
+A 24/7 digital front door for conversation, search, lead qualification, customer service, booking, sales assistance, knowledge and conversion.
+
+### 📱 Intelligent Applications
+An intelligence layer embedded into web apps, mobile apps, SaaS and internal enterprise software so users can operate systems through natural language and agentic workflows.
+
+### 🧑‍💻 Developer Platform
+A future builder ecosystem for agents, workflows, skills, integrations, APIs, embedded experiences and industry applications.
+
+### 🏭 Industry Intelligence
+Specialized intelligent-lifeform experiences for hospitality, logistics, property operations, senior-care administration, healthcare administration, professional services, commerce, real estate, education, SaaS and more.
+
+---
+
+## 03 · From Answer to Outcome
+
+Traditional AI often follows:
+
+```text
+Prompt → Answer → User does the work
 ```
 
-> The diagram is intentionally high-level. Proprietary implementation details are not disclosed in this public project.
+KING AI SEA is designed around:
+
+```text
+Goal → Understand → Plan → Coordinate → Act → Observe → Report → Improve
+```
+
+The value is not simply generating a better answer.
+
+### The value is reducing the distance between **what the user wants** and **what actually gets completed**.
 
 ---
 
-## 03 · Designed for Individuals
+## 04 · AI Workforce
 
-### **Your Personal Second Brain**
-
-Imagine an AI that can stay connected to the important parts of your digital life and help you move from intention to completion.
-
-KING AI SEA can be positioned as a personal intelligence layer that helps with:
-
-- 🧠 Long-term personal knowledge and context
-- 📅 Daily planning, reminders, priorities and follow-up
-- ✉️ Email understanding, drafting and communication support
-- 📚 Research, learning and information synthesis
-- 🗂️ Document, note and knowledge organization
-- 🧑‍💻 Technical assistance and digital operations
-- 🌍 Travel, planning and decision support
-- 💼 Personal projects and business operations
-- 📈 Goal tracking and progress review
-- ✍️ Creative work, writing, content and ideas
-- 🛰️ Cross-device and cross-service assistance through approved integrations
-- 🔔 Proactive notifications for important changes and events
-
-### You stop managing dozens of tools separately.
-### You start working through one intelligent digital presence.
-
----
-
-## 04 · Designed for Enterprises
-
-### **Build an AI Workforce Around Your Business**
-
-For organizations, KING AI SEA can become a unified intelligence layer across departments, workflows, systems and teams.
-
-Instead of deploying isolated AI tools, an enterprise can build a coordinated digital workforce around real business goals.
-
-| Business Area | What KING AI Can Help With |
-|---|---|
-| 👔 Executive | Summaries, priorities, decision support, risk visibility |
-| 💬 Customer Service | 24/7 assistance, triage, follow-up, knowledge access |
-| 📈 Sales | Lead handling, follow-up, CRM assistance, opportunity tracking |
-| 📣 Marketing | Content, SEO, campaigns, research, publishing workflows |
-| 🧑‍💻 IT Operations | System checks, deployment assistance, diagnostics, reporting |
-| 🛡️ Security | Monitoring, anomaly awareness, incident support, audit assistance |
-| 💳 Finance | Reporting, invoicing support, reconciliation workflows, analysis |
-| 🧑‍🤝‍🧑 HR | Internal knowledge, onboarding, policy access, workflow assistance |
-| ⚙️ Operations | SOP execution, task routing, automation, status reporting |
-| 📊 Management | Unified visibility, alerts, summaries and business intelligence |
-
-### One company can operate with both:
-
-**Human Team + AI Team**
-
----
-
-## 05 · Not One Agent — An Intelligent Digital Organization
-
-KING AI SEA can coordinate multiple specialized AI roles while presenting users with one unified intelligent experience.
+For organizations, KING AI SEA can form a coordinated digital workforce.
 
 ```mermaid
 flowchart TD
-    K[👑 KING AI SEA] --> M[🧠 Main Intelligence]
-    M --> E[👔 Executive Intelligence]
-    M --> C[💬 Customer Intelligence]
-    M --> O[⚙️ Operations Intelligence]
-    M --> T[🧑‍💻 Technical Intelligence]
-    M --> S[🛡️ Security Intelligence]
-    M --> G[📈 Growth Intelligence]
-
-    E --> R1[Decisions & Reports]
-    C --> R2[Support & Follow-up]
-    O --> R3[Automation & Workflows]
-    T --> R4[Systems & Deployment]
-    S --> R5[Monitoring & Risk]
-    G --> R6[Sales & Marketing]
+    K[👑 KING AI SEA] --> B[🧠 Unified Intelligence]
+    B --> EX[👔 Executive]
+    B --> CX[💬 Customer Experience]
+    B --> REV[📈 Revenue & Growth]
+    B --> OPS[⚙️ Operations]
+    B --> TECH[💻 Technology]
+    B --> TRUST[🛡️ Trust & Security]
+    B --> CORP[🏢 Corporate Services]
+    EX --> X1[Strategy / Briefings / Decisions]
+    CX --> X2[Support / Booking / Success]
+    REV --> X3[Sales / Marketing / SEO-GEO]
+    OPS --> X4[Workflows / Logistics / Quality]
+    TECH --> X5[Apps / Cloud / Systems / Development]
+    TRUST --> X6[Security / Risk / Audit]
+    CORP --> X7[Finance / HR / Knowledge]
 ```
 
-Each role can be shaped around the organization’s responsibilities, permissions and approved tools.
+A company can evolve from one useful agent into a broader operating model:
+
+**Single Agent → AI Employee → Department AI → Multi-Agent Workflow → AI Workforce → Enterprise Intelligent Lifeform**
 
 ---
 
-## 06 · Core Capability Experience
+## 05 · AI Employees
 
-### 🧠 Understand
-KING AI is designed to interpret goals, context, priorities and intent instead of responding only to isolated prompts.
+Public AI employee categories include:
 
-### 🧬 Remember
-It can maintain useful long-term context so users do not need to rebuild the relationship from zero every time.
+- 👔 AI Chief of Staff
+- 💬 AI Receptionist
+- 🎧 Customer Service Agent
+- 📈 Sales Development Agent
+- 🤝 Customer Success Agent
+- 📣 Marketing Agent
+- 🔎 SEO/GEO Agent
+- ✍️ Content Agent
+- ⚙️ Operations Coordinator
+- 🚚 Logistics Operations Agent
+- 📦 Inventory & Procurement Agent
+- 🧑‍💻 Developer Agent
+- ☁️ Cloud / DevOps Agent
+- 🖥️ System Operations Agent
+- 🌐 Website Operations Agent
+- 🛡️ Security Operations Agent
+- 📋 Audit Assistant
+- 💳 Finance Operations Agent
+- 🧾 Invoice Agent
+- 🧑‍🤝‍🧑 HR Service Agent
+- 🎯 Recruiting Agent
+- 🏭 Industry-specific AI employees
 
-### ⚙️ Act
-With user-approved access, it can assist with actions across connected systems, workflows, services and digital environments.
-
-### 🧭 Coordinate
-It can help organize complex objectives into manageable steps and coordinate multiple specialized capabilities.
-
-### 📡 Observe
-It can watch approved signals, status changes, systems and workflows to help surface what deserves attention.
-
-### ✨ Evolve
-KING AI SEA is designed to become increasingly aligned with the way its owner or organization works over time.
-
-### 🛡️ Stay Controlled
-Automation scope, execution permissions and security boundaries are defined by the user or organization.
-
----
-
-## 07 · From “Answer” to “Outcome”
-
-Traditional AI:
-
-```text
-You ask → AI answers → You do the work
-```
-
-KING AI SEA experience:
-
-```text
-You define the goal → KING AI understands → coordinates → assists with execution → reports the outcome
-```
-
-The value is not just better answers.
-
-### The value is reducing the distance between **what you want** and **what gets done**.
+Each role can be shaped around responsibilities, approved knowledge, tools, permissions, workflows and human escalation rules.
 
 ---
 
-## 08 · Enterprise Private Intelligence
+## 06 · Personal Second Brain
 
-Organizations can position KING AI SEA as their own private intelligence environment.
+For individuals, KING AI SEA can support:
 
-Potential deployment models include:
+- long-term personal context
+- planning and priorities
+- reminders and follow-up
+- email and communication
+- research and learning
+- notes, files and documents
+- personal projects
+- entrepreneurship
+- content and creativity
+- technical assistance
+- travel and decision support
+- recurring reviews
+- proactive notifications
+- approved cross-service digital operations
 
-- ☁️ Cloud deployment
-- 🖥️ Private VPS
-- 🏢 Enterprise private infrastructure
-- 🔐 Controlled internal environment
-- 🧠 Hybrid cloud + local intelligence
-- 🌐 Multi-system business integration
-
-The public project intentionally does not disclose proprietary system architecture, internal orchestration, memory implementation, security internals, private prompts, model-routing logic, self-evolution logic, or privileged control mechanisms.
-
----
-
-## 09 · A Lifeform That Can Grow With You
-
-A normal application is installed and used.
-
-KING AI SEA is envisioned differently.
-
-The longer it serves a person or organization, the more valuable the relationship can become through accumulated context, approved knowledge, workflows, preferences and operational understanding.
-
-### Day 1: It learns how you work.
-### Day 30: It understands recurring patterns.
-### Day 100: It becomes part of your operating rhythm.
-
-This is the direction of **persistent digital intelligence**.
+### The goal is one persistent digital intelligence that becomes part of the user’s operating rhythm.
 
 ---
 
-## 10 · High-Value Use Cases
+## 07 · Intelligent Website
 
-### 👤 Personal
-- Personal second brain
-- Executive-style personal assistant
-- Knowledge and research companion
-- Project management partner
-- Digital life organization
-- Personal website and digital identity assistant
-- Technical operations assistant
-- Long-term goal companion
+A KING AI-enabled website can move beyond static navigation.
 
-### 🏢 Business
-- AI customer-service workforce
-- AI sales operations
-- AI marketing operations
-- AI business intelligence
-- AI executive assistant layer
-- AI IT operations
-- AI workflow automation
-- AI internal knowledge center
-- AI operations control room
+It can support:
 
-### 🧑‍💻 Builders & Developers
-- Intelligent agent applications
-- Business workflow orchestration
-- Custom AI operators
-- AI-enabled SaaS products
-- Private AI systems
-- Vertical-industry AI solutions
+- conversational site navigation
+- intelligent search
+- product/service discovery
+- lead capture and qualification
+- AI receptionist
+- customer service
+- booking and reservations
+- quote requests
+- multilingual service
+- recommendation assistance
+- human escalation
+- follow-up workflows
+
+Within approved integrations, a website conversation can become a structured business action such as a CRM lead, support ticket, booking request, sales task or service case.
 
 ---
 
-## 11 · The Brand Promise
+## 08 · Intelligent Applications & SaaS
+
+KING AI SEA can be embedded into web apps, mobile apps, SaaS and internal software.
+
+Users can ask for outcomes instead of learning every menu:
+
+> “Show me what needs attention today.”  
+> “Prepare the weekly report.”  
+> “Find customers at risk and prepare follow-ups.”  
+> “Explain why this metric changed.”  
+> “Create a task from this conversation.”
+
+Product teams can build embedded copilots, domain agents, natural-language analytics, workflow generation, AI onboarding, support agents and action-taking assistants.
+
+---
+
+## 09 · Agentic Automation & Long-Running Work
+
+KING AI SEA can support different work patterns:
+
+- one-time tasks
+- recurring tasks
+- scheduled workflows
+- event-driven workflows
+- condition-based monitoring
+- long-running tasks
+- approval-driven processes
+- multi-agent workflows
+- human-in-the-loop execution
+
+A sophisticated workflow may include triggers, context gathering, planning, tool use, specialized AI roles, branches, waits, retries, checkpoints, approvals, escalation and reporting.
+
+---
+
+## 10 · Memory, Continuity & Evolution
+
+KING AI SEA is designed so useful long-term work does not need to restart from zero every session.
+
+Public experience concepts include:
+
+- durable useful context
+- project continuity
+- organizational memory
+- recurring workflow history
+- user preferences
+- approved knowledge
+- outcome awareness
+- continuous improvement
+
+Within the unified KING AI SEA system:
+
+- **Evolution OS** is the operating architecture.
+- **SAE** is the controlled self-evolution mechanism.
+- **ACRE** represents the active defense / immune-system security concept.
+- **Root Policy Kernel** represents high-authority policy and execution boundaries.
+
+These are components and mechanisms inside KING AI SEA, not separate competing products.
+
+Their proprietary internal implementation is not disclosed in this public repository.
+
+---
+
+## 11 · Voice, Vision & Multimodal Intelligence
+
+KING AI SEA can extend beyond text through experiences such as:
+
+- real-time voice interaction
+- AI phone receptionist
+- voice customer service
+- multilingual voice
+- image understanding
+- screenshot analysis
+- document understanding
+- photo/document intake
+- screen-aware assistance
+- multimodal workflows
+
+The objective is to let intelligence interact in the mode most natural to the situation.
+
+---
+
+## 12 · Enterprise Knowledge & Data Intelligence
+
+KING AI SEA can become an intelligent interface for approved organizational knowledge and business data.
+
+Potential sources include:
+
+- policies and SOPs
+- product documentation
+- project history
+- customer knowledge
+- technical documentation
+- finance/HR/admin documents
+- databases and business systems
+- approved external sources
+
+Potential experiences include enterprise search, source-aware summaries, historical context, KPI summaries, anomaly explanations, management reporting and knowledge-to-action workflows.
+
+---
+
+## 13 · AI Control Center
+
+A serious AI workforce needs a control plane.
+
+The KING AI SEA Control Center concept can include:
+
+- 🧑‍✈️ Executive Overview
+- 🤖 Agent Registry
+- 🎯 Mission & Task Center
+- ✅ Approval Center
+- ⚙️ Workflow Center
+- 📚 Knowledge Center
+- 🔌 Integration Center
+- 🛡️ Governance Center
+- 🛰️ Observability Center
+- 🧪 Evaluation Center
+- 💰 Cost & Resource Center
+- 🚀 Deployment Center
+
+### More intelligence should not require less control.
+
+---
+
+## 14 · Governance, Security & Human Authority
+
+KING AI SEA is designed around operator-defined control.
+
+Public governance principles include:
+
+- explicit ownership
+- scoped permissions
+- least-necessary access
+- sensitive-action approvals
+- human-in-the-loop
+- role separation
+- auditability
+- environment boundaries
+- credential protection
+- human escalation
+- measurable quality
+- recovery and fallback planning
+
+### **Automation scope, execution permissions and security boundaries are defined by the user or organization.**
+
+---
+
+## 15 · Observability & Evaluation
+
+Enterprise-grade AI should be measurable.
+
+Potential visibility includes:
+
+- agent activity
+- workflow status
+- tool activity
+- success/failure rates
+- latency
+- retries
+- approvals
+- escalations
+- usage
+- cost
+- quality metrics
+- regression testing
+- business outcome metrics
+
+The objective is **observable, controllable and continuously improvable intelligence**.
+
+---
+
+## 16 · Interoperability
+
+KING AI SEA is designed for a multi-vendor world.
+
+Public product direction includes compatibility with modern approaches for:
+
+- APIs and webhooks
+- tool/function calling
+- MCP-style tool and context connectivity
+- agent-to-agent interoperability
+- enterprise connectors
+- event-driven workflows
+- model-provider flexibility
+- application embedding
+
+Proprietary model-routing and orchestration logic remains private.
+
+---
+
+## 17 · Developer Ecosystem
+
+Developers can build around the public KING AI SEA platform direction through concepts such as:
+
+- Agent Builder
+- Workflow Builder
+- Skills
+- Tools
+- APIs / SDKs
+- Knowledge connections
+- event triggers
+- approval workflows
+- app embedding
+- observability hooks
+- evaluation interfaces
+- deployment templates
+- agent interoperability
+
+The long-term ecosystem can support third-party solutions without exposing the proprietary core.
+
+---
+
+## 18 · Agent & Skill Marketplace
+
+A future ecosystem can distribute approved:
+
+- AI employees
+- industry agents
+- skills
+- workflow packs
+- integrations
+- knowledge packs
+- website agents
+- app components
+- automation templates
+
+Extensions should be versioned, permission-aware, reviewed and transparent about required access.
+
+---
+
+## 19 · Agent Commerce
+
+KING AI SEA can support governed commercial workflows such as:
+
+- product/service discovery
+- recommendations
+- quotes
+- bookings
+- reservations
+- procurement
+- invoices
+- subscriptions
+- renewals
+- order coordination
+
+Financial actions require appropriate authorization and compliant external payment infrastructure.
+
+---
+
+## 20 · Industry Solutions
+
+Public industry directions include:
+
+🏨 Hospitality · 🚚 Logistics · 🏢 Property Management · 👵 Senior-Care Administration · 🏥 Healthcare Administration · 💼 Professional Services · ⚖️ Legal Operations Support · 🏠 Real Estate · 🛍️ Retail & E-Commerce · 🍽️ Restaurants · 🎓 Education · 💻 SaaS · 🏭 Manufacturing · 🧰 Field Service · ✈️ Travel · 🎬 Media
+
+A real vertical solution should use industry-specific workflows, terminology, permissions and measurable outcomes — not simple keyword replacement.
+
+---
+
+## 21 · Deployment Spectrum
+
+KING AI SEA can support deployment directions such as:
+
+- cloud
+- dedicated VPS
+- private cloud
+- enterprise-controlled infrastructure
+- hybrid cloud/private environments
+- isolated business environments
+- multi-region deployments
+- local/edge intelligence where appropriate
+
+Deployment depends on privacy, governance, latency, integrations and business requirements.
+
+---
+
+## 22 · Product Editions
+
+All editions remain part of the same KING AI SEA system:
+
+| Edition | Primary Use |
+|---|---|
+| 👤 Personal | Second brain and personal digital intelligence |
+| 💼 Professional | Founders, creators, consultants, independent operators |
+| 🏢 Business | AI employees and team automation |
+| 🏛️ Enterprise | AI workforce, private deployment, governance and deep integrations |
+| 🧑‍💻 Developer | Agentic apps, tools, workflows and integrations |
+| 🏭 Industry | Deep vertical intelligent-lifeform solutions |
+| 🌐 Website Intelligence | AI-powered public digital front door |
+| 📱 Application Intelligence | Embedded intelligence for apps and SaaS |
+
+---
+
+## 23 · Documentation
+
+### Flagship
+- [Complete Platform Blueprint](docs/ULTIMATE-PLATFORM.md)
+- [Public Architecture](docs/PUBLIC-ARCHITECTURE.md)
+- [Documentation Hub](docs/INDEX.md)
+- [Why KING AI SEA?](docs/WHY-KING-AI.md)
+
+### People & Business
+- [Personal Intelligence](docs/PERSONAL.md)
+- [Enterprise Intelligence](docs/ENTERPRISE.md)
+- [AI Employees](docs/AI-EMPLOYEES.md)
+- [AI Control Center](docs/AI-CONTROL-CENTER.md)
+- [Product Editions](docs/PRODUCT-EDITIONS.md)
+
+### Experience & Operations
+- [Intelligent Websites & Applications](docs/WEBSITE-APP-INTELLIGENCE.md)
+- [Agentic Automation & Workflows](docs/AUTOMATION-WORKFLOWS.md)
+- [Memory, Continuity & Evolution](docs/MEMORY-EVOLUTION.md)
+- [Voice, Vision & Multimodal](docs/VOICE-MULTIMODAL.md)
+- [Knowledge & Data](docs/KNOWLEDGE-DATA.md)
+
+### Enterprise Readiness
+- [Deployment](docs/DEPLOYMENT.md)
+- [Interoperability](docs/INTEROPERABILITY.md)
+- [Governance, Observability & Evaluation](docs/GOVERNANCE-OBSERVABILITY.md)
+- [Security](docs/SECURITY.md)
+
+### Ecosystem & Market
+- [Developer Ecosystem](docs/DEVELOPER-ECOSYSTEM.md)
+- [Marketplace](docs/MARKETPLACE.md)
+- [Agent Commerce](docs/AGENT-COMMERCE.md)
+- [Industry Solutions](docs/INDUSTRY-SOLUTIONS.md)
+- [Global Go-To-Market](docs/GLOBAL-GO-TO-MARKET.md)
+- [Flagship Roadmap](docs/FLAGSHIP-ROADMAP.md)
+- [FAQ](docs/FAQ.md)
+
+### Search & AI Discovery
+- [Global SEO + GEO Strategy](seo/SEO-GEO-STRATEGY.md)
+- [Canonical Entity & Knowledge Graph](seo/ENTITY-KNOWLEDGE.md)
+- [Structured Data Template](seo/king-ai-sea-structured-data.jsonld)
+- [Machine-Readable Canonical Facts](llms.txt)
+
+---
+
+## 24 · Public Technology Boundary
+
+This repository does **not** publish KING AI SEA proprietary internals including private orchestration logic, proprietary memory implementation, self-evolution algorithms, internal security architecture, privileged control mechanisms, private prompts, production credentials, proprietary model-routing logic, unpublished infrastructure topology, internal policy-engine implementation or trade-secret workflows.
+
+The repository exists to explain **what KING AI SEA is, what it can become, who it serves, how it can be deployed, how it stays governed, and how its ecosystem can grow.**
+
+---
 
 <div align="center">
 
-### **AI That Lives, Learns and Evolves.**
-
+## **AI That Lives, Learns and Evolves.**
 ### **Think · Remember · Act · Evolve**
 
-**One intelligence for your digital world.**
-
-🌐 https://www.kingai.work  
-✉️ vip@kingai.work
+🌐 **https://www.kingai.work**  
+✉️ **vip@kingai.work**
 
 </div>
 
@@ -278,276 +553,358 @@ This is the direction of **persistent digital intelligence**.
 
 # ✦ 中文
 
-## 01 · 什么是 KING AI 智慧生命体 SEA？
+## 01 · 什么是 KING AI SEA？
 
-**KING AI 智慧生命体 SEA** 是面向 **个人与企业** 的下一代数字智慧生命体系统。
+**KING AI SEA** 是一个面向 **个人、企业、开发者、AI 员工、智慧网站、智慧 APP 和 Agentic 自动化** 的统一智慧生命体系统。
 
-它的目标不是再做一个聊天机器人，也不是再做一个只能回答问题的 AI 工具。
+它不只是聊天机器人，也不是一个孤立 AI 工具，而是希望成为长期存在于真实数字工作中的智慧层。
 
-KING AI 希望让 AI 真正进入用户的数字世界：理解目标、保留重要上下文、协同工作、连接经过授权的系统与工具、辅助真实任务执行，并随着长期使用越来越懂自己的主人或企业。
+KING AI SEA 可以成为：
 
-### **AI 不应该只会回答。AI 应该能够理解、协助、行动，并持续成长。**
+🧠 **个人第二大脑** · 🏢 **企业智慧生命体** · 🤖 **AI Workforce** · 🌐 **智慧网站** · 📱 **APP 智慧层** · ⚙️ **Agentic 自动化平台** · 🧑‍💻 **开发者智能体平台** · 🛡️ **受治理数字智慧**
 
-它可以成为你的：
+### 核心公开承诺
 
-🧠 **第二大脑** · 🤝 **AI伙伴** · 🛰️ **数字执行者** · 🧩 **AI员工团队** · 🛡️ **智慧守护者** · ⚙️ **自动化中心** · 📊 **决策助手** · 🌐 **数字分身**
+**理解目标 · 保留有效上下文 · 协调工作 · 在权限范围内行动 · 观察结果 · 持续优化**
 
 ---
 
-## 02 · 一种完全不同的 AI 体验
+## 02 · 一个统一系统，多种智慧形态
 
-普通 AI 等你提问。
+KING AI SEA 始终是一套统一系统，只是在不同环境中呈现不同智慧形态。
 
-KING AI SEA 更强调“长期陪伴 + 持续理解 + 实际协作”。
+### 👤 个人智慧
+成为长期第二大脑，帮助处理计划、知识、项目、沟通、研究、创作、技术工作和数字生活运营。
 
-你不需要每一次都重新解释自己是谁、公司在做什么、项目进行到哪里、什么事情最重要。
+### 🏢 企业智慧
+成为连接企业人员、AI 员工、知识、工作流、应用和运营信号的统一智慧层。
 
-它可以逐步了解你的目标、工作方式、项目、习惯、偏好和业务环境。
+### 🤖 AI 员工
+围绕客服、销售、市场、运营、财务、HR、IT、安全、管理和行业岗位形成专业数字员工。
 
-### 最终体验不再像“打开一个软件”，而更像是在和一个真正懂你工作方式的数字智慧体共同工作。
+### 🌐 智慧网站
+把企业官网升级为 7×24 小时在线的智慧入口，承担对话、搜索、获客、客服、预约、销售辅助、知识与转化。
 
-```mermaid
-flowchart LR
-    A[🎯 你的目标] --> B[🧠 理解]
-    B --> C[🧭 规划]
-    C --> D[⚙️ 行动]
-    D --> E[📡 观察结果]
-    E --> F[✨ 持续优化]
-    F --> B
+### 📱 智慧 APP
+进入 Web App、手机 App、SaaS 和企业内部软件，让用户通过自然语言和 Agentic Workflow 操作系统。
+
+### 🧑‍💻 开发者平台
+未来围绕 Agent、Workflow、Skill、Integration、API、应用内嵌和行业方案形成 Builder 生态。
+
+### 🏭 行业智慧
+针对酒店、物流、物业、养老管理、医疗行政、专业服务、电商、房地产、教育、SaaS 等行业形成专业智慧生命体。
+
+---
+
+## 03 · 从回答走向结果
+
+传统 AI 往往是：
+
+```text
+用户提问 → AI 回答 → 用户自己完成后续工作
 ```
 
-> 本项目仅展示对外能力与产品体验。核心实现、内部机制与专有技术不会在公开仓库中披露。
+KING AI SEA 的方向是：
+
+```text
+目标 → 理解 → 规划 → 协调 → 行动 → 观察 → 汇报 → 优化
+```
+
+真正的价值不是“回答得更漂亮”，而是：
+
+### 减少 **用户想完成什么** 与 **事情真正被完成** 之间的距离。
 
 ---
 
-## 03 · 面向个人：你的第二大脑
+## 04 · AI Workforce
 
-想象一下，你拥有一个长期在线的数字智慧体。
+企业可以围绕 KING AI SEA 建立完整 AI 数字员工体系：
 
-它知道你正在做什么，也知道哪些事情对你重要；它可以帮助你从“想到”走到“完成”。
+**管理层 → 客户体验 → 收入增长 → 企业运营 → 技术 → 安全 → 财务/HR/知识**。
 
-KING AI 可以帮助个人处理：
+企业升级路径可以是：
 
-- 🧠 长期知识与个人上下文
-- 📅 日程、提醒、优先级、待办与跟进
-- ✉️ 邮件理解、回复与沟通辅助
-- 📚 搜索、研究、学习和信息整理
-- 🗂️ 文档、笔记与知识管理
-- 🧑‍💻 技术支持与数字系统操作辅助
-- 🌍 出行、计划和决策支持
-- 💼 个人项目、创业和业务管理
-- 📈 长期目标与进度回顾
-- ✍️ 内容、创作、写作和灵感
-- 🛰️ 经授权的跨设备、跨服务协作
-- 🔔 对重要变化进行主动提醒
-
-### 未来，你不需要分别管理十几个工具。
-### 你只需要告诉 KING AI：**“这是我要达到的目标。”**
+**一个 Agent → 一个 AI 员工 → 一个部门 AI → 多 Agent 工作流 → AI Workforce → 企业智慧生命体**
 
 ---
 
-## 04 · 面向企业：建立属于自己的 AI Workforce
+## 05 · AI 员工
 
-企业真正需要的不是更多聊天窗口，而是能够进入业务流程的 **AI 数字劳动力**。
+公开 AI 员工类别包括：
 
-KING AI SEA 可以帮助企业把多个部门、流程、知识和系统连接到一个统一的智慧层中。
+- AI Chief of Staff
+- AI 前台
+- AI 客服
+- AI 销售开发
+- 客户成功 Agent
+- 市场 Agent
+- SEO/GEO Agent
+- 内容 Agent
+- 运营协调 Agent
+- 物流运营 Agent
+- 库存/采购 Agent
+- Developer Agent
+- DevOps / Cloud Agent
+- System Operations Agent
+- Website Operations Agent
+- Security Operations Agent
+- Audit Assistant
+- Finance Operations Agent
+- Invoice Agent
+- HR Service Agent
+- Recruiting Agent
+- 行业定制 AI 员工
 
-| 企业场景 | KING AI 可提供的价值 |
+每个角色都可以围绕职责、授权知识、工具、权限、工作流和人工升级规则进行配置。
+
+---
+
+## 06 · 个人第二大脑
+
+KING AI SEA 可以帮助个人处理：长期上下文、计划、提醒、邮件、研究、学习、文件、项目、创业、创作、技术、出行、决策、周期复盘、主动提醒以及经授权的跨服务数字操作。
+
+### 最终目标，是成为真正进入个人长期工作节奏的数字智慧。
+
+---
+
+## 07 · 智慧网站
+
+KING AI 网站不只展示内容，还可以理解访客意图。
+
+它可以提供：
+
+- 对话导航
+- 智慧搜索
+- 产品/服务发现
+- 获客
+- 线索资格判断
+- AI 前台
+- AI 客服
+- 预约/预订
+- 询价
+- 多语言
+- 推荐
+- 人工升级
+- 后续跟进
+
+在经过授权的系统连接下，一次网站对话可以继续变成 CRM 线索、客服工单、预约请求、销售任务或服务案件。
+
+---
+
+## 08 · 智慧 APP 与 SaaS
+
+KING AI SEA 可以进入 Web App、手机 App、SaaS 和企业软件。
+
+用户不必学习每个菜单，而可以直接说：
+
+> “告诉我今天最需要处理什么。”  
+> “生成本周报告。”  
+> “找出可能流失的客户并准备跟进。”  
+> “解释这个指标为什么变化。”
+
+产品可以加入 AI Copilot、行业 Agent、自然语言分析、Workflow Generation、AI onboarding、客服和可以执行动作的助手。
+
+---
+
+## 09 · Agentic 自动化与长任务
+
+KING AI SEA 可以支持：
+
+- 一次性任务
+- 周期任务
+- 定时任务
+- 事件驱动
+- 条件监控
+- 长时间任务
+- 审批驱动工作流
+- 多智能体工作流
+- Human-in-the-loop
+
+高级 Workflow 可以包含 Trigger、上下文、规划、Tool、专业 Agent、分支、等待、重试、Checkpoint、审批、人工升级和报告。
+
+---
+
+## 10 · 记忆、连续性与进化
+
+KING AI SEA 的长期工作不应该每次从零开始。
+
+公开体验包括：长期有效上下文、项目连续性、组织记忆、工作流历史、用户偏好、授权知识、结果感知和持续优化。
+
+统一 KING AI SEA 系统内部：
+
+- **Evolution OS** 是操作架构。
+- **SAE** 是受控自我进化机制。
+- **ACRE** 是主动防御/免疫系统安全概念。
+- **Root Policy Kernel** 是高权限策略与执行边界概念。
+
+它们都是 KING AI SEA 内部组成部分，不是互相分离的产品。
+
+核心专有实现不在公开仓库披露。
+
+---
+
+## 11 · 语音、视觉和多模态
+
+KING AI SEA 可以扩展到：实时语音、AI 电话前台、语音客服、多语言语音、图片理解、截图分析、文档理解、照片/文件录入、屏幕辅助和多模态工作流。
+
+目标是让智慧以最自然的方式出现在当前场景里，而不是强迫所有事情都通过聊天框完成。
+
+---
+
+## 12 · 企业知识与数据智慧
+
+KING AI SEA 可以连接经过授权的企业制度、SOP、产品资料、项目历史、客户知识、技术文档、财务/HR/行政资料、数据库和企业系统。
+
+员工可以通过自然语言进行企业搜索、获取带来源意识的摘要、理解历史上下文、查看 KPI 摘要、异常解释、管理报表，并进一步把知识转化成经过授权的行动。
+
+---
+
+## 13 · AI Control Center
+
+真正的 AI Workforce 必须拥有统一控制平面。
+
+KING AI SEA Control Center 可以包括：
+
+- 管理层总览
+- Agent Registry
+- Mission & Task Center
+- Approval Center
+- Workflow Center
+- Knowledge Center
+- Integration Center
+- Governance Center
+- Observability Center
+- Evaluation Center
+- Cost & Resource Center
+- Deployment Center
+
+### 获得更强智慧，不应该以失去控制为代价。
+
+---
+
+## 14 · 治理、安全与人类最终权力
+
+KING AI SEA 的公开治理原则包括：明确所有者、权限范围、最小必要访问、敏感动作审批、Human-in-the-loop、职责分离、审计、环境边界、凭据保护、人工升级、质量衡量和恢复计划。
+
+### **自动化范围、执行权限与安全边界由使用者或企业设定。**
+
+---
+
+## 15 · 可观测与评估
+
+企业级 AI 必须可衡量。
+
+可以观察：Agent 活动、Workflow 状态、Tool 使用、成功率、失败率、延迟、重试、审批、人工升级、用量、成本、质量指标、回归测试和商业结果。
+
+目标是：
+
+### **可观察、可控制、可持续优化的智慧。**
+
+---
+
+## 16 · 智能体互联
+
+KING AI SEA 面向多厂商、多模型、多工具、多 Agent 的世界。
+
+公开产品方向包括：API、Webhook、Tool/Function Calling、MCP 类连接、Agent-to-Agent 互操作、企业连接器、事件驱动、多模型适配和应用内嵌。
+
+具体模型路由和内部调度逻辑不公开。
+
+---
+
+## 17 · 开发者生态
+
+未来开发者可以围绕 KING AI SEA 构建：
+
+- Agent Builder
+- Workflow Builder
+- Skills
+- Tools
+- API / SDK
+- Knowledge Connections
+- Event Triggers
+- Approval Workflows
+- App Embedding
+- Observability Hooks
+- Evaluation Interfaces
+- Deployment Templates
+- Agent Interoperability
+
+开发者可以扩展生态，而不需要接触 KING AI 的核心专有技术。
+
+---
+
+## 18 · Agent / Skill Marketplace
+
+未来可以分发经过审核的：AI 员工、行业 Agent、Skills、Workflow Packs、Integrations、Knowledge Packs、网站 Agent、APP 组件和自动化模板。
+
+每个扩展都应该具备清晰版本、权限、审核和访问说明。
+
+---
+
+## 19 · Agent Commerce
+
+KING AI SEA 可以支持受治理的产品发现、推荐、报价、预约、预订、采购、发票、订阅、续费和订单协调流程。
+
+涉及资金的操作需要适当授权和合规的外部支付基础设施。
+
+---
+
+## 20 · 行业方案
+
+公开行业方向包括：酒店、物流、物业、养老管理、医疗行政、专业服务、法律运营辅助、房地产、零售电商、餐饮、教育、SaaS、制造、现场服务、旅游和媒体等。
+
+真正的行业方案必须使用行业专属工作流、术语、权限和可衡量业务结果，而不是简单替换关键词。
+
+---
+
+## 21 · 全部署形态
+
+可以覆盖云端、独立 VPS、私有云、企业自有基础设施、混合云/私有环境、业务隔离环境、多地区部署以及合适情况下的本地/边缘智慧。
+
+最终部署取决于隐私、治理、延迟、集成和商业要求。
+
+---
+
+## 22 · 产品形态
+
+所有版本仍然属于同一 KING AI SEA 系统：
+
+| 版本 | 核心用途 |
 |---|---|
-| 👔 管理层 | 经营摘要、决策辅助、重点事项、风险提示 |
-| 💬 客户服务 | 7×24 服务、分流、跟进、知识调用 |
-| 📈 销售 | 线索、跟进、CRM协助、机会管理 |
-| 📣 市场 | 内容、SEO、活动、研究、发布流程 |
-| 🧑‍💻 IT | 系统检查、部署辅助、诊断、报告 |
-| 🛡️ 安全 | 监控、异常提醒、事件辅助、审计支持 |
-| 💳 财务 | 报表、发票、对账流程、数据分析 |
-| 🧑‍🤝‍🧑 HR | 员工知识、入职、制度、流程辅助 |
-| ⚙️ 运营 | SOP、自动化、任务分配、状态报告 |
-| 📊 管理 | 统一视图、预警、摘要和经营智能 |
-
-最终企业形成：
-
-## **Human Team + AI Team**
-
-人类负责方向、创造力、关系与最终决策。
-
-AI 负责信息、重复劳动、执行辅助、监控、整理和持续协作。
+| 👤 Personal | 第二大脑与私人数字智慧 |
+| 💼 Professional | 创业者、创作者、顾问、独立经营者 |
+| 🏢 Business | AI 员工与团队自动化 |
+| 🏛️ Enterprise | AI Workforce、私有部署、治理与深度集成 |
+| 🧑‍💻 Developer | Agentic 应用、Tools、Workflows 与 Integrations |
+| 🏭 Industry | 深度行业智慧生命体方案 |
+| 🌐 Website Intelligence | AI 智慧官网 |
+| 📱 Application Intelligence | APP / SaaS 内嵌智慧 |
 
 ---
 
-## 05 · 不只是一个 Agent，而是一支数字智慧团队
+## 23 · 完整文档
 
-KING AI SEA 可以围绕企业不同岗位组织出多个专业 AI 角色，同时对用户保持一个统一的智慧入口。
-
-```mermaid
-flowchart TD
-    K[👑 KING AI 智慧生命体] --> M[🧠 主智慧中枢]
-    M --> E[👔 管理智慧]
-    M --> C[💬 客户智慧]
-    M --> O[⚙️ 运营智慧]
-    M --> T[🧑‍💻 技术智慧]
-    M --> S[🛡️ 安全智慧]
-    M --> G[📈 增长智慧]
-
-    E --> R1[决策与经营报告]
-    C --> R2[服务与客户跟进]
-    O --> R3[流程与自动化]
-    T --> R4[系统与部署]
-    S --> R5[监控与风险]
-    G --> R6[销售与市场]
-```
-
-每个智慧角色都可以围绕企业自己的职责、权限和工具进行配置。
+从 [Documentation Hub](docs/INDEX.md) 可以进入完整公开知识库，包括旗舰总蓝图、AI 员工、AI Control Center、个人、企业、智慧网站/APP、自动化、记忆进化、多模态、知识数据、部署、互联、治理、开发者生态、Marketplace、Agent Commerce、行业、全球市场、路线图、FAQ、SEO/GEO 和机器可读品牌信息。
 
 ---
 
-## 06 · 用户真正感受到的七大能力
+## 24 · 公开技术边界
 
-### 🧠 懂你
-不是只理解一句话，而是尽量理解你的目标、背景、优先级和真实意图。
+本公开仓库不会披露 KING AI SEA 的私有调度逻辑、专有记忆实现、自进化算法、内部安全架构、高权限控制机制、私有提示、生产凭据、专有模型路由、未公开基础设施拓扑、内部策略引擎实现以及商业机密工作流。
 
-### 🧬 记得你
-重要信息可以形成长期上下文，让下一次协作不需要从零开始。
+这个仓库负责告诉世界：
 
-### ⚙️ 帮你做
-在用户授权范围内，连接不同系统、工具和流程，协助真实任务执行。
-
-### 🧭 帮你管
-把复杂目标整理成任务、节点和行动路径，减少混乱和遗漏。
-
-### 📡 帮你看
-持续关注经过授权的状态、变化和重要事件，把真正需要注意的事情推到你面前。
-
-### ✨ 越来越懂你
-随着长期使用，逐渐适应个人或企业的工作方式。
-
-### 🛡️ 你永远拥有控制权
-KING AI 的自动化范围、执行权限与安全边界由使用者设定。
-
----
-
-## 07 · 从“答案”走向“结果”
-
-传统 AI：
-
-```text
-你提问 → AI回答 → 你自己继续完成所有工作
-```
-
-KING AI SEA：
-
-```text
-你给出目标 → KING AI理解 → 协调任务 → 协助执行 → 汇报结果
-```
-
-真正的价值不是多回答几个问题。
-
-而是：
-
-### **缩短“我想要”与“事情真正完成”之间的距离。**
-
----
-
-## 08 · 企业级私有智慧环境
-
-企业可以把 KING AI SEA 建设成属于自己的私有智慧环境。
-
-可面向：
-
-- ☁️ 云端部署
-- 🖥️ 私有 VPS
-- 🏢 企业私有基础设施
-- 🔐 内部受控环境
-- 🧠 云端 + 本地混合智能
-- 🌐 多业务系统协同
-
-公开项目不会披露：内部调度机制、记忆实现、专有安全机制、私有提示体系、模型选择逻辑、自进化实现、核心权限控制等专有技术。
-
----
-
-## 09 · 会随着你一起成长的数字智慧体
-
-普通软件安装以后，功能基本固定。
-
-KING AI SEA 的产品方向不同。
-
-随着长期使用，它可以逐步积累经授权的知识、项目上下文、工作流程、用户偏好和运营理解。
-
-### 第 1 天：它开始了解你。
-### 第 30 天：它开始熟悉你的规律。
-### 第 100 天：它开始成为你工作方式的一部分。
-
-这就是 **持续存在的数字智慧**。
-
----
-
-## 10 · 高价值应用场景
-
-### 👤 个人
-- 个人第二大脑
-- 私人高阶助理
-- 知识与研究伙伴
-- 项目管理伙伴
-- 数字生活管理
-- 个人数字身份助手
-- 技术与系统助手
-- 长期目标伙伴
-
-### 🏢 企业
-- AI 客服团队
-- AI 销售运营
-- AI 市场运营
-- AI 商业智能
-- AI 高管助理层
-- AI IT 运维
-- AI 工作流自动化
-- AI 企业知识中心
-- AI 运营控制中心
-
-### 🧑‍💻 开发者与创业者
-- 智慧 Agent 应用
-- 企业流程编排
-- 定制 AI 执行者
-- AI SaaS 产品
-- 私有 AI 系统
-- 垂直行业 AI 解决方案
-
----
-
-## 11 · KING AI 的品牌承诺
-
-<div align="center">
-
-# **会思考，会行动，会成长。**
-
-### **Think · Remember · Act · Evolve**
-
-### **一个智慧生命体，连接你的整个数字世界。**
-
-🌐 https://www.kingai.work  
-✉️ vip@kingai.work
-
-</div>
-
----
-
-## ✦ Public Project Notice / 公开项目说明
-
-This repository is a **public-facing product and brand presentation** for KING AI SEA. It intentionally focuses on capabilities, user value, deployment scenarios and business vision.
-
-Proprietary implementation details are intentionally excluded.
-
-本仓库为 **KING AI 智慧生命体 SEA 的对外品牌与产品展示项目**，重点介绍能力、用户价值、应用场景与商业愿景。
-
-核心实现与专有技术不在公开项目中披露。
+### **KING AI SEA 是什么、能够做什么、服务谁、如何部署、如何受控，以及智慧生命体生态未来将走向哪里。**
 
 ---
 
 <div align="center">
 
-**👑 KING AI · SEA**  
-**The Intelligent Lifeform for People & Enterprises**
+## **AI That Lives, Learns and Evolves.**
+### **会思考 · 会记忆 · 会行动 · 会成长**
 
-🌐 **www.kingai.work** · ✉️ **vip@kingai.work**
+🌐 **https://www.kingai.work**  
+✉️ **vip@kingai.work**
 
 </div>
