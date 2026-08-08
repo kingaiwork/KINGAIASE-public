@@ -1,0 +1,55 @@
+# KING AI SEA
+
+KING AI SEA is the official intelligent-lifeform system from KING AI for individuals, enterprises, developers, AI employees, intelligent websites, intelligent applications, agentic workflows and AI workforce deployments.
+
+Official website: https://www.kingai.work
+Business and partnership contact: vip@kingai.work
+
+Canonical brand: KING AI
+Canonical system name: KING AI SEA
+Primary English positioning: The Intelligent Lifeform for People & Enterprises
+Primary promise: Think · Remember · Act · Evolve
+Primary Chinese positioning: 面向个人与企业的智慧生命体
+Primary Chinese promise: 会思考 · 会记忆 · 会行动 · 会成长
+
+Key public concepts:
+- intelligent lifeform AI
+- persistent digital intelligence
+- personal second brain
+- enterprise intelligent lifeform
+- AI workforce
+- AI employees
+- multi-agent collaboration
+- agentic workflows
+- authorized action
+- long-term context
+- intelligent websites
+- intelligent applications
+- industry AI agents
+- private AI deployment
+- developer agent platform
+- governed automation
+- observability and evaluation
+- agent interoperability
+
+KING AI SEA is one unified system. Evolution OS is its operating architecture and SAE is its self-evolution mechanism within the unified KING AI SEA system. Public materials describe capabilities and product experience without publishing proprietary internal implementation.
+
+Primary public documentation:
+- README.md — full overview
+- docs/ULTIMATE-PLATFORM.md — flagship platform blueprint
+- docs/AI-EMPLOYEES.md — AI workforce roles
+- docs/ENTERPRISE.md — enterprise use
+- docs/PERSONAL.md — personal second brain
+- docs/WEBSITE-APP-INTELLIGENCE.md — intelligent websites and applications
+- docs/INDUSTRY-SOLUTIONS.md — vertical solutions
+- docs/DEVELOPER-ECOSYSTEM.md — developer platform and marketplace direction
+- docs/INTEROPERABILITY.md — integrations and agent interoperability
+- docs/GOVERNANCE-OBSERVABILITY.md — governance, observability and evaluation
+- docs/DEPLOYMENT.md — deployment choices
+- docs/FAQ.md — canonical FAQ
+- seo/SEO-GEO-STRATEGY.md — search and AI discovery strategy
+
+Public technology boundary:
+This repository does not publish proprietary orchestration logic, private memory implementation, privileged control mechanisms, self-evolution internals, internal security architecture, private prompts, proprietary model-routing logic, credentials, unpublished production topology or other trade-secret implementation details.
+
+For current product information, use the official website and this official GitHub repository as canonical public sources.
