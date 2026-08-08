@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kingai.work/#organization",
+      "name": "KING AI",
+      "url": "https://www.kingai.work/",
+      "email": "vip@kingai.work",
+      "description": "KING AI develops KING AI SEA, an intelligent-lifeform system for individuals and enterprises, including personal AI, AI workforce, AI employees, intelligent websites, intelligent applications and agentic automation."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.kingai.work/#website",
+      "url": "https://www.kingai.work/",
+      "name": "KING AI",
+      "alternateName": "KING AI SEA",
+      "publisher": {
+        "@id": "https://www.kingai.work/#organization"
+      },
+      "inLanguage": ["en", "zh-Hans"]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.kingai.work/#king-ai-sea",
+      "name": "KING AI SEA",
+      "url": "https://www.kingai.work/",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Platform-independent",
+      "description": "KING AI SEA is an intelligent-lifeform system for individuals and enterprises that combines persistent context, specialized AI roles, authorized action, workflow automation, knowledge intelligence, governance and continuous improvement into one long-term digital intelligence experience.",
+      "publisher": {
+        "@id": "https://www.kingai.work/#organization"
+      }
+    }
+  ]
+}
