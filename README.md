@@ -11,10 +11,10 @@
 🌐 **Official Website:** https://www.kingai.work  
 ✉️ **Business & Partnership:** vip@kingai.work
 
-![Intelligent Lifeform](https://img.shields.io/badge/INTELLIGENT-LIFEFORM-0f172a?style=for-the-badge)
-![AI Workforce](https://img.shields.io/badge/AI-WORKFORCE-312e81?style=for-the-badge)
-![Governed AI](https://img.shields.io/badge/GOVERNED-AI-111827?style=for-the-badge)
-![Enterprise](https://img.shields.io/badge/ENTERPRISE-READY-1e1b4b?style=for-the-badge)
+[![Intelligent Lifeform](https://img.shields.io/badge/INTELLIGENT-LIFEFORM-0f172a?style=for-the-badge)](docs/INTELLIGENT-LIFEFORM-VISION.md)
+[![AI Workforce](https://img.shields.io/badge/AI-WORKFORCE-312e81?style=for-the-badge)](docs/AI-WORKFORCE-OPERATING-MODEL.md)
+[![Trust Center](https://img.shields.io/badge/TRUST-CENTER-111827?style=for-the-badge)](docs/TRUST-CENTER.md)
+[![Documentation](https://img.shields.io/badge/FULL-DOCUMENTATION-1e1b4b?style=for-the-badge)](docs/INDEX.md)
 
 > **Give ordinary AI a question. Give KING AI SEA a mission.**
 
@@ -24,7 +24,151 @@
 
 # ✦ ENGLISH
 
-## What is KING AI SEA?
+## Quick Navigation
+
+[**Overview**](#overview) · [**Intelligent Lifeform**](docs/FINAL-FLAGSHIP-BLUEPRINT.md) · [**Personal AI**](docs/PERSONAL.md) · [**Enterprise**](docs/ENTERPRISE.md) · [**AI Workforce**](docs/AI-WORKFORCE-OPERATING-MODEL.md) · [**AI Employees**](docs/AI-EMPLOYEE-ROLE-LIBRARY.md) · [**Trust**](docs/TRUST-CENTER.md) · [**Industries**](seo/industry-packs/INDEX.md) · [**Developers**](docs/DEVELOPER-ECOSYSTEM.md) · [**SEO / GEO**](seo/GEO-KNOWLEDGE-GRAPH.md) · [**Full Docs**](docs/INDEX.md)
+
+## Explore KING AI SEA
+
+<details open>
+<summary><b>👑 Intelligent Lifeform Core</b></summary>
+
+- [Final Flagship Blueprint](docs/FINAL-FLAGSHIP-BLUEPRINT.md)
+- [Intelligent Lifeform Vision](docs/INTELLIGENT-LIFEFORM-VISION.md)
+- [Lifecycle](docs/INTELLIGENT-LIFEFORM-LIFECYCLE.md)
+- [Capability Map](docs/CAPABILITY-MAP.md)
+- [Public Architecture](docs/PUBLIC-ARCHITECTURE.md)
+- [Solution Architecture Templates](docs/SOLUTION-ARCHITECTURE-TEMPLATES.md)
+- [Product Status Matrix](docs/PRODUCT-STATUS-MATRIX.md)
+
+</details>
+
+<details>
+<summary><b>👤 Personal Intelligence — Second Brain</b></summary>
+
+- [Personal Intelligence](docs/PERSONAL.md)
+- [Memory, Continuity & Evolution](docs/MEMORY-EVOLUTION.md)
+- [Knowledge & Data Intelligence](docs/KNOWLEDGE-DATA.md)
+- [Voice, Vision & Multimodal](docs/VOICE-MULTIMODAL.md)
+
+</details>
+
+<details>
+<summary><b>🏢 Enterprise Intelligence & AI Workforce</b></summary>
+
+- [Enterprise Intelligence](docs/ENTERPRISE.md)
+- [AI Workforce Operating Model](docs/AI-WORKFORCE-OPERATING-MODEL.md)
+- [AI Workforce Maturity Model](docs/AI-WORKFORCE-MATURITY-MODEL.md)
+- [AI Control Center](docs/AI-CONTROL-CENTER.md)
+- [120+ AI Employee Role Library](docs/AI-EMPLOYEE-ROLE-LIBRARY.md)
+- [60 AI Employee Landing Knowledge Packs](seo/role-packs/INDEX.md)
+- [AI Workforce KPI Library](docs/AI-WORKFORCE-KPI-LIBRARY.md)
+
+</details>
+
+<details>
+<summary><b>🛡️ Trust, Security & Governance</b></summary>
+
+- [Trust Center](docs/TRUST-CENTER.md)
+- [Enterprise Security Questionnaire](docs/SECURITY-QUESTIONNAIRE.md)
+- [Enterprise Operating Governance](docs/ENTERPRISE-OPERATING-GOVERNANCE.md)
+- [Trust Evidence Catalog](docs/TRUST-EVIDENCE-CATALOG.md)
+- [Data Governance & Readiness](docs/DATA-GOVERNANCE-READINESS.md)
+- [Incident Response & Human Override](docs/INCIDENT-RESPONSE-HUMAN-OVERRIDE.md)
+- [Responsible Deployment Standard](docs/RESPONSIBLE-DEPLOYMENT-STANDARD.md)
+- [Compliance Positioning](docs/COMPLIANCE-POSITIONING.md)
+
+</details>
+
+<details>
+<summary><b>⚙️ Missions, Automation, Integrations & Deployment</b></summary>
+
+- [Agentic Automation & Workflows](docs/AUTOMATION-WORKFLOWS.md)
+- [Mission Design Standard](docs/MISSION-DESIGN-STANDARD.md)
+- [Role Design Standard](docs/ROLE-DESIGN-STANDARD.md)
+- [Integration Catalog](docs/INTEGRATION-CATALOG.md)
+- [Integration Design Standard](docs/INTEGRATION-DESIGN-STANDARD.md)
+- [Interoperability](docs/INTEROPERABILITY.md)
+- [Deployment](docs/DEPLOYMENT.md)
+- [Global Deployment Guide](docs/GLOBAL-DEPLOYMENT-GUIDE.md)
+
+</details>
+
+<details>
+<summary><b>🌐 Intelligent Websites, Apps & Digital Presence</b></summary>
+
+- [Website & App Intelligence](docs/WEBSITE-APP-INTELLIGENCE.md)
+- [Knowledge & Data](docs/KNOWLEDGE-DATA.md)
+- [Voice / Vision / Multimodal](docs/VOICE-MULTIMODAL.md)
+- [Agent Commerce](docs/AGENT-COMMERCE.md)
+
+</details>
+
+<details>
+<summary><b>🏭 Industries — 39 GEO Knowledge Packs + 66 Scenarios</b></summary>
+
+- [39 Industry GEO Knowledge Packs](seo/industry-packs/INDEX.md)
+- [66 Industry Scenario Library](docs/INDUSTRY-SCENARIO-LIBRARY.md)
+- [Industry Solutions](docs/INDUSTRY-SOLUTIONS.md)
+- [Use Cases](docs/USE-CASES.md)
+
+</details>
+
+<details>
+<summary><b>🧑‍💻 Developers, Marketplace & Partner Ecosystem</b></summary>
+
+- [Developer Ecosystem](docs/DEVELOPER-ECOSYSTEM.md)
+- [Marketplace](docs/MARKETPLACE.md)
+- [Agent Commerce](docs/AGENT-COMMERCE.md)
+- [Global Partner Ecosystem](docs/PARTNER-ECOSYSTEM.md)
+- [Partner Certification Framework](docs/PARTNER-CERTIFICATION-FRAMEWORK.md)
+
+</details>
+
+<details>
+<summary><b>📊 Enterprise Buying, Pilot, ROI & Evaluation</b></summary>
+
+- [Enterprise Buyer Guide](docs/ENTERPRISE-BUYER-GUIDE.md)
+- [Architecture Assessment](docs/ENTERPRISE-ARCHITECTURE-ASSESSMENT.md)
+- [Enterprise RFP Template](docs/ENTERPRISE-RFP-TEMPLATE.md)
+- [Procurement Checklist](docs/PROCUREMENT-CHECKLIST.md)
+- [Enterprise Readiness Scorecard](docs/ENTERPRISE-READINESS-SCORECARD.md)
+- [30 / 60 / 90 Pilot Playbook](docs/ENTERPRISE-PILOT-PLAYBOOK.md)
+- [Implementation & Acceptance](docs/IMPLEMENTATION-ACCEPTANCE-FRAMEWORK.md)
+- [Benchmark & Evaluation](docs/BENCHMARK-EVALUATION-FRAMEWORK.md)
+- [ROI Framework](docs/USE-CASE-ROI-FRAMEWORK.md)
+
+</details>
+
+<details>
+<summary><b>🔎 SEO, GEO & AI Search Knowledge</b></summary>
+
+- [GEO / AI Search Knowledge Graph](seo/GEO-KNOWLEDGE-GRAPH.md)
+- [AI Search Answer Map](seo/AI-SEARCH-ANSWER-MAP.md)
+- [SEO + GEO Strategy](seo/SEO-GEO-STRATEGY.md)
+- [Website Page Map](seo/WEBSITE-PAGE-MAP.md)
+- [Canonical Entity Knowledge](seo/ENTITY-KNOWLEDGE.md)
+- [Canonical FAQ JSON-LD](seo/canonical-faq.jsonld)
+- [Knowledge Graph JSON-LD](seo/king-ai-sea-knowledge-graph.jsonld)
+- [Machine-Readable Public Facts](llms.txt)
+
+</details>
+
+<details>
+<summary><b>📚 Full Knowledge Center</b></summary>
+
+- [Final Documentation Hub](docs/INDEX.md)
+- [Master Knowledge Catalog](docs/MASTER-KNOWLEDGE-CATALOG.md)
+- [210+ Canonical Bilingual Q&A](docs/CANONICAL-QA-LIBRARY.md)
+- [Source of Truth Map](docs/SOURCE-OF-TRUTH-MAP.md)
+- [Final Website Information Architecture](docs/FINAL-WEBSITE-INFORMATION-ARCHITECTURE.md)
+
+</details>
+
+---
+
+<a id="overview"></a>
+## Overview
 
 **KING AI SEA** is a unified persistent intelligent-lifeform system for individuals, businesses, enterprises and developers.
 
@@ -32,343 +176,264 @@ It is designed to move beyond isolated chat sessions and single-purpose agents b
 
 **understand goals → preserve useful continuity → plan missions → coordinate specialized AI roles → connect approved systems → assist with or execute authorized digital work → observe outcomes → learn from feedback → evolve under control.**
 
-KING AI SEA is the mother system. Its other public forms are extensions of the same intelligent lifeform:
+KING AI SEA is the mother system. Personal AI, AI Workforce, AI Employees, Website AI, App AI, automation, industry intelligence and developer experiences are extensions of the same intelligent lifeform.
 
-- 👤 **Personal Intelligence** — second brain and persistent digital intelligence.
-- 🏢 **Enterprise Intelligence** — organization-wide intelligence and AI Workforce.
-- 🤖 **AI Employees** — specialized digital roles with missions, tools, permissions and human ownership.
-- 🛰️ **AI Control Center** — governance, mission, approval, observability and workforce control plane.
-- 🌐 **Website Intelligence** — intelligent digital front door for service, sales, booking and support.
-- 📱 **App Intelligence** — natural-language and agentic intelligence embedded in software.
-- ⚙️ **Agentic Automation** — recurring, event-driven and long-running governed workflows.
-- 📚 **Knowledge & Data Intelligence** — approved knowledge and operational context.
-- 🎙️ **Voice / Vision / Multimodal** — intelligence beyond the text box.
-- 🏭 **Industry Intelligence** — vertical mission and workforce patterns.
-- 🧑‍💻 **Developer Ecosystem** — builders, integrations, skills and embedded experiences.
-- 🧩 **Marketplace / Agent Commerce** — ecosystem and commercial direction, clearly labeled by product status.
-
-## The Intelligent-Lifeform Core
-
-Publicly, KING AI SEA is organized around:
+### Intelligent-Lifeform Core
 
 **Intelligence · Identity · Continuity · Mission · Action · Observation · Learning · Controlled Evolution · Governance**
 
 Within the unified system:
 
-- **Evolution OS** is the operating architecture concept.
-- **SAE** is the controlled self-evolution mechanism concept.
-- **ACRE** is the active-defense / immune-system security concept.
-- **Root Policy Kernel** is the high-authority policy and execution-boundary concept.
+- **Evolution OS** — operating architecture concept inside KING AI SEA.
+- **SAE** — controlled self-evolution mechanism concept inside KING AI SEA.
+- **ACRE** — active-defense / immune-system security concept inside KING AI SEA.
+- **Root Policy Kernel** — high-authority policy and execution-boundary concept inside KING AI SEA.
 
-These are not separate competing products. Their proprietary implementation remains private.
+These are not separate competing products. Proprietary implementation remains private.
 
-## From Answer to Outcome
-
-Traditional AI often follows:
+### From Answer to Outcome
 
 ```text
+Traditional AI:
 Prompt → Answer → Human does the work
+
+KING AI SEA:
+Mission → Understand → Plan → Coordinate → Act → Observe → Learn → Improve
 ```
 
-KING AI SEA is designed around:
+### Public Knowledge Scale
 
-```text
-Goal
-  ↓
-Understand
-  ↓
-Plan Mission
-  ↓
-Coordinate Roles + Knowledge + Approved Tools
-  ↓
-Approval Where Required
-  ↓
-Authorized Action
-  ↓
-Observe Outcome
-  ↓
-Evaluate
-  ↓
-Controlled Improvement
-```
+| Area | Public Coverage |
+|---|---:|
+| AI Employee role patterns | 120+ |
+| AI Employee landing knowledge packs | 60 |
+| Industry scenarios | 66 |
+| Industry GEO knowledge packs | 39 |
+| Canonical bilingual Q&A | 210+ |
+| Enterprise governance / delivery frameworks | Full suite |
 
-## Enterprise AI Workforce
+### Public Technology Boundary
 
-A production AI Workforce is not a collection of prompts. Each role should have:
+This repository explains product capabilities, user experience, public architecture, enterprise governance, deployment patterns, roles, missions, industries and commercial frameworks.
 
-**Role · Mission · Human Owner · Knowledge Scope · Tool Scope · Permission Level · Approval Rules · Escalation · KPI · Evaluation · Prohibited Actions**
-
-This repository includes:
-
-- **120+ public AI Employee role patterns**
-- **60 role-specific landing knowledge packs**
-- **60+ public industry scenarios**
-- **39 industry GEO knowledge packs**
-- **210+ canonical Q&A pairs**
-- enterprise buyer, RFP, security and architecture-assessment frameworks
-- pilot, maturity, KPI, ROI, benchmark and acceptance frameworks
-- governance, data, integration, incident, support and change-management standards
-
-## Trust & Control
-
-### **More intelligence should come with more control, not less.**
-
-KING AI SEA public architecture supports the principle that automation scope, execution permissions, approval requirements and security boundaries are defined by the user or organization.
-
-Recommended action ladder:
-
-**Observe → Analyze → Recommend → Draft → Bounded Execute → Execute With Approval → Human-Only / Restricted**
-
-## Public Architecture vs Proprietary Core
-
-This repository intentionally explains:
-
-- capabilities
-- product layers
-- public architecture
-- user journeys
-- enterprise operating models
-- mission / role / integration design
-- governance and trust
-- deployment patterns
-- industry scenarios
-- evaluation and commercialization frameworks
-
-It intentionally does **not** publish:
-
-- private system prompts
-- proprietary orchestration logic
-- model-routing policy
-- memory internal data structures
-- retrieval internals
-- SAE algorithms or scoring
-- ACRE detection logic
-- Root Policy Kernel implementation
-- privileged execution mechanisms
-- credentials or secrets
-- private APIs / endpoints
-- internal database schemas
-- production topology
-- security-sensitive operational detail
-
-## Start Here
-
-### Intelligent Lifeform
-- [Final Flagship Blueprint](docs/FINAL-FLAGSHIP-BLUEPRINT.md)
-- [Intelligent Lifeform Vision](docs/INTELLIGENT-LIFEFORM-VISION.md)
-- [Lifecycle](docs/INTELLIGENT-LIFEFORM-LIFECYCLE.md)
-- [Capability Map](docs/CAPABILITY-MAP.md)
-- [Public Architecture](docs/PUBLIC-ARCHITECTURE.md)
-- [Solution Architecture Templates](docs/SOLUTION-ARCHITECTURE-TEMPLATES.md)
-
-### Enterprise
-- [Enterprise](docs/ENTERPRISE.md)
-- [Buyer Guide](docs/ENTERPRISE-BUYER-GUIDE.md)
-- [Architecture Assessment](docs/ENTERPRISE-ARCHITECTURE-ASSESSMENT.md)
-- [Enterprise RFP](docs/ENTERPRISE-RFP-TEMPLATE.md)
-- [Security Questionnaire](docs/SECURITY-QUESTIONNAIRE.md)
-- [Trust Center](docs/TRUST-CENTER.md)
-- [AI Workforce Operating Model](docs/AI-WORKFORCE-OPERATING-MODEL.md)
-- [AI Workforce Maturity Model](docs/AI-WORKFORCE-MATURITY-MODEL.md)
-- [Pilot Playbook](docs/ENTERPRISE-PILOT-PLAYBOOK.md)
-- [Implementation & Acceptance](docs/IMPLEMENTATION-ACCEPTANCE-FRAMEWORK.md)
-- [Benchmark & Evaluation](docs/BENCHMARK-EVALUATION-FRAMEWORK.md)
-- [KPI Library](docs/AI-WORKFORCE-KPI-LIBRARY.md)
-- [ROI Framework](docs/USE-CASE-ROI-FRAMEWORK.md)
-
-### Workforce & Industries
-- [120+ AI Employee Role Library](docs/AI-EMPLOYEE-ROLE-LIBRARY.md)
-- [60 AI Employee Landing Packs](seo/role-packs/INDEX.md)
-- [66 Industry Scenario Library](docs/INDUSTRY-SCENARIO-LIBRARY.md)
-- [39 Industry GEO Packs](seo/industry-packs/INDEX.md)
-
-### Search & AI Discovery
-- [GEO Knowledge Graph](seo/GEO-KNOWLEDGE-GRAPH.md)
-- [AI Search Answer Map](seo/AI-SEARCH-ANSWER-MAP.md)
-- [Canonical FAQ JSON-LD](seo/canonical-faq.jsonld)
-- [Website Information Architecture](seo/FINAL-WEBSITE-INFORMATION-ARCHITECTURE.md)
-- [Source of Truth Map](seo/SOURCE-OF-TRUTH-MAP.md)
-- [Machine-Readable Canonical Facts](llms.txt)
-
-### Full Navigation
-- [Documentation Hub](docs/INDEX.md)
-- [Master Knowledge Catalog](docs/MASTER-KNOWLEDGE-CATALOG.md)
-- [Final Delivery Checklist](docs/FINAL-DELIVERY-CHECKLIST.md)
-
-## Public Truthfulness Standard
-
-KING AI SEA public materials distinguish:
-
-**Available · Custom-by-Scope · In Development · Planned · Vision · Retired**
-
-The repository does not treat roadmap ideas as released features and does not fabricate customers, partners, certifications, benchmark numbers or performance claims.
+It does **not** publish proprietary orchestration logic, private memory implementation, internal model routing, SAE algorithms, evolution scoring, ACRE detection logic, Root Policy Kernel implementation, privileged execution mechanisms, credentials, private endpoints, internal database structures or production topology.
 
 ---
 
-# ✦ 中文
+# 中文
 
-## KING AI SEA 是什么？
+## 快速导航
 
-**KING AI SEA 是面向个人、企业和开发者的统一持续型智慧生命体系统。**
+[**项目总览**](#项目总览) · [**智慧生命体核心**](docs/FINAL-FLAGSHIP-BLUEPRINT.md) · [**个人第二大脑**](docs/PERSONAL.md) · [**企业智慧**](docs/ENTERPRISE.md) · [**AI Workforce**](docs/AI-WORKFORCE-OPERATING-MODEL.md) · [**AI 员工**](docs/AI-EMPLOYEE-ROLE-LIBRARY.md) · [**Trust Center**](docs/TRUST-CENTER.md) · [**行业方案**](seo/industry-packs/INDEX.md) · [**开发者生态**](docs/DEVELOPER-ECOSYSTEM.md) · [**SEO / GEO**](seo/GEO-KNOWLEDGE-GRAPH.md) · [**完整文档中心**](docs/INDEX.md)
 
-它的目标不是成为另一个只能等待提问的聊天机器人，也不是把几十个孤立 Agent 拼在一起，而是形成一个能够长期存在于个人或企业数字世界中的智慧层：
+## 浏览 KING AI SEA
 
-**理解目标 → 保留连续性 → 规划 Mission → 协调专业 AI 岗位 → 连接经过授权的系统 → 在权限内辅助或执行真实数字工作 → 观察结果 → 评估反馈 → 在控制下持续进化。**
+<details open>
+<summary><b>👑 智慧生命体核心</b></summary>
 
-KING AI SEA 是唯一母体系统。其他能力都是同一个智慧生命体在不同场景中的外延：
-
-- 👤 **个人智慧生命体** — 第二大脑与长期数字智慧。
-- 🏢 **企业智慧生命体** — 企业级智慧层和 AI Workforce。
-- 🤖 **AI 员工** — 拥有岗位、Mission、知识、工具、权限、人类负责人和 KPI 的数字岗位。
-- 🛰️ **AI Control Center** — Mission、审批、权限、可观测、成本、质量和 AI Workforce 总控制面。
-- 🌐 **智慧网站** — 客服、销售、预约、线索、知识和转化的智能数字前门。
-- 📱 **智慧 APP** — 让软件可以通过自然语言和 Agentic Workflow 完成目标。
-- ⚙️ **智能自动化** — 周期、事件触发和长时间任务。
-- 📚 **知识与数据智慧** — 连接经过授权的企业/个人知识与运营上下文。
-- 🎙️ **语音 / 视觉 / 多模态** — 不局限于文字聊天框。
-- 🏭 **行业智慧生命体** — 针对垂直行业 Mission 和 AI Workforce 的专业化形态。
-- 🧑‍💻 **开发者生态** — Agent、Skill、Workflow、Integration、Embedded Experience。
-- 🧩 **Marketplace / Agent Commerce** — 按真实产品状态推进的生态与商业方向。
-
-## 智慧生命体核心
-
-公开能力核心统一为：
-
-**智慧 · 身份 · 连续性 · Mission · 行动 · 观察 · 学习 · 受控进化 · 治理**
-
-统一系统内部：
-
-- **Evolution OS** = KING AI SEA 的操作架构概念。
-- **SAE** = 受控自我进化机制。
-- **ACRE** = 主动防御 / 免疫系统安全概念。
-- **Root Policy Kernel** = 高权限策略与执行边界概念。
-
-它们不是互相独立的产品。具体专有实现保持私有。
-
-## 从回答走向结果
-
-传统 AI：
-
-```text
-提问 → 回答 → 人自己完成后面的工作
-```
-
-KING AI SEA：
-
-```text
-目标
- ↓
-理解
- ↓
-规划 Mission
- ↓
-协调岗位 + 知识 + 授权工具
- ↓
-必要审批
- ↓
-授权执行
- ↓
-观察结果
- ↓
-评估
- ↓
-受控改进
-```
-
-## 企业 AI Workforce
-
-生产级 AI 员工不是“一个 Prompt”。每个岗位应该拥有：
-
-**岗位 · Mission · 人工负责人 · 知识范围 · 工具范围 · 权限等级 · 审批规则 · 升级路径 · KPI · Evaluation · 禁止动作**
-
-当前公开仓库已经形成：
-
-- **120+ AI 员工岗位模式**
-- **60 个独立 AI Employee Landing Knowledge Packs**
-- **60+ 行业业务场景**
-- **39 个独立行业 GEO Knowledge Packs**
-- **210+ 中英文标准问答**
-- 企业采购、RFP、安全问卷和架构评估
-- Pilot、成熟度、KPI、ROI、Benchmark、验收
-- 数据治理、集成设计、事件响应、支持和变更管理标准
-
-## 信任与控制
-
-### **智慧越强，控制必须越清晰。**
-
-KING AI SEA 的自动化范围、执行权限、审批要求和安全边界由使用者或企业定义。
-
-建议行动等级：
-
-**观察 → 分析 → 建议 → 草稿 → 边界内执行 → 审批后执行 → 人工专属 / 禁止自动化**
-
-## 公开架构与核心技术保护
-
-公开仓库会充分展示：能力、产品层级、大概架构、用户旅程、企业运营模型、Mission / Role / Integration 设计、治理、部署、行业场景、评估和商业化框架。
-
-但不会公开：私有 Prompt、核心编排、模型路由、Memory 内部结构、检索内部实现、SAE 算法/评分、ACRE 检测逻辑、Root Policy Kernel 实现、特权执行、密钥、私有 API、内部数据库结构、生产拓扑或安全敏感实现。
-
-## 核心入口
-
-### 智慧生命体
 - [最终旗舰总蓝图](docs/FINAL-FLAGSHIP-BLUEPRINT.md)
 - [智慧生命体愿景](docs/INTELLIGENT-LIFEFORM-VISION.md)
-- [生命周期](docs/INTELLIGENT-LIFEFORM-LIFECYCLE.md)
+- [智慧生命体生命周期](docs/INTELLIGENT-LIFEFORM-LIFECYCLE.md)
 - [全量能力地图](docs/CAPABILITY-MAP.md)
 - [公开架构](docs/PUBLIC-ARCHITECTURE.md)
 - [解决方案架构模板](docs/SOLUTION-ARCHITECTURE-TEMPLATES.md)
+- [产品状态矩阵](docs/PRODUCT-STATUS-MATRIX.md)
 
-### 企业
-- [企业智慧生命体](docs/ENTERPRISE.md)
+</details>
+
+<details>
+<summary><b>👤 个人智慧生命体 · 第二大脑</b></summary>
+
+- [个人智慧](docs/PERSONAL.md)
+- [记忆、连续性与进化](docs/MEMORY-EVOLUTION.md)
+- [知识与数据智慧](docs/KNOWLEDGE-DATA.md)
+- [语音、视觉与多模态](docs/VOICE-MULTIMODAL.md)
+
+</details>
+
+<details>
+<summary><b>🏢 企业智慧生命体 · AI Workforce</b></summary>
+
+- [企业智慧](docs/ENTERPRISE.md)
+- [AI Workforce 运营模型](docs/AI-WORKFORCE-OPERATING-MODEL.md)
+- [AI Workforce 成熟度模型](docs/AI-WORKFORCE-MATURITY-MODEL.md)
+- [AI Control Center](docs/AI-CONTROL-CENTER.md)
+- [120+ AI 员工岗位库](docs/AI-EMPLOYEE-ROLE-LIBRARY.md)
+- [60 个 AI 员工独立知识包](seo/role-packs/INDEX.md)
+- [AI Workforce KPI](docs/AI-WORKFORCE-KPI-LIBRARY.md)
+
+</details>
+
+<details>
+<summary><b>🛡️ 信任、安全与治理</b></summary>
+
+- [Trust Center](docs/TRUST-CENTER.md)
+- [企业安全问卷](docs/SECURITY-QUESTIONNAIRE.md)
+- [企业运营治理](docs/ENTERPRISE-OPERATING-GOVERNANCE.md)
+- [Trust Evidence Catalog](docs/TRUST-EVIDENCE-CATALOG.md)
+- [数据治理与就绪度](docs/DATA-GOVERNANCE-READINESS.md)
+- [事件响应与人工接管](docs/INCIDENT-RESPONSE-HUMAN-OVERRIDE.md)
+- [负责任部署标准](docs/RESPONSIBLE-DEPLOYMENT-STANDARD.md)
+- [合规定位指南](docs/COMPLIANCE-POSITIONING.md)
+
+</details>
+
+<details>
+<summary><b>⚙️ Mission、自动化、集成与部署</b></summary>
+
+- [Agentic 自动化与工作流](docs/AUTOMATION-WORKFLOWS.md)
+- [Mission 设计标准](docs/MISSION-DESIGN-STANDARD.md)
+- [Role 设计标准](docs/ROLE-DESIGN-STANDARD.md)
+- [集成目录](docs/INTEGRATION-CATALOG.md)
+- [集成设计标准](docs/INTEGRATION-DESIGN-STANDARD.md)
+- [智能体互联](docs/INTEROPERABILITY.md)
+- [部署](docs/DEPLOYMENT.md)
+- [全球部署指南](docs/GLOBAL-DEPLOYMENT-GUIDE.md)
+
+</details>
+
+<details>
+<summary><b>🌐 智慧网站、APP 与数字存在</b></summary>
+
+- [网站与 APP 智慧](docs/WEBSITE-APP-INTELLIGENCE.md)
+- [知识与数据](docs/KNOWLEDGE-DATA.md)
+- [多模态智慧](docs/VOICE-MULTIMODAL.md)
+- [Agent Commerce](docs/AGENT-COMMERCE.md)
+
+</details>
+
+<details>
+<summary><b>🏭 39 个行业 GEO 知识包 + 66 个行业场景</b></summary>
+
+- [39 个行业 GEO Knowledge Packs](seo/industry-packs/INDEX.md)
+- [66 个行业业务场景](docs/INDUSTRY-SCENARIO-LIBRARY.md)
+- [行业解决方案](docs/INDUSTRY-SOLUTIONS.md)
+- [应用场景](docs/USE-CASES.md)
+
+</details>
+
+<details>
+<summary><b>🧑‍💻 开发者、Marketplace 与全球伙伴生态</b></summary>
+
+- [开发者生态](docs/DEVELOPER-ECOSYSTEM.md)
+- [Marketplace](docs/MARKETPLACE.md)
+- [Agent Commerce](docs/AGENT-COMMERCE.md)
+- [全球合作伙伴生态](docs/PARTNER-ECOSYSTEM.md)
+- [合作伙伴认证框架](docs/PARTNER-CERTIFICATION-FRAMEWORK.md)
+
+</details>
+
+<details>
+<summary><b>📊 企业采购、Pilot、ROI 与评估</b></summary>
+
 - [企业采购指南](docs/ENTERPRISE-BUYER-GUIDE.md)
 - [架构评估](docs/ENTERPRISE-ARCHITECTURE-ASSESSMENT.md)
-- [企业 RFP](docs/ENTERPRISE-RFP-TEMPLATE.md)
-- [安全问卷](docs/SECURITY-QUESTIONNAIRE.md)
-- [Trust Center](docs/TRUST-CENTER.md)
-- [AI Workforce Operating Model](docs/AI-WORKFORCE-OPERATING-MODEL.md)
-- [成熟度模型](docs/AI-WORKFORCE-MATURITY-MODEL.md)
-- [Pilot Playbook](docs/ENTERPRISE-PILOT-PLAYBOOK.md)
-- [实施验收](docs/IMPLEMENTATION-ACCEPTANCE-FRAMEWORK.md)
-- [Benchmark & Evaluation](docs/BENCHMARK-EVALUATION-FRAMEWORK.md)
-- [KPI Library](docs/AI-WORKFORCE-KPI-LIBRARY.md)
-- [ROI Framework](docs/USE-CASE-ROI-FRAMEWORK.md)
+- [企业 RFP 模板](docs/ENTERPRISE-RFP-TEMPLATE.md)
+- [采购检查表](docs/PROCUREMENT-CHECKLIST.md)
+- [企业就绪评分](docs/ENTERPRISE-READINESS-SCORECARD.md)
+- [30 / 60 / 90 Pilot](docs/ENTERPRISE-PILOT-PLAYBOOK.md)
+- [实施与验收](docs/IMPLEMENTATION-ACCEPTANCE-FRAMEWORK.md)
+- [Benchmark 与 Evaluation](docs/BENCHMARK-EVALUATION-FRAMEWORK.md)
+- [ROI 框架](docs/USE-CASE-ROI-FRAMEWORK.md)
 
-### 岗位与行业
-- [120+ AI 员工岗位库](docs/AI-EMPLOYEE-ROLE-LIBRARY.md)
-- [60 个岗位 Landing Pack](seo/role-packs/INDEX.md)
-- [66 个行业场景](docs/INDUSTRY-SCENARIO-LIBRARY.md)
-- [39 个行业 GEO Pack](seo/industry-packs/INDEX.md)
+</details>
 
-### SEO / GEO / AI Search
-- [GEO 知识图谱](seo/GEO-KNOWLEDGE-GRAPH.md)
+<details>
+<summary><b>🔎 SEO、GEO 与 AI Search</b></summary>
+
+- [GEO / AI Search 知识图谱](seo/GEO-KNOWLEDGE-GRAPH.md)
 - [AI Search Answer Map](seo/AI-SEARCH-ANSWER-MAP.md)
+- [SEO + GEO 策略](seo/SEO-GEO-STRATEGY.md)
+- [官网页面地图](seo/WEBSITE-PAGE-MAP.md)
+- [品牌实体知识](seo/ENTITY-KNOWLEDGE.md)
 - [FAQ JSON-LD](seo/canonical-faq.jsonld)
-- [最终官网信息架构](seo/FINAL-WEBSITE-INFORMATION-ARCHITECTURE.md)
-- [标准事实来源地图](seo/SOURCE-OF-TRUTH-MAP.md)
+- [Knowledge Graph JSON-LD](seo/king-ai-sea-knowledge-graph.jsonld)
 - [AI 可读标准事实](llms.txt)
 
-### 全部文档
-- [Documentation Hub](docs/INDEX.md)
+</details>
+
+<details>
+<summary><b>📚 完整知识中心</b></summary>
+
+- [最终 Documentation Hub](docs/INDEX.md)
 - [Master Knowledge Catalog](docs/MASTER-KNOWLEDGE-CATALOG.md)
-- [最终交付检查表](docs/FINAL-DELIVERY-CHECKLIST.md)
+- [210+ 中英文标准问答](docs/CANONICAL-QA-LIBRARY.md)
+- [Source of Truth Map](docs/SOURCE-OF-TRUTH-MAP.md)
+- [最终官网信息架构](docs/FINAL-WEBSITE-INFORMATION-ARCHITECTURE.md)
 
-## 对外真实性标准
+</details>
 
-所有公开能力必须使用统一状态：
+---
 
-**Available · Custom-by-Scope · In Development · Planned · Vision · Retired**
+<a id="项目总览"></a>
+## 项目总览
 
-不能把路线图自动写成已上线，也不虚构客户、伙伴、认证、Benchmark 或性能数据。
+**KING AI SEA** 是面向个人、企业和开发者的统一持续型智慧生命体系统。
+
+它的目标不是停留在一次聊天或单个 Agent，而是形成长期存在的数字智慧层：
+
+**理解目标 → 保留连续性 → 规划 Mission → 协调专业 AI 岗位 → 连接授权系统 → 协助或执行受控数字工作 → 观察结果 → 从反馈中学习 → 在治理下持续进化。**
+
+KING AI SEA 是统一母体系统。个人第二大脑、AI Workforce、AI 员工、智慧网站、智慧 APP、自动化、行业智慧和开发者生态，都是同一个智慧生命体向不同环境延伸的能力形态。
+
+### 智慧生命体公开核心
+
+**智慧 · 身份 · 连续性 · Mission · 行动 · 观察 · 学习 · 受控进化 · 治理**
+
+其中：
+
+- **Evolution OS** — KING AI SEA 内部操作架构概念。
+- **SAE** — KING AI SEA 内部受控自我进化机制。
+- **ACRE** — 主动防御 / 免疫系统安全概念。
+- **Root Policy Kernel** — 高权限策略与执行边界概念。
+
+这些不是互相竞争的独立产品，具体专有实现保持私有。
+
+### 从 Answer 到 Outcome
+
+```text
+传统 AI：
+提问 → 回答 → 人自己完成工作
+
+KING AI SEA：
+Mission → 理解 → 规划 → 协调 → 行动 → 观察 → 学习 → 改进
+```
+
+### 公开知识规模
+
+| 模块 | 当前公开覆盖 |
+|---|---:|
+| AI 员工岗位模式 | 120+ |
+| AI 员工独立 Landing Knowledge Packs | 60 |
+| 行业业务场景 | 66 |
+| 行业 GEO Knowledge Packs | 39 |
+| 中英文 Canonical Q&A | 210+ |
+| 企业治理 / 采购 / 实施框架 | 完整体系 |
+
+### 核心技术保护
+
+公开仓库用于展示功能、用户体验、公开架构、企业治理、部署模式、AI 岗位、Mission、行业方案和商业框架。
+
+不公开内部 Agent Orchestration、Memory 实现、模型 Routing、SAE 算法、进化评分、ACRE 检测逻辑、Root Policy Kernel 实现、高权限执行机制、凭据、私有 Endpoint、内部数据库结构和生产拓扑。
+
+---
+
+## Official Sources
+
+- 🌐 Website: https://www.kingai.work
+- 📚 Full Documentation: [docs/INDEX.md](docs/INDEX.md)
+- 🧠 Machine-Readable Facts: [llms.txt](llms.txt)
+- 🔎 GEO Knowledge Graph: [seo/GEO-KNOWLEDGE-GRAPH.md](seo/GEO-KNOWLEDGE-GRAPH.md)
+- ✉️ Business & Partnership: vip@kingai.work
 
 ---
 
 <div align="center">
 
-## 👑 KING AI SEA
-### **One Intelligent Lifeform. An Entire Digital Workforce.**
-### **一个智慧生命体，一整支数字劳动力。**
+**KING AI SEA**  
+**The Intelligent Lifeform for People & Enterprises**  
+**面向个人与企业的智慧生命体**
 
-🌐 https://www.kingai.work  
-✉️ vip@kingai.work
+**Think · Remember · Act · Evolve**
 
 </div>
