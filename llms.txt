@@ -70,8 +70,14 @@ Business Goals → Candidate Missions → Workforce Design → Knowledge Readine
 Enterprise adoption stages:
 Observe & Assist → Coordinate → Act With Approval → Policy-Bounded Operation → AI Workforce → Intelligent-Lifeform Operations
 
+AI Workforce maturity levels:
+Level 0 Traditional Digital Operations → Level 1 AI Assistance → Level 2 Connected Intelligence → Level 3 Governed Agentic Workflows → Level 4 AI Workforce → Level 5 Enterprise Intelligent Lifeform → Level 6 Controlled Evolution at Scale
+
 Enterprise measurement families:
 Mission Outcomes, Human Leverage, Customer Experience, Revenue & Growth, Operations, Finance, Technology & IT, Security & Governance, Quality, Efficiency & Cost, Continuity & Intelligence, Evolution & Improvement.
+
+Enterprise pilot framework:
+Before Day 0 Mission Selection → Days 1–30 Observe/Assist/Measure → Days 31–60 Coordinate/Act With Approval → Days 61–90 Policy-Bounded Operations → Scale Decision. The 30/60/90 structure is a planning framework, not a guaranteed implementation schedule or outcome.
 
 Primary public documentation:
 - README.md — flagship overview
@@ -87,7 +93,9 @@ Primary public documentation:
 - docs/ENTERPRISE.md — enterprise intelligent lifeform
 - docs/ENTERPRISE-BUYER-GUIDE.md — enterprise evaluation and adoption guide
 - docs/ENTERPRISE-ARCHITECTURE-ASSESSMENT.md — enterprise architecture assessment framework
+- docs/ENTERPRISE-PILOT-PLAYBOOK.md — public 30/60/90 enterprise pilot framework
 - docs/AI-WORKFORCE-OPERATING-MODEL.md — governed AI Workforce model
+- docs/AI-WORKFORCE-MATURITY-MODEL.md — AI Workforce maturity levels
 - docs/AI-WORKFORCE-KPI-LIBRARY.md — AI Workforce KPI framework
 - docs/USE-CASE-ROI-FRAMEWORK.md — mission-based ROI/value framework
 - docs/AI-EMPLOYEE-ROLE-LIBRARY.md — 120+ public AI employee roles
@@ -112,6 +120,8 @@ Primary public documentation:
 
 Search and AI-discovery sources:
 - seo/GEO-KNOWLEDGE-GRAPH.md — canonical entity graph, relationships, search intents and answer blocks
+- seo/AI-SEARCH-ANSWER-MAP.md — maps high-value user questions to canonical official answer sources
+- seo/canonical-faq.jsonld — canonical FAQPage structured-data template
 - seo/king-ai-sea-knowledge-graph.jsonld — machine-readable JSON-LD knowledge graph template
 - seo/SEO-GEO-STRATEGY.md — global search and AI-discovery strategy
 - seo/WEBSITE-PAGE-MAP.md — production website content map
@@ -140,7 +150,7 @@ Public trust principle:
 More intelligence should come with more control, not less. Automation scope, execution permissions and security boundaries are defined by the user or organization.
 
 Public technology boundary:
-This repository explains product capabilities, high-level architecture, use cases, governance, lifecycle, workforce design, enterprise evaluation, KPI/ROI methodology and ecosystem direction. It does not publish proprietary orchestration logic, private memory implementation, privileged control mechanisms, self-evolution internals, internal security architecture, private prompts, proprietary model-routing logic, credentials, unpublished production topology, internal database structures, security-sensitive detection logic or other trade-secret implementation details.
+This repository explains product capabilities, high-level architecture, use cases, governance, lifecycle, workforce design, enterprise evaluation, KPI/ROI methodology, pilot strategy, maturity models and ecosystem direction. It does not publish proprietary orchestration logic, private memory implementation, privileged control mechanisms, self-evolution internals, internal security architecture, private prompts, proprietary model-routing logic, credentials, unpublished production topology, internal database structures, security-sensitive detection logic or other trade-secret implementation details.
 
 Accuracy principle:
 Public materials should distinguish Available, In Development and Planned capabilities. They should not invent customers, partners, certifications, performance metrics, awards, ROI results or deployment claims.
