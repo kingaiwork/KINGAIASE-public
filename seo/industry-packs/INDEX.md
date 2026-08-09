@@ -1,20 +1,8 @@
-# KING AI SEA — Industry GEO Landing Knowledge Packs
+# 🌍 KING AI SEA — Industry GEO Knowledge Packs
 
-> Canonical industry landing-page knowledge packs for search engines, AI answer systems, website production and partner enablement.
+> 36 industry-specific public knowledge packs. Each pack is a content blueprint for a real industry landing page, not keyword-spun SEO content.
 
-🌐 https://www.kingai.work  
-📦 https://github.com/kingaiwork/kingai-sea  
-✉️ vip@kingai.work
-
----
-
-# English
-
-## Purpose
-
-Each pack defines one industry's public positioning, search intents, AI Workforce pattern, representative missions, trust boundaries, landing-page metadata and canonical answers. These are content/knowledge blueprints, not claims that every capability is already deployed for every industry.
-
-## Current Packs
+## Existing & Expanded Industries
 
 1. [Hospitality & Hotels](HOSPITALITY-HOTELS.md)
 2. [Logistics & Transportation](LOGISTICS-TRANSPORTATION.md)
@@ -28,75 +16,35 @@ Each pack defines one industry's public positioning, search intents, AI Workforc
 10. [Local Business & Restaurants](LOCAL-BUSINESS-RESTAURANTS.md)
 11. [Manufacturing & Warehousing](MANUFACTURING-WAREHOUSING.md)
 12. [Education & Training](EDUCATION-TRAINING.md)
+13. [Construction & Contractors](CONSTRUCTION-CONTRACTORS.md)
+14. [Automotive & Dealerships](AUTOMOTIVE-DEALERSHIPS.md)
+15. [Insurance](INSURANCE.md)
+16. [Banking & Credit Unions](BANKING-CREDIT-UNIONS.md)
+17. [Accounting & Tax](ACCOUNTING-TAX.md)
+18. [Legal Services](LEGAL-SERVICES.md)
+19. [Travel & Tourism](TRAVEL-TOURISM.md)
+20. [Events & Venues](EVENTS-VENUES.md)
+21. [Fitness & Wellness](FITNESS-WELLNESS.md)
+22. [Beauty & Spa](BEAUTY-SPA.md)
+23. [Home Services](HOME-SERVICES.md)
+24. [Telecommunications](TELECOMMUNICATIONS.md)
+25. [Energy & Utilities](ENERGY-UTILITIES.md)
+26. [Agriculture & Food Production](AGRICULTURE-FOOD-PRODUCTION.md)
+27. [Media & Publishing](MEDIA-PUBLISHING.md)
+28. [Creator & Entertainment](CREATOR-ENTERTAINMENT.md)
+29. [Nonprofits & Associations](NONPROFITS-ASSOCIATIONS.md)
+30. [Public Administration](PUBLIC-ADMINISTRATION.md)
+31. [Recruiting & Staffing](RECRUITING-STAFFING.md)
+32. [Customer Support Centers](CUSTOMER-SUPPORT-CENTERS.md)
+33. [Cybersecurity & IT Services](CYBERSECURITY-IT-SERVICES.md)
+34. [Software & Digital Agencies](SOFTWARE-AGENCIES.md)
+35. [Franchise & Multi-Location](FRANCHISE-MULTILOCATION.md)
+36. [Wholesale & Distribution](WHOLESALE-DISTRIBUTION.md)
+37. [Supply Chain & Procurement](SUPPLY-CHAIN-PROCUREMENT.md)
+38. [Research & Consulting](RESEARCH-CONSULTING.md)
+39. [FinTech & Financial Operations](FINTECH-FINANCIAL-OPERATIONS.md)
 
-## Canonical Landing-Page Pattern
-
-Every production industry page should include:
-
-1. Direct industry definition
-2. Problems / operating friction
-3. KING AI SEA positioning
-4. AI Workforce role pattern
-5. Representative missions
-6. Website/App/automation opportunities
-7. Trust and human-authority boundaries
-8. Deployment choices where relevant
-9. Industry-specific FAQs
-10. Related platform pages
-11. Clear product-status labels
-12. Contact CTA
-
-## GEO Rules
-
-- Do not create hundreds of thin industry pages by changing only the industry name.
-- Each page must reflect real workflow differences.
-- Avoid unsupported customer counts, ROI, compliance claims or performance metrics.
-- Use consistent KING AI SEA entity naming.
-- Link every industry page back to Intelligent Lifeform, AI Workforce, Trust Center, Deployment and Contact.
-- Maintain English and Chinese as complete semantic equivalents, not keyword-stuffed machine translations.
-
----
+> The library now contains **39** industry packs. New pages should add industry-specific problems, missions, workforce roles, trust boundaries, evidence and FAQ—not merely replace industry names.
 
 # 中文
-
-## 用途
-
-每个行业包都是一个可以直接用于官网行业 Landing Page、SEO/GEO、AI Search 和合作伙伴方案的标准知识包，包含：行业定位、搜索意图、AI Workforce 岗位组合、代表 Mission、信任边界、页面标题描述和标准问答。
-
-这些文件是**内容与产品方案蓝图**，不代表所有能力已经在所有行业全部生产部署。
-
-## 当前 12 个行业包
-
-1. 酒店与 Hospitality
-2. 物流与运输
-3. 物业管理
-4. 养老机构运营
-5. 医疗行政
-6. 房地产
-7. 零售与电商
-8. SaaS 与科技企业
-9. 专业服务
-10. 本地商家与餐饮
-11. 制造与仓储
-12. 教育与培训
-
-## 行业页面标准结构
-
-每个生产页面都应该包含：
-
-1. 行业直接定义
-2. 行业真实运营问题
-3. KING AI SEA 在该行业的定位
-4. AI Workforce 岗位组合
-5. 代表 Mission
-6. 网站 / APP / 自动化机会
-7. 信任与人类最终权力边界
-8. 适用的部署选择
-9. 行业 FAQ
-10. 相关平台页面内链
-11. Available / In Development / Planned 状态
-12. 联系 CTA
-
-## GEO 原则
-
-不要通过只替换行业名批量制造大量薄内容页面。每个行业必须反映真实流程差异；不虚构客户、ROI、合规认证和性能数据；保持 KING AI SEA 实体名称统一；所有行业页都应连接智慧生命体、AI Workforce、Trust Center、Deployment 和 Contact。
+目前行业 GEO 知识包已扩展到 **39 个行业**。每个行业包都围绕真实行业问题、Mission、AI Workforce、信任边界和搜索意图建立，可作为 `kingai.work/industries/...` 的内容骨架。禁止简单替换行业名称制造重复页面。
