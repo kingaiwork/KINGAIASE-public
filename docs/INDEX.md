@@ -6,7 +6,7 @@
 🌐 https://www.kingai.work  
 ✉️ vip@kingai.work
 
-This hub organizes the public KING AI SEA product universe. The intelligent lifeform remains the center; AI Workforce, AI employees, websites, applications, automation and industry solutions are extensions of the same unified system. Public documentation explains capabilities and high-level architecture while protecting proprietary implementation.
+This hub organizes the public KING AI SEA product universe. The intelligent lifeform remains the center; AI Workforce, AI employees, websites, applications, automation, industry solutions and ecosystem programs are extensions of the same unified system. Public documentation explains capabilities, product relationships, high-level architecture, governance and commercial direction while protecting proprietary implementation.
 
 ---
 
@@ -15,6 +15,7 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 ## Start Here — Intelligent Lifeform Core
 
 - [Intelligent Lifeform Vision](INTELLIGENT-LIFEFORM-VISION.md) — the core philosophy and long-term product vision
+- [Intelligent Lifeform Lifecycle](INTELLIGENT-LIFEFORM-LIFECYCLE.md) — activation, continuity, operation, adaptation and controlled evolution
 - [Intelligent Lifeform Capability Map](CAPABILITY-MAP.md) — complete public map of what KING AI SEA can do
 - [Public Intelligent Lifeform Architecture](PUBLIC-ARCHITECTURE.md) — high-level capability architecture without exposing core technology
 - [Flagship Platform Blueprint](ULTIMATE-PLATFORM.md) — complete public system vision
@@ -23,10 +24,13 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 - [Product Editions](PRODUCT-EDITIONS.md) — Personal, Professional, Business, Enterprise, Developer and Industry
 - [Flagship Demo Catalog](DEMO-CATALOG.md) — high-impact demonstration scenarios
 
-## People & Organizations
+## People, Organizations & Buying Decisions
 
 - [Personal Intelligence](PERSONAL.md) — personal second brain and persistent digital intelligence
 - [Enterprise Intelligence](ENTERPRISE.md) — enterprise intelligent lifeform and AI Workforce
+- [Enterprise Buyer Guide](ENTERPRISE-BUYER-GUIDE.md) — evaluation, adoption, deployment and purchasing framework
+- [AI Workforce Operating Model](AI-WORKFORCE-OPERATING-MODEL.md) — how AI employees operate as one governed workforce
+- [120+ AI Employee Role Library](AI-EMPLOYEE-ROLE-LIBRARY.md) — public role catalog across executive, customer, revenue, operations, technology and industry functions
 - [AI Employees](AI-EMPLOYEES.md) — specialized professional expressions of KING AI SEA
 - [AI Control Center](AI-CONTROL-CENTER.md) — unified AI workforce command and governance center
 
@@ -46,6 +50,7 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 
 ## Trust & Enterprise Readiness
 
+- [Trust Center](TRUST-CENTER.md) — public model for identity, permissions, approvals, audit, observability and human authority
 - [Governance, Observability & Evaluation](GOVERNANCE-OBSERVABILITY.md)
 - [Security](SECURITY.md)
 - [Repository Security Policy](../SECURITY.md)
@@ -53,12 +58,14 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 
 ## Ecosystem
 
+- [Global Partner Ecosystem](PARTNER-ECOSYSTEM.md) — technology, integration, solution, industry, developer and deployment partner framework
 - [Developer Platform & Agent Ecosystem](DEVELOPER-ECOSYSTEM.md)
 - [Agent & Skill Marketplace](MARKETPLACE.md)
 - [Agent Commerce](AGENT-COMMERCE.md)
 
 ## Industries & Commercialization
 
+- [66 Industry Scenarios](INDUSTRY-SCENARIO-LIBRARY.md) — practical scenario library across 20+ industries and cross-industry operations
 - [Industry Solutions](INDUSTRY-SOLUTIONS.md)
 - [Use Cases](USE-CASES.md)
 - [Global Go-To-Market](GLOBAL-GO-TO-MARKET.md)
@@ -68,6 +75,8 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 
 ## Search & AI Discovery
 
+- [GEO / AI Search Knowledge Graph](../seo/GEO-KNOWLEDGE-GRAPH.md) — canonical entity relationships, query intents, answer blocks and page mapping
+- [Machine-Readable Knowledge Graph](../seo/king-ai-sea-knowledge-graph.jsonld) — JSON-LD graph template
 - [Global SEO + GEO Strategy](../seo/SEO-GEO-STRATEGY.md)
 - [Production Website Page Map](../seo/WEBSITE-PAGE-MAP.md)
 - [Canonical Entity & Knowledge Graph](../seo/ENTITY-KNOWLEDGE.md)
@@ -81,6 +90,7 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 ## 从智慧生命体核心开始
 
 - [智慧生命体核心愿景](INTELLIGENT-LIFEFORM-VISION.md) — KING AI SEA 的核心哲学与长期方向
+- [智慧生命体生命周期](INTELLIGENT-LIFEFORM-LIFECYCLE.md) — 从激活、理解、连接、运营到受控进化
 - [智慧生命体全量能力地图](CAPABILITY-MAP.md) — 完整展示能做什么，不披露怎么实现
 - [智慧生命体公开架构](PUBLIC-ARCHITECTURE.md) — 高层能力架构，不泄露核心技术
 - [旗舰平台总蓝图](ULTIMATE-PLATFORM.md) — KING AI SEA 完整公开体系
@@ -89,10 +99,13 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 - [产品形态](PRODUCT-EDITIONS.md) — Personal / Professional / Business / Enterprise / Developer / Industry
 - [旗舰 Demo 目录](DEMO-CATALOG.md) — 高影响力展示场景
 
-## 个人与企业
+## 个人、企业与采购决策
 
 - [个人智慧生命体](PERSONAL.md) — 第二大脑与长期数字智慧
 - [企业智慧生命体](ENTERPRISE.md) — 企业智慧生命体与 AI Workforce
+- [企业采购决策指南](ENTERPRISE-BUYER-GUIDE.md) — 评估、采用、部署和采购框架
+- [AI Workforce Operating Model](AI-WORKFORCE-OPERATING-MODEL.md) — 一支受治理数字劳动力如何真正运营
+- [120+ AI 员工岗位库](AI-EMPLOYEE-ROLE-LIBRARY.md) — 覆盖管理、客户、销售、运营、财务、HR、技术、安全、行业等岗位
 - [AI 员工体系](AI-EMPLOYEES.md) — KING AI SEA 的专业岗位能力形态
 - [AI Control Center](AI-CONTROL-CENTER.md) — 企业 AI 总控制与治理中心
 
@@ -110,21 +123,24 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 - [集成目录](INTEGRATION-CATALOG.md)
 - [智能体互联](INTEROPERABILITY.md)
 
-## 企业治理
+## 企业信任与治理
 
+- [Trust Center](TRUST-CENTER.md) — 身份、权限、审批、审计、可观测和人类最终权力
 - [治理、可观测与评估](GOVERNANCE-OBSERVABILITY.md)
 - [安全](SECURITY.md)
 - [仓库安全策略](../SECURITY.md)
 - [公开文档/专有技术说明](../NOTICE.md)
 
-## 开发者与生态
+## 开发者与全球生态
 
+- [全球合作伙伴生态](PARTNER-ECOSYSTEM.md) — 技术、集成、解决方案、行业、开发者和部署合作框架
 - [开发者平台](DEVELOPER-ECOSYSTEM.md)
 - [Agent / Skill Marketplace](MARKETPLACE.md)
 - [Agent Commerce](AGENT-COMMERCE.md)
 
 ## 行业与商业化
 
+- [66 个行业场景库](INDUSTRY-SCENARIO-LIBRARY.md) — 覆盖 20+ 行业与跨行业运营场景
 - [行业智慧生命体](INDUSTRY-SOLUTIONS.md)
 - [应用场景](USE-CASES.md)
 - [全球市场策略](GLOBAL-GO-TO-MARKET.md)
@@ -134,6 +150,8 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 
 ## SEO / GEO / AI 搜索
 
+- [GEO / AI Search 知识图谱](../seo/GEO-KNOWLEDGE-GRAPH.md) — 统一品牌实体、关系、搜索意图、标准答案和页面映射
+- [机器可读知识图谱](../seo/king-ai-sea-knowledge-graph.jsonld) — JSON-LD 图谱模板
 - [全球 SEO + GEO 策略](../seo/SEO-GEO-STRATEGY.md)
 - [官网生产级页面地图](../seo/WEBSITE-PAGE-MAP.md)
 - [品牌实体与知识图谱](../seo/ENTITY-KNOWLEDGE.md)
