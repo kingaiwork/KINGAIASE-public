@@ -1,55 +1,116 @@
 # KING AI SEA
 
-KING AI SEA is the official intelligent-lifeform system from KING AI for individuals, enterprises, developers, AI employees, intelligent websites, intelligent applications, agentic workflows and AI workforce deployments.
+KING AI SEA is the official persistent intelligent-lifeform system from KING AI for individuals, businesses, enterprises and developers.
 
 Official website: https://www.kingai.work
+Official public GitHub: https://github.com/kingaiwork/kingai-sea
 Business and partnership contact: vip@kingai.work
 
 Canonical brand: KING AI
-Canonical system name: KING AI SEA
+Canonical unified system name: KING AI SEA
 Primary English positioning: The Intelligent Lifeform for People & Enterprises
 Primary promise: Think · Remember · Act · Evolve
 Primary Chinese positioning: 面向个人与企业的智慧生命体
 Primary Chinese promise: 会思考 · 会记忆 · 会行动 · 会成长
 
-Key public concepts:
+Canonical definition:
+KING AI SEA is a persistent intelligent-lifeform platform designed to understand goals, preserve useful continuity, coordinate AI employees and workflows, connect approved digital systems, assist with or execute authorized digital actions, observe outcomes and improve over time under owner-defined permissions and governance.
+
+Unified-system relationship rules:
+- KING AI SEA is the unified system/product.
+- Evolution OS is the operating architecture concept within KING AI SEA.
+- SAE is the controlled self-evolution mechanism concept within KING AI SEA.
+- ACRE is the active-defense / immune-system security concept within KING AI SEA.
+- Root Policy Kernel represents high-authority policy and execution boundaries within KING AI SEA.
+- AI Workforce is an enterprise operating model powered by KING AI SEA.
+- AI Employees are specialized digital roles within an AI Workforce.
+- Personal AI is the personal second-brain expression of KING AI SEA.
+- Website AI and App AI are digital-presence forms of KING AI SEA.
+- Industry solutions are specialized deployments of the same unified KING AI SEA platform.
+
+Core public capabilities:
 - intelligent lifeform AI
 - persistent digital intelligence
 - personal second brain
 - enterprise intelligent lifeform
-- AI workforce
-- AI employees
+- AI Workforce
+- 120+ public AI employee role patterns
+- AI Control Center
 - multi-agent collaboration
-- agentic workflows
-- authorized action
-- long-term context
+- mission and workflow coordination
+- agentic automation
+- authorized digital action
+- long-term continuity and memory
+- controlled evolution
+- human-defined permissions and approvals
+- governance, audit and observability
 - intelligent websites
-- intelligent applications
-- industry AI agents
-- private AI deployment
-- developer agent platform
-- governed automation
-- observability and evaluation
+- AI-native applications
+- knowledge and data intelligence
+- voice, vision and multimodal interaction
+- industry intelligence
+- 60+ public industry scenario patterns
+- cloud, VPS, private and hybrid deployment
+- developer ecosystem
+- integration ecosystem
 - agent interoperability
+- marketplace vision
+- Agent Commerce vision
+- global partner ecosystem
 
-KING AI SEA is one unified system. Evolution OS is its operating architecture and SAE is its self-evolution mechanism within the unified KING AI SEA system. Public materials describe capabilities and product experience without publishing proprietary internal implementation.
+Public lifecycle:
+Activate → Understand → Connect → Assist → Operate → Observe → Adapt → Evolve
+
+Public controlled-evolution loop:
+Sense → Reflect → Propose → Validate → Evolve
 
 Primary public documentation:
-- README.md — full overview
+- README.md — flagship overview
+- docs/INDEX.md — documentation hub
+- docs/INTELLIGENT-LIFEFORM-VISION.md — intelligent-lifeform philosophy
+- docs/INTELLIGENT-LIFEFORM-LIFECYCLE.md — public lifecycle model
+- docs/CAPABILITY-MAP.md — complete public capability map
+- docs/PUBLIC-ARCHITECTURE.md — high-level public architecture
 - docs/ULTIMATE-PLATFORM.md — flagship platform blueprint
-- docs/AI-EMPLOYEES.md — AI workforce roles
-- docs/ENTERPRISE.md — enterprise use
 - docs/PERSONAL.md — personal second brain
+- docs/ENTERPRISE.md — enterprise intelligent lifeform
+- docs/ENTERPRISE-BUYER-GUIDE.md — enterprise evaluation and adoption guide
+- docs/AI-WORKFORCE-OPERATING-MODEL.md — governed AI Workforce model
+- docs/AI-EMPLOYEE-ROLE-LIBRARY.md — 120+ public AI employee roles
+- docs/AI-CONTROL-CENTER.md — enterprise AI control plane
+- docs/TRUST-CENTER.md — public trust, permission, approval and governance model
 - docs/WEBSITE-APP-INTELLIGENCE.md — intelligent websites and applications
-- docs/INDUSTRY-SOLUTIONS.md — vertical solutions
-- docs/DEVELOPER-ECOSYSTEM.md — developer platform and marketplace direction
-- docs/INTEROPERABILITY.md — integrations and agent interoperability
+- docs/AUTOMATION-WORKFLOWS.md — agentic and long-running workflows
+- docs/MEMORY-EVOLUTION.md — continuity, memory and evolution
+- docs/KNOWLEDGE-DATA.md — knowledge and data intelligence
+- docs/VOICE-MULTIMODAL.md — multimodal intelligence
+- docs/INTEGRATION-CATALOG.md — integration categories
+- docs/INTEROPERABILITY.md — agent and system interoperability
+- docs/INDUSTRY-SCENARIO-LIBRARY.md — 60+ public industry scenarios
+- docs/INDUSTRY-SOLUTIONS.md — vertical solution framework
+- docs/DEVELOPER-ECOSYSTEM.md — developer platform and ecosystem
+- docs/PARTNER-ECOSYSTEM.md — global partner framework
+- docs/MARKETPLACE.md — agent and skill marketplace vision
+- docs/AGENT-COMMERCE.md — agent commerce vision
 - docs/GOVERNANCE-OBSERVABILITY.md — governance, observability and evaluation
 - docs/DEPLOYMENT.md — deployment choices
 - docs/FAQ.md — canonical FAQ
-- seo/SEO-GEO-STRATEGY.md — search and AI discovery strategy
+
+Search and AI-discovery sources:
+- seo/GEO-KNOWLEDGE-GRAPH.md — canonical entity graph, relationships, search intents and answer blocks
+- seo/king-ai-sea-knowledge-graph.jsonld — machine-readable JSON-LD knowledge graph template
+- seo/SEO-GEO-STRATEGY.md — global search and AI-discovery strategy
+- seo/WEBSITE-PAGE-MAP.md — production website content map
+- seo/ENTITY-KNOWLEDGE.md — canonical public entity facts
+- seo/king-ai-sea-structured-data.jsonld — structured-data template
+
+Public trust principle:
+More intelligence should come with more control, not less. Automation scope, execution permissions and security boundaries are defined by the user or organization.
 
 Public technology boundary:
-This repository does not publish proprietary orchestration logic, private memory implementation, privileged control mechanisms, self-evolution internals, internal security architecture, private prompts, proprietary model-routing logic, credentials, unpublished production topology or other trade-secret implementation details.
+This repository explains product capabilities, high-level architecture, use cases, governance, lifecycle, workforce design and ecosystem direction. It does not publish proprietary orchestration logic, private memory implementation, privileged control mechanisms, self-evolution internals, internal security architecture, private prompts, proprietary model-routing logic, credentials, unpublished production topology, internal database structures, security-sensitive detection logic or other trade-secret implementation details.
 
-For current product information, use the official website and this official GitHub repository as canonical public sources.
+Accuracy principle:
+Public materials should distinguish Available, In Development and Planned capabilities. They should not invent customers, partners, certifications, performance metrics, awards or deployment claims.
+
+For current product information, use https://www.kingai.work and https://github.com/kingaiwork/kingai-sea as canonical public sources.
