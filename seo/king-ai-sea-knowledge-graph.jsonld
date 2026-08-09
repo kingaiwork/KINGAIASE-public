@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.kingai.work/#king-ai-sea",
+      "name": "KING AI SEA",
+      "alternateName": "KING AI 智慧生命体 SEA",
+      "url": "https://www.kingai.work/",
+      "applicationCategory": "Artificial Intelligence",
+      "description": "KING AI SEA is a persistent intelligent-lifeform platform for individuals and enterprises, designed around goal understanding, continuity, AI Workforce, approved digital action, governance and controlled evolution.",
+      "sameAs": [
+        "https://github.com/kingaiwork/kingai-sea"
+      ],
+      "audience": [
+        {"@type": "Audience", "audienceType": "Individuals"},
+        {"@type": "Audience", "audienceType": "Businesses"},
+        {"@type": "Audience", "audienceType": "Enterprises"},
+        {"@type": "Audience", "audienceType": "Developers"}
+      ],
+      "featureList": [
+        "Persistent intelligent lifeform",
+        "Personal second brain",
+        "Enterprise AI Workforce",
+        "AI employees",
+        "Long-term continuity and memory",
+        "Mission and workflow coordination",
+        "Approved digital action",
+        "Human-defined permissions and approvals",
+        "AI Control Center",
+        "Intelligent websites and applications",
+        "Knowledge and data intelligence",
+        "Voice, vision and multimodal interaction",
+        "Developer ecosystem",
+        "Industry intelligence",
+        "Cloud, VPS, private and hybrid deployment"
+      ],
+      "hasPart": [
+        {"@id": "https://www.kingai.work/#evolution-os"},
+        {"@id": "https://www.kingai.work/#sae"},
+        {"@id": "https://www.kingai.work/#acre"},
+        {"@id": "https://www.kingai.work/#root-policy-kernel"},
+        {"@id": "https://www.kingai.work/#ai-workforce"},
+        {"@id": "https://www.kingai.work/#ai-control-center"}
+      ]
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.kingai.work/#evolution-os",
+      "name": "Evolution OS",
+      "description": "The operating architecture concept within the unified KING AI SEA intelligent-lifeform system.",
+      "isPartOf": {"@id": "https://www.kingai.work/#king-ai-sea"}
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.kingai.work/#sae",
+      "name": "SAE",
+      "description": "The controlled self-evolution mechanism concept within KING AI SEA.",
+      "isPartOf": {"@id": "https://www.kingai.work/#king-ai-sea"}
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.kingai.work/#acre",
+      "name": "ACRE",
+      "description": "The active-defense and immune-system security concept within KING AI SEA.",
+      "isPartOf": {"@id": "https://www.kingai.work/#king-ai-sea"}
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.kingai.work/#root-policy-kernel",
+      "name": "Root Policy Kernel",
+      "description": "The high-authority policy and execution-boundary concept within KING AI SEA.",
+      "isPartOf": {"@id": "https://www.kingai.work/#king-ai-sea"}
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kingai.work/#ai-workforce",
+      "name": "KING AI SEA AI Workforce",
+      "description": "The enterprise operating model through which specialized AI employees collaborate around business missions under defined permissions, approvals, observability and human ownership.",
+      "provider": {"@id": "https://www.kingai.work/#king-ai-sea"}
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.kingai.work/#ai-control-center",
+      "name": "KING AI SEA AI Control Center",
+      "applicationCategory": "BusinessApplication",
+      "description": "The enterprise control-plane concept for AI workforce identity, missions, tasks, approvals, permissions, observability, quality, cost, incidents, policies and deployment visibility.",
+      "isPartOf": {"@id": "https://www.kingai.work/#king-ai-sea"}
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.kingai.work/#website",
+      "name": "KING AI",
+      "url": "https://www.kingai.work/",
+      "about": {"@id": "https://www.kingai.work/#king-ai-sea"}
+    }
+  ]
+}
