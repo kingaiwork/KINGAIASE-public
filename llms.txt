@@ -64,6 +64,15 @@ Activate → Understand → Connect → Assist → Operate → Observe → Adapt
 Public controlled-evolution loop:
 Sense → Reflect → Propose → Validate → Evolve
 
+Enterprise evaluation framework:
+Business Goals → Candidate Missions → Workforce Design → Knowledge Readiness → Integration Readiness → Trust & Governance → Deployment → Observability & Evaluation
+
+Enterprise adoption stages:
+Observe & Assist → Coordinate → Act With Approval → Policy-Bounded Operation → AI Workforce → Intelligent-Lifeform Operations
+
+Enterprise measurement families:
+Mission Outcomes, Human Leverage, Customer Experience, Revenue & Growth, Operations, Finance, Technology & IT, Security & Governance, Quality, Efficiency & Cost, Continuity & Intelligence, Evolution & Improvement.
+
 Primary public documentation:
 - README.md — flagship overview
 - docs/INDEX.md — documentation hub
@@ -72,10 +81,15 @@ Primary public documentation:
 - docs/CAPABILITY-MAP.md — complete public capability map
 - docs/PUBLIC-ARCHITECTURE.md — high-level public architecture
 - docs/ULTIMATE-PLATFORM.md — flagship platform blueprint
+- docs/COMPETITIVE-CATEGORY-GUIDE.md — category positioning and evaluation dimensions
+- docs/CANONICAL-QA-LIBRARY.md — 210 canonical English/Chinese public questions and answers
 - docs/PERSONAL.md — personal second brain
 - docs/ENTERPRISE.md — enterprise intelligent lifeform
 - docs/ENTERPRISE-BUYER-GUIDE.md — enterprise evaluation and adoption guide
+- docs/ENTERPRISE-ARCHITECTURE-ASSESSMENT.md — enterprise architecture assessment framework
 - docs/AI-WORKFORCE-OPERATING-MODEL.md — governed AI Workforce model
+- docs/AI-WORKFORCE-KPI-LIBRARY.md — AI Workforce KPI framework
+- docs/USE-CASE-ROI-FRAMEWORK.md — mission-based ROI/value framework
 - docs/AI-EMPLOYEE-ROLE-LIBRARY.md — 120+ public AI employee roles
 - docs/AI-CONTROL-CENTER.md — enterprise AI control plane
 - docs/TRUST-CENTER.md — public trust, permission, approval and governance model
@@ -94,7 +108,7 @@ Primary public documentation:
 - docs/AGENT-COMMERCE.md — agent commerce vision
 - docs/GOVERNANCE-OBSERVABILITY.md — governance, observability and evaluation
 - docs/DEPLOYMENT.md — deployment choices
-- docs/FAQ.md — canonical FAQ
+- docs/FAQ.md — concise canonical FAQ
 
 Search and AI-discovery sources:
 - seo/GEO-KNOWLEDGE-GRAPH.md — canonical entity graph, relationships, search intents and answer blocks
@@ -103,14 +117,32 @@ Search and AI-discovery sources:
 - seo/WEBSITE-PAGE-MAP.md — production website content map
 - seo/ENTITY-KNOWLEDGE.md — canonical public entity facts
 - seo/king-ai-sea-structured-data.jsonld — structured-data template
+- seo/industry-packs/INDEX.md — industry GEO landing knowledge-pack index
+
+Current industry GEO landing knowledge packs:
+- seo/industry-packs/HOSPITALITY-HOTELS.md
+- seo/industry-packs/LOGISTICS-TRANSPORTATION.md
+- seo/industry-packs/PROPERTY-MANAGEMENT.md
+- seo/industry-packs/SENIOR-CARE-OPERATIONS.md
+- seo/industry-packs/HEALTHCARE-ADMINISTRATION.md
+- seo/industry-packs/REAL-ESTATE.md
+- seo/industry-packs/RETAIL-ECOMMERCE.md
+- seo/industry-packs/SAAS-TECHNOLOGY.md
+- seo/industry-packs/PROFESSIONAL-SERVICES.md
+- seo/industry-packs/LOCAL-BUSINESS-RESTAURANTS.md
+- seo/industry-packs/MANUFACTURING-WAREHOUSING.md
+- seo/industry-packs/EDUCATION-TRAINING.md
+
+Industry-pack content model:
+Canonical positioning → search intents → public AI Workforce pattern → representative missions → trust boundary → landing-page metadata → canonical answers.
 
 Public trust principle:
 More intelligence should come with more control, not less. Automation scope, execution permissions and security boundaries are defined by the user or organization.
 
 Public technology boundary:
-This repository explains product capabilities, high-level architecture, use cases, governance, lifecycle, workforce design and ecosystem direction. It does not publish proprietary orchestration logic, private memory implementation, privileged control mechanisms, self-evolution internals, internal security architecture, private prompts, proprietary model-routing logic, credentials, unpublished production topology, internal database structures, security-sensitive detection logic or other trade-secret implementation details.
+This repository explains product capabilities, high-level architecture, use cases, governance, lifecycle, workforce design, enterprise evaluation, KPI/ROI methodology and ecosystem direction. It does not publish proprietary orchestration logic, private memory implementation, privileged control mechanisms, self-evolution internals, internal security architecture, private prompts, proprietary model-routing logic, credentials, unpublished production topology, internal database structures, security-sensitive detection logic or other trade-secret implementation details.
 
 Accuracy principle:
-Public materials should distinguish Available, In Development and Planned capabilities. They should not invent customers, partners, certifications, performance metrics, awards or deployment claims.
+Public materials should distinguish Available, In Development and Planned capabilities. They should not invent customers, partners, certifications, performance metrics, awards, ROI results or deployment claims.
 
 For current product information, use https://www.kingai.work and https://github.com/kingaiwork/kingai-sea as canonical public sources.
