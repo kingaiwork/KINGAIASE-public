@@ -20,7 +20,9 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 - [Public Intelligent Lifeform Architecture](PUBLIC-ARCHITECTURE.md) — high-level capability architecture without exposing core technology
 - [Flagship Platform Blueprint](ULTIMATE-PLATFORM.md) — complete public system vision
 - [Why KING AI SEA?](WHY-KING-AI.md) — positioning and differentiation
-- [Frequently Asked Questions](FAQ.md) — canonical product answers
+- [Competitive Category Guide](COMPETITIVE-CATEGORY-GUIDE.md) — how to evaluate KING AI SEA against common AI product categories without unsupported competitor claims
+- [210 Canonical Questions & Answers](CANONICAL-QA-LIBRARY.md) — standardized public answers for FAQ, sales, search and AI discovery
+- [Frequently Asked Questions](FAQ.md) — concise canonical product answers
 - [Product Editions](PRODUCT-EDITIONS.md) — Personal, Professional, Business, Enterprise, Developer and Industry
 - [Flagship Demo Catalog](DEMO-CATALOG.md) — high-impact demonstration scenarios
 
@@ -29,7 +31,10 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 - [Personal Intelligence](PERSONAL.md) — personal second brain and persistent digital intelligence
 - [Enterprise Intelligence](ENTERPRISE.md) — enterprise intelligent lifeform and AI Workforce
 - [Enterprise Buyer Guide](ENTERPRISE-BUYER-GUIDE.md) — evaluation, adoption, deployment and purchasing framework
+- [Enterprise Architecture Assessment](ENTERPRISE-ARCHITECTURE-ASSESSMENT.md) — mission, knowledge, integration, governance, deployment and measurement assessment
 - [AI Workforce Operating Model](AI-WORKFORCE-OPERATING-MODEL.md) — how AI employees operate as one governed workforce
+- [AI Workforce KPI Library](AI-WORKFORCE-KPI-LIBRARY.md) — outcome, quality, cost, trust, customer, revenue and operational KPIs
+- [Use-Case ROI Framework](USE-CASE-ROI-FRAMEWORK.md) — mission-based value, cost and ROI methodology without invented performance claims
 - [120+ AI Employee Role Library](AI-EMPLOYEE-ROLE-LIBRARY.md) — public role catalog across executive, customer, revenue, operations, technology and industry functions
 - [AI Employees](AI-EMPLOYEES.md) — specialized professional expressions of KING AI SEA
 - [AI Control Center](AI-CONTROL-CENTER.md) — unified AI workforce command and governance center
@@ -67,6 +72,7 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 
 - [66 Industry Scenarios](INDUSTRY-SCENARIO-LIBRARY.md) — practical scenario library across 20+ industries and cross-industry operations
 - [Industry Solutions](INDUSTRY-SOLUTIONS.md)
+- [12 Industry GEO Landing Knowledge Packs](../seo/industry-packs/INDEX.md) — hospitality, logistics, property, senior care, healthcare administration, real estate, retail, SaaS, professional services, local business, manufacturing and education
 - [Use Cases](USE-CASES.md)
 - [Global Go-To-Market](GLOBAL-GO-TO-MARKET.md)
 - [Flagship Roadmap](FLAGSHIP-ROADMAP.md)
@@ -76,6 +82,7 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 ## Search & AI Discovery
 
 - [GEO / AI Search Knowledge Graph](../seo/GEO-KNOWLEDGE-GRAPH.md) — canonical entity relationships, query intents, answer blocks and page mapping
+- [Industry GEO Landing Knowledge Packs](../seo/industry-packs/INDEX.md) — independent industry knowledge sources for landing pages and AI search
 - [Machine-Readable Knowledge Graph](../seo/king-ai-sea-knowledge-graph.jsonld) — JSON-LD graph template
 - [Global SEO + GEO Strategy](../seo/SEO-GEO-STRATEGY.md)
 - [Production Website Page Map](../seo/WEBSITE-PAGE-MAP.md)
@@ -95,7 +102,9 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 - [智慧生命体公开架构](PUBLIC-ARCHITECTURE.md) — 高层能力架构，不泄露核心技术
 - [旗舰平台总蓝图](ULTIMATE-PLATFORM.md) — KING AI SEA 完整公开体系
 - [为什么选择 KING AI SEA](WHY-KING-AI.md) — 定位与差异
-- [常见问题](FAQ.md) — 标准产品答案
+- [竞争品类定位指南](COMPETITIVE-CATEGORY-GUIDE.md) — 正确比较 Chatbot、Copilot、Workflow、AI Employee、Agent Platform 与智慧生命体平台
+- [210 个标准问答](CANONICAL-QA-LIBRARY.md) — 官网 FAQ、销售答疑、GEO/AI Search 的统一答案源
+- [常见问题](FAQ.md) — 简洁标准产品答案
 - [产品形态](PRODUCT-EDITIONS.md) — Personal / Professional / Business / Enterprise / Developer / Industry
 - [旗舰 Demo 目录](DEMO-CATALOG.md) — 高影响力展示场景
 
@@ -104,7 +113,10 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 - [个人智慧生命体](PERSONAL.md) — 第二大脑与长期数字智慧
 - [企业智慧生命体](ENTERPRISE.md) — 企业智慧生命体与 AI Workforce
 - [企业采购决策指南](ENTERPRISE-BUYER-GUIDE.md) — 评估、采用、部署和采购框架
+- [企业架构评估模板](ENTERPRISE-ARCHITECTURE-ASSESSMENT.md) — Mission、知识、集成、治理、部署和衡量评估
 - [AI Workforce Operating Model](AI-WORKFORCE-OPERATING-MODEL.md) — 一支受治理数字劳动力如何真正运营
+- [AI Workforce KPI 指标库](AI-WORKFORCE-KPI-LIBRARY.md) — 结果、质量、成本、信任、客户、收入和运营指标
+- [Use-Case ROI 框架](USE-CASE-ROI-FRAMEWORK.md) — 按 Mission 计算价值、成本和 ROI，不虚构收益数据
 - [120+ AI 员工岗位库](AI-EMPLOYEE-ROLE-LIBRARY.md) — 覆盖管理、客户、销售、运营、财务、HR、技术、安全、行业等岗位
 - [AI 员工体系](AI-EMPLOYEES.md) — KING AI SEA 的专业岗位能力形态
 - [AI Control Center](AI-CONTROL-CENTER.md) — 企业 AI 总控制与治理中心
@@ -142,6 +154,7 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 
 - [66 个行业场景库](INDUSTRY-SCENARIO-LIBRARY.md) — 覆盖 20+ 行业与跨行业运营场景
 - [行业智慧生命体](INDUSTRY-SOLUTIONS.md)
+- [12 个行业 GEO Landing Knowledge Packs](../seo/industry-packs/INDEX.md) — 酒店、物流、物业、养老、医疗行政、房地产、零售电商、SaaS、专业服务、本地商家、制造仓储、教育
 - [应用场景](USE-CASES.md)
 - [全球市场策略](GLOBAL-GO-TO-MARKET.md)
 - [旗舰路线图](FLAGSHIP-ROADMAP.md)
@@ -151,6 +164,7 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 ## SEO / GEO / AI 搜索
 
 - [GEO / AI Search 知识图谱](../seo/GEO-KNOWLEDGE-GRAPH.md) — 统一品牌实体、关系、搜索意图、标准答案和页面映射
+- [行业 GEO Landing Knowledge Packs](../seo/industry-packs/INDEX.md) — 独立行业知识源和官网行业页面蓝图
 - [机器可读知识图谱](../seo/king-ai-sea-knowledge-graph.jsonld) — JSON-LD 图谱模板
 - [全球 SEO + GEO 策略](../seo/SEO-GEO-STRATEGY.md)
 - [官网生产级页面地图](../seo/WEBSITE-PAGE-MAP.md)
