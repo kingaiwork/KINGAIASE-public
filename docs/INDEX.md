@@ -32,7 +32,9 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 - [Enterprise Intelligence](ENTERPRISE.md) — enterprise intelligent lifeform and AI Workforce
 - [Enterprise Buyer Guide](ENTERPRISE-BUYER-GUIDE.md) — evaluation, adoption, deployment and purchasing framework
 - [Enterprise Architecture Assessment](ENTERPRISE-ARCHITECTURE-ASSESSMENT.md) — mission, knowledge, integration, governance, deployment and measurement assessment
+- [Enterprise Pilot Playbook](ENTERPRISE-PILOT-PLAYBOOK.md) — public 30/60/90-day pilot and scale framework
 - [AI Workforce Operating Model](AI-WORKFORCE-OPERATING-MODEL.md) — how AI employees operate as one governed workforce
+- [AI Workforce Maturity Model](AI-WORKFORCE-MATURITY-MODEL.md) — Level 0 traditional operations through Level 6 controlled evolution at scale
 - [AI Workforce KPI Library](AI-WORKFORCE-KPI-LIBRARY.md) — outcome, quality, cost, trust, customer, revenue and operational KPIs
 - [Use-Case ROI Framework](USE-CASE-ROI-FRAMEWORK.md) — mission-based value, cost and ROI methodology without invented performance claims
 - [120+ AI Employee Role Library](AI-EMPLOYEE-ROLE-LIBRARY.md) — public role catalog across executive, customer, revenue, operations, technology and industry functions
@@ -82,6 +84,8 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 ## Search & AI Discovery
 
 - [GEO / AI Search Knowledge Graph](../seo/GEO-KNOWLEDGE-GRAPH.md) — canonical entity relationships, query intents, answer blocks and page mapping
+- [AI Search Answer Map](../seo/AI-SEARCH-ANSWER-MAP.md) — maps high-value questions to canonical official answer sources
+- [Canonical FAQ Structured Data](../seo/canonical-faq.jsonld) — machine-readable FAQPage template for verified canonical answers
 - [Industry GEO Landing Knowledge Packs](../seo/industry-packs/INDEX.md) — independent industry knowledge sources for landing pages and AI search
 - [Machine-Readable Knowledge Graph](../seo/king-ai-sea-knowledge-graph.jsonld) — JSON-LD graph template
 - [Global SEO + GEO Strategy](../seo/SEO-GEO-STRATEGY.md)
@@ -114,7 +118,9 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 - [企业智慧生命体](ENTERPRISE.md) — 企业智慧生命体与 AI Workforce
 - [企业采购决策指南](ENTERPRISE-BUYER-GUIDE.md) — 评估、采用、部署和采购框架
 - [企业架构评估模板](ENTERPRISE-ARCHITECTURE-ASSESSMENT.md) — Mission、知识、集成、治理、部署和衡量评估
+- [企业 Pilot Playbook](ENTERPRISE-PILOT-PLAYBOOK.md) — 公开 30/60/90 天试点与规模化框架
 - [AI Workforce Operating Model](AI-WORKFORCE-OPERATING-MODEL.md) — 一支受治理数字劳动力如何真正运营
+- [AI Workforce 成熟度模型](AI-WORKFORCE-MATURITY-MODEL.md) — 从传统运营到规模化受控进化的 Level 0–6
 - [AI Workforce KPI 指标库](AI-WORKFORCE-KPI-LIBRARY.md) — 结果、质量、成本、信任、客户、收入和运营指标
 - [Use-Case ROI 框架](USE-CASE-ROI-FRAMEWORK.md) — 按 Mission 计算价值、成本和 ROI，不虚构收益数据
 - [120+ AI 员工岗位库](AI-EMPLOYEE-ROLE-LIBRARY.md) — 覆盖管理、客户、销售、运营、财务、HR、技术、安全、行业等岗位
@@ -164,6 +170,8 @@ This hub organizes the public KING AI SEA product universe. The intelligent life
 ## SEO / GEO / AI 搜索
 
 - [GEO / AI Search 知识图谱](../seo/GEO-KNOWLEDGE-GRAPH.md) — 统一品牌实体、关系、搜索意图、标准答案和页面映射
+- [AI Search Answer Map](../seo/AI-SEARCH-ANSWER-MAP.md) — 高价值用户问题到官方标准答案源的映射
+- [标准 FAQ Structured Data](../seo/canonical-faq.jsonld) — 可部署到官网的机器可读 FAQPage 模板
 - [行业 GEO Landing Knowledge Packs](../seo/industry-packs/INDEX.md) — 独立行业知识源和官网行业页面蓝图
 - [机器可读知识图谱](../seo/king-ai-sea-knowledge-graph.jsonld) — JSON-LD 图谱模板
 - [全球 SEO + GEO 策略](../seo/SEO-GEO-STRATEGY.md)
