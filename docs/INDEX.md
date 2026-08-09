@@ -6,16 +6,18 @@
 🌐 https://www.kingai.work  
 ✉️ vip@kingai.work
 
-This hub organizes the public KING AI SEA product universe. All documents describe public capabilities, use cases, governance and commercial direction without exposing proprietary core implementation.
+This hub organizes the public KING AI SEA product universe. The intelligent lifeform remains the center; AI Workforce, AI employees, websites, applications, automation and industry solutions are extensions of the same unified system. Public documentation explains capabilities and high-level architecture while protecting proprietary implementation.
 
 ---
 
 # English Documentation
 
-## Start Here
+## Start Here — Intelligent Lifeform Core
 
+- [Intelligent Lifeform Vision](INTELLIGENT-LIFEFORM-VISION.md) — the core philosophy and long-term product vision
+- [Intelligent Lifeform Capability Map](CAPABILITY-MAP.md) — complete public map of what KING AI SEA can do
+- [Public Intelligent Lifeform Architecture](PUBLIC-ARCHITECTURE.md) — high-level capability architecture without exposing core technology
 - [Flagship Platform Blueprint](ULTIMATE-PLATFORM.md) — complete public system vision
-- [Public Platform Architecture](PUBLIC-ARCHITECTURE.md) — high-level architecture map
 - [Why KING AI SEA?](WHY-KING-AI.md) — positioning and differentiation
 - [Frequently Asked Questions](FAQ.md) — canonical product answers
 - [Product Editions](PRODUCT-EDITIONS.md) — Personal, Professional, Business, Enterprise, Developer and Industry
@@ -23,10 +25,10 @@ This hub organizes the public KING AI SEA product universe. All documents descri
 
 ## People & Organizations
 
-- [Personal Intelligence](PERSONAL.md) — personal second brain and digital intelligence
-- [Enterprise Intelligence](ENTERPRISE.md) — enterprise AI workforce
-- [AI Employees](AI-EMPLOYEES.md) — specialized digital workforce roles
-- [AI Control Center](AI-CONTROL-CENTER.md) — unified AI workforce command center
+- [Personal Intelligence](PERSONAL.md) — personal second brain and persistent digital intelligence
+- [Enterprise Intelligence](ENTERPRISE.md) — enterprise intelligent lifeform and AI Workforce
+- [AI Employees](AI-EMPLOYEES.md) — specialized professional expressions of KING AI SEA
+- [AI Control Center](AI-CONTROL-CENTER.md) — unified AI workforce command and governance center
 
 ## Digital Experiences
 
@@ -76,10 +78,12 @@ This hub organizes the public KING AI SEA product universe. All documents descri
 
 # 中文文档导航
 
-## 从这里开始
+## 从智慧生命体核心开始
 
+- [智慧生命体核心愿景](INTELLIGENT-LIFEFORM-VISION.md) — KING AI SEA 的核心哲学与长期方向
+- [智慧生命体全量能力地图](CAPABILITY-MAP.md) — 完整展示能做什么，不披露怎么实现
+- [智慧生命体公开架构](PUBLIC-ARCHITECTURE.md) — 高层能力架构，不泄露核心技术
 - [旗舰平台总蓝图](ULTIMATE-PLATFORM.md) — KING AI SEA 完整公开体系
-- [公开平台架构](PUBLIC-ARCHITECTURE.md) — 不泄密的高层架构图
 - [为什么选择 KING AI SEA](WHY-KING-AI.md) — 定位与差异
 - [常见问题](FAQ.md) — 标准产品答案
 - [产品形态](PRODUCT-EDITIONS.md) — Personal / Professional / Business / Enterprise / Developer / Industry
@@ -87,10 +91,10 @@ This hub organizes the public KING AI SEA product universe. All documents descri
 
 ## 个人与企业
 
-- [个人智慧生命体](PERSONAL.md) — 第二大脑与私人数字智慧
-- [企业智慧生命体](ENTERPRISE.md) — 企业 AI Workforce
-- [AI 员工体系](AI-EMPLOYEES.md) — 专业数字员工
-- [AI Control Center](AI-CONTROL-CENTER.md) — 企业 AI 总控制中心
+- [个人智慧生命体](PERSONAL.md) — 第二大脑与长期数字智慧
+- [企业智慧生命体](ENTERPRISE.md) — 企业智慧生命体与 AI Workforce
+- [AI 员工体系](AI-EMPLOYEES.md) — KING AI SEA 的专业岗位能力形态
+- [AI Control Center](AI-CONTROL-CENTER.md) — 企业 AI 总控制与治理中心
 
 ## 网站、APP 与多模态
 
@@ -143,6 +147,10 @@ This hub organizes the public KING AI SEA product universe. All documents descri
 **KING AI SEA**  
 **The Intelligent Lifeform for People & Enterprises**  
 **面向个人与企业的智慧生命体**
+
+Core public principle:  
+**One Intelligent Lifeform. Many Forms. Owner-Defined Boundaries.**  
+**一个智慧生命体，多种能力形态，所有边界由主人定义。**
 
 Official website: https://www.kingai.work  
 Business & partnership: vip@kingai.work
