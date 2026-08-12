@@ -61,7 +61,7 @@ The repository quality workflow now checks:
 - relative Markdown links
 - JSON / JSON-LD syntax
 - required canonical files
-- forbidden legacy public name `LEO824`
+- forbidden legacy public identifiers
 
 ## Public Technology Boundary
 
