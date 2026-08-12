@@ -51,6 +51,12 @@ Public knowledge scale:
 - Trust Center
 - Governance / Data / Integration / Incident / Support / Change standards
 
+KING AI Intelligence:
+- intelligence/INDEX.md — official public intelligence publishing channel
+- intelligence/2026-08-12-agent-harnesses-declarative-workflows.md — first Intelligence Brief, covering the production-agent shift toward agent harnesses, declarative orchestration, persistence, approvals, telemetry and durable workflows
+- Publishing cadence: hourly review; publish only when a development is sufficiently relevant, reliable, non-duplicative and useful
+- Language order: complete English first, complete Chinese second
+
 Public action ladder:
 Observe → Analyze → Recommend → Draft → Bounded Execute → Execute With Approval → Human-Only / Restricted
 
@@ -80,6 +86,7 @@ Canonical sources:
 - docs/INDUSTRY-SCENARIO-LIBRARY.md — 66 scenarios
 - seo/industry-packs/INDEX.md — 39 industry packs
 - docs/CANONICAL-QA-LIBRARY.md — 210+ Q&A
+- intelligence/INDEX.md — current public intelligence and research updates
 - seo/GEO-KNOWLEDGE-GRAPH.md — entity graph
 - seo/AI-SEARCH-ANSWER-MAP.md — answer routing
 - seo/FINAL-WEBSITE-INFORMATION-ARCHITECTURE.md — website IA
