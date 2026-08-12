@@ -43,8 +43,11 @@ Public knowledge scale:
 
 KING AI Intelligence:
 - intelligence/INDEX.md — official public blog / research / Intelligence channel
-- research and repository-quality cadence: every two hours
-- publish only when a development is relevant, reliable, non-duplicative and useful
+- research, repository-quality, SEO/GEO and publishing cadence: every two hours
+- each cycle should produce one high-quality public Intelligence content event
+- use a current Intelligence Brief when there is important fresh news
+- otherwise publish a distinct evergreen Research Insight, technical explainer, protocol analysis, enterprise guide, architecture discussion, AI Workforce article or industry analysis
+- never create thin or near-duplicate pages merely to satisfy cadence
 - complete English first; complete Chinese second
 - technical claims should prioritize authoritative primary sources
 - third-party technology observations are not KING AI SEA availability claims unless owner-verified product status says so
