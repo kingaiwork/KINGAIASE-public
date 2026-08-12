@@ -37,25 +37,23 @@ Public knowledge scale:
 - 66 public industry scenarios
 - 39 industry GEO knowledge packs
 - 210+ canonical bilingual Q&A
-- Enterprise Buyer Guide
-- Enterprise RFP Template
-- Security Questionnaire
-- Architecture Assessment
-- AI Workforce Operating Model
-- AI Workforce Maturity Model
-- KPI Library
-- ROI Framework
-- Pilot Playbook
-- Implementation & Acceptance Framework
-- Benchmark & Evaluation Framework
-- Trust Center
-- Governance / Data / Integration / Incident / Support / Change standards
+- Enterprise Buyer Guide / RFP / Security Questionnaire / Architecture Assessment
+- AI Workforce Operating Model / Maturity Model / KPI / ROI / Pilot / Acceptance / Evaluation
+- Trust Center and governance / data / integration / incident / support / change standards
 
 KING AI Intelligence:
-- intelligence/INDEX.md — official public intelligence publishing channel
-- intelligence/2026-08-12-agent-harnesses-declarative-workflows.md — first Intelligence Brief, covering the production-agent shift toward agent harnesses, declarative orchestration, persistence, approvals, telemetry and durable workflows
-- Publishing cadence: hourly review; publish only when a development is sufficiently relevant, reliable, non-duplicative and useful
-- Language order: complete English first, complete Chinese second
+- intelligence/INDEX.md — official public blog / research / Intelligence channel
+- research and repository-quality cadence: every two hours
+- publish only when a development is relevant, reliable, non-duplicative and useful
+- complete English first; complete Chinese second
+- technical claims should prioritize authoritative primary sources
+- third-party technology observations are not KING AI SEA availability claims unless owner-verified product status says so
+
+Frontier technology research:
+- docs/GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md — current public research on agent harnesses, durable execution, MCP, A2A, stateful runtime, human approval, evaluation and observability
+
+SEO / GEO source:
+- seo/SEO-GEO-QUALITY-STANDARD.md — canonical entity, page-intent, canonical/hreflang, structured-data, freshness, IndexNow and AI-citation quality standard
 
 Public action ladder:
 Observe → Analyze → Recommend → Draft → Bounded Execute → Execute With Approval → Human-Only / Restricted
@@ -70,14 +68,14 @@ Trust principle:
 More intelligence should come with more control, not less. Automation scope, execution permissions, approvals and security boundaries are defined by the user or organization.
 
 Canonical sources:
-- README.md — flagship overview
+- README.md — flagship portal
 - docs/INDEX.md — final documentation hub
 - docs/MASTER-KNOWLEDGE-CATALOG.md — public knowledge map
 - docs/FINAL-FLAGSHIP-BLUEPRINT.md — final system blueprint
 - docs/INTELLIGENT-LIFEFORM-VISION.md — lifeform vision
-- docs/INTELLIGENT-LIFEFORM-LIFECYCLE.md — lifecycle
 - docs/CAPABILITY-MAP.md — capabilities
 - docs/PUBLIC-ARCHITECTURE.md — public architecture
+- docs/GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md — global agent technology radar
 - docs/TRUST-CENTER.md — trust
 - docs/ENTERPRISE.md — enterprise
 - docs/AI-WORKFORCE-OPERATING-MODEL.md — workforce
@@ -86,20 +84,20 @@ Canonical sources:
 - docs/INDUSTRY-SCENARIO-LIBRARY.md — 66 scenarios
 - seo/industry-packs/INDEX.md — 39 industry packs
 - docs/CANONICAL-QA-LIBRARY.md — 210+ Q&A
-- intelligence/INDEX.md — current public intelligence and research updates
+- intelligence/INDEX.md — current public intelligence
+- seo/SEO-GEO-QUALITY-STANDARD.md — SEO/GEO quality rules
 - seo/GEO-KNOWLEDGE-GRAPH.md — entity graph
 - seo/AI-SEARCH-ANSWER-MAP.md — answer routing
 - seo/FINAL-WEBSITE-INFORMATION-ARCHITECTURE.md — website IA
 - seo/SOURCE-OF-TRUTH-MAP.md — canonical source routing
-- seo/canonical-faq.jsonld — FAQ structured data
 - seo/king-ai-sea-knowledge-graph.jsonld — knowledge graph template
 
 Public product status vocabulary:
 Available / Custom-by-Scope / In Development / Planned / Vision / Retired.
-Do not infer availability from roadmap or vision documents.
+Do not infer availability from roadmap, research or vision documents.
 
 Public technology boundary:
 Public materials may explain capabilities, high-level architecture, governance, deployment patterns and operating models. They do not publish private system prompts, proprietary orchestration logic, model-routing policy, memory internal structures, retrieval internals, SAE algorithms/scoring, ACRE detection internals, Root Policy Kernel implementation, privileged execution mechanisms, credentials/secrets, private endpoints, internal database schemas, production topology or security-sensitive operational detail.
 
 Truthfulness:
-Do not fabricate customers, partners, certifications, benchmark results, adoption numbers, revenue or performance claims. Use owner-verified current product status and measured evidence.
+Do not fabricate customers, partners, certifications, benchmark results, adoption numbers, revenue, rankings, market leadership or performance claims. Use owner-verified current product status and measured evidence.

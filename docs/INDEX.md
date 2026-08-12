@@ -15,19 +15,27 @@
 - [Intelligent Lifeform Lifecycle](INTELLIGENT-LIFEFORM-LIFECYCLE.md)
 - [Capability Map](CAPABILITY-MAP.md)
 - [Public Architecture](PUBLIC-ARCHITECTURE.md)
+- [Global Agent Technology Radar 2026](GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md)
 - [Solution Architecture Templates](SOLUTION-ARCHITECTURE-TEMPLATES.md)
 - [Why KING AI SEA](WHY-KING-AI.md)
 - [Competitive Category Guide](COMPETITIVE-CATEGORY-GUIDE.md)
 - [Product Editions](PRODUCT-EDITIONS.md)
 - [Product Status Matrix](PRODUCT-STATUS-MATRIX.md)
 
-## 2. Personal Intelligence
+## 2. KING AI Intelligence
+- [KING AI Intelligence Home](../intelligence/INDEX.md)
+- [Latest Intelligence Brief](../intelligence/2026-08-12-agent-harnesses-declarative-workflows.md)
+- [Article Template](../intelligence/ARTICLE-TEMPLATE.md)
+- [Automated Publishing Policy](../automation/INTELLIGENCE-PUBLISHING-POLICY.md)
+- [Repository Audit — 2026-08-12](REPOSITORY-AUDIT-2026-08-12.md)
+
+## 3. Personal Intelligence
 - [Personal Intelligence](PERSONAL.md)
 - [Memory, Continuity & Evolution](MEMORY-EVOLUTION.md)
 - [Voice / Vision / Multimodal](VOICE-MULTIMODAL.md)
 - [Knowledge & Data](KNOWLEDGE-DATA.md)
 
-## 3. Enterprise Intelligence & AI Workforce
+## 4. Enterprise Intelligence & AI Workforce
 - [Enterprise](ENTERPRISE.md)
 - [AI Workforce Operating Model](AI-WORKFORCE-OPERATING-MODEL.md)
 - [AI Workforce Maturity Model](AI-WORKFORCE-MATURITY-MODEL.md)
@@ -38,7 +46,7 @@
 - [Mission Design Standard](MISSION-DESIGN-STANDARD.md)
 - [Role Design Standard](ROLE-DESIGN-STANDARD.md)
 
-## 4. Enterprise Buying, Assessment & Delivery
+## 5. Enterprise Buying, Assessment & Delivery
 - [Enterprise Buyer Guide](ENTERPRISE-BUYER-GUIDE.md)
 - [Enterprise Architecture Assessment](ENTERPRISE-ARCHITECTURE-ASSESSMENT.md)
 - [Enterprise RFP Template](ENTERPRISE-RFP-TEMPLATE.md)
@@ -51,7 +59,7 @@
 - [Use-Case ROI Framework](USE-CASE-ROI-FRAMEWORK.md)
 - [Case Study Template](CASE-STUDY-TEMPLATE.md)
 
-## 5. Trust, Security & Governance
+## 6. Trust, Security & Governance
 - [Trust Center](TRUST-CENTER.md)
 - [Enterprise Security Questionnaire](SECURITY-QUESTIONNAIRE.md)
 - [Enterprise Operating Governance](ENTERPRISE-OPERATING-GOVERNANCE.md)
@@ -65,7 +73,7 @@
 - [Security](SECURITY.md)
 - [Repository Security Policy](../SECURITY.md)
 
-## 6. Missions, Automation & Integrations
+## 7. Missions, Automation & Integrations
 - [Agentic Automation & Workflows](AUTOMATION-WORKFLOWS.md)
 - [Integration Catalog](INTEGRATION-CATALOG.md)
 - [Integration Design Standard](INTEGRATION-DESIGN-STANDARD.md)
@@ -74,19 +82,17 @@
 - [Global Deployment Guide](GLOBAL-DEPLOYMENT-GUIDE.md)
 - [Release & Change Governance](RELEASE-CHANGE-GOVERNANCE.md)
 
-## 7. Websites, Apps & Digital Presence
+## 8. Websites, Apps & Digital Presence
 - [Website & App Intelligence](WEBSITE-APP-INTELLIGENCE.md)
 - [Voice / Multimodal](VOICE-MULTIMODAL.md)
 - [Knowledge & Data](KNOWLEDGE-DATA.md)
 - [Website / GitHub / GEO Sync Spec](WEBSITE-CONTENT-SYNC-SPEC.md)
 - [Accessibility & Internationalization](ACCESSIBILITY-INTERNATIONALIZATION.md)
 
-## 8. Industries
+## 9. Industries & AI Employee Landing Knowledge
 - [Industry Solutions](INDUSTRY-SOLUTIONS.md)
 - [66 Industry Scenario Library](INDUSTRY-SCENARIO-LIBRARY.md)
 - [39 Industry GEO Packs](../seo/industry-packs/INDEX.md)
-
-## 9. AI Employee Landing Knowledge
 - [60 AI Employee Landing Packs](../seo/role-packs/INDEX.md)
 
 ## 10. Developer & Ecosystem
@@ -111,9 +117,10 @@
 - [Master Knowledge Catalog](MASTER-KNOWLEDGE-CATALOG.md)
 
 ## 13. Search, GEO & AI Discovery
+- [SEO / GEO Quality Standard](../seo/SEO-GEO-QUALITY-STANDARD.md)
+- [SEO/GEO Strategy](../seo/SEO-GEO-STRATEGY.md)
 - [GEO Knowledge Graph](../seo/GEO-KNOWLEDGE-GRAPH.md)
 - [AI Search Answer Map](../seo/AI-SEARCH-ANSWER-MAP.md)
-- [SEO/GEO Strategy](../seo/SEO-GEO-STRATEGY.md)
 - [Final Website Information Architecture](../seo/FINAL-WEBSITE-INFORMATION-ARCHITECTURE.md)
 - [Source-of-Truth Map](../seo/SOURCE-OF-TRUTH-MAP.md)
 - [Website Page Map](../seo/WEBSITE-PAGE-MAP.md)
@@ -134,7 +141,10 @@
 # 中文导航
 
 ## 智慧生命体核心
-最终旗舰总蓝图 · 智慧生命体愿景 · 生命周期 · 能力地图 · 公开架构 · 解决方案架构 · 产品分类 · 产品状态。
+最终旗舰总蓝图 · 智慧生命体愿景 · 生命周期 · 能力地图 · 公开架构 · 2026 全球 Agent 技术雷达 · 解决方案架构 · 产品状态。
+
+## KING AI 智慧前沿
+`intelligence/` 是 Blog / Research / Intelligence 发布频道。系统每两个小时进行一次研究与交叉检查，只有真实、高价值、低重复度的内容才发布。
 
 ## 企业与 AI Workforce
 企业智慧生命体 · AI Workforce 运营模型 · 成熟度 · Control Center · 120+ 岗位 · KPI · Mission / Role 设计标准。
@@ -149,12 +159,13 @@ Trust Center · 安全问卷 · 企业治理 · Trust Evidence · 数据治理 �
 **39 个行业 GEO Pack + 66 个行业场景 + 60 个 AI Employee Landing Pack + 120+ 岗位模式。**
 
 ## SEO / GEO / AI Search
-GEO Knowledge Graph · AI Search Answer Map · Final Website IA · Source-of-Truth Map · JSON-LD · `llms.txt`。
+SEO/GEO Quality Standard · GEO Knowledge Graph · AI Search Answer Map · Final Website IA · Source-of-Truth Map · JSON-LD · `llms.txt`。
 
 ---
 
 **Canonical Brand:** KING AI  
 **Unified System:** KING AI SEA  
+**Canonical Category:** Intelligent Lifeform Platform / 智慧生命体平台  
 **Positioning:** The Intelligent Lifeform for People & Enterprises / 面向个人与企业的智慧生命体  
 **Website:** https://www.kingai.work  
 **Business:** vip@kingai.work

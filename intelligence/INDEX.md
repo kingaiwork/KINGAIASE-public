@@ -1,75 +1,61 @@
 # KING AI Intelligence
 
-> Autonomous Research · Knowledge · Publishing · GEO
+> **Autonomous Research · Knowledge · Publishing · GEO**
 
-This directory is the public intelligence publishing channel for KING AI SEA.
+KING AI Intelligence is the public blog-style research and analysis channel for KING AI SEA.
 
 ## Latest Intelligence
 
 ### August 12, 2026
 
 - [Agent Harnesses and Declarative Workflows Are Becoming Core Production Infrastructure for AI Agents](2026-08-12-agent-harnesses-declarative-workflows.md)  
-  **Topics:** AI Agents · Agent Harness · Multi-Agent Workflows · Enterprise AI · Governance · Long-Running Tasks  
-  Examines Microsoft Agent Framework's July 2026 harness, declarative workflow and durable-execution developments, and explains why runtime, persistence, approvals, observability and recoverability are becoming central to production AI agents.
+  **Topics:** AI Agents · Agent Harness · Multi-Agent Workflows · Enterprise AI · Governance · Long-Running Tasks
 
----
+## Explore
+
+- **Agent Systems** — harnesses, tools, durable execution, workflows and multi-agent coordination
+- **Intelligent Lifeforms** — continuity, memory, identity, long-term intelligence and controlled evolution
+- **AI Workforce** — AI employees, enterprise operating models and mission design
+- **Trust & Governance** — permissions, approvals, evaluation, observability and security
+- **Protocols & Ecosystem** — MCP, A2A, interoperability and developer ecosystems
+- **Infrastructure** — stateful runtimes, durable workflows, cloud and private deployment patterns
+- **Industry Intelligence** — practical AI patterns for vertical markets
+- **SEO / GEO** — AI-search discoverability, entity consistency and citation readiness
 
 ## Publishing Principle
 
-The system checks for meaningful developments on an hourly cadence, but it does **not** publish simply because an hour has passed. New content is published only when it is sufficiently relevant, reliable, non-duplicative and useful to the KING AI SEA knowledge ecosystem.
+The system performs a **research + repository-quality cycle every two hours**, but it does **not** publish simply because the interval has passed. New content is published only when it is relevant, reliable, non-duplicative and useful to the KING AI SEA public knowledge ecosystem.
 
-## Coverage
+When a new development overlaps heavily with an existing article, the preferred action is to update the existing canonical article.
 
-- Intelligent lifeforms
-- AI agents and multi-agent systems
-- AI Workforce and AI employees
-- Long-term memory and continuity
-- Controlled evolution
-- Enterprise AI
-- Governance, observability and security
-- Agent interoperability and tool ecosystems
-- Multimodal agents
-- Developer ecosystems
-- Industry AI
+## Quality Standard
 
-## Content Types
+Every Intelligence article should:
 
-- Intelligence Brief
-- Research Insight
-- Industry Insight
-- Enterprise Guide
-- Canonical Q&A Update
-- GEO / AI Search Knowledge Update
+1. use complete English first and complete Chinese second
+2. answer the primary question clearly near the top
+3. rely on authoritative primary sources for technical claims
+4. separate industry facts from KING AI SEA interpretation
+5. distinguish third-party capabilities from owner-verified KING AI SEA product status
+6. link to relevant canonical repository knowledge
+7. avoid unsupported superlatives, invented metrics and keyword stuffing
+8. include meaningful publication/update dates
 
-## Language Order
+## Related
 
-Every public intelligence article should use:
-
-1. Complete English version first
-2. Complete Chinese version second
-
-## Canonical Sources
-
-Official website: https://www.kingai.work
-
-Official GitHub: https://github.com/kingaiwork/kingai-sea
-
-Business & Partnership: vip@kingai.work
-
-## Technology Boundary
-
-Public intelligence content explains market developments, product implications, public capabilities and high-level architecture. It must not disclose proprietary orchestration, private prompts, memory internals, model-routing logic, SAE internals, ACRE internals, Root Policy Kernel implementation, credentials, private endpoints, database schemas or production topology.
+- [Global Agent Technology Radar 2026](../docs/GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md)
+- [SEO / GEO Quality Standard](../seo/SEO-GEO-QUALITY-STANDARD.md)
+- [Automated Publishing Policy](../automation/INTELLIGENCE-PUBLISHING-POLICY.md)
+- [Article Template](ARTICLE-TEMPLATE.md)
 
 ---
 
 # 中文说明
 
-**KING AI Intelligence / KING AI 智慧前沿** 是 KING AI SEA 的公开智慧内容发布频道。
+**KING AI Intelligence / KING AI 智慧前沿** 是 KING AI SEA 的公开 Blog、研究和行业分析频道。
 
-系统按照每小时节奏检查全球 AI Agent、智慧生命体、AI Workforce、Memory、企业 AI、安全、治理、互操作、多模态和行业 AI 的重要变化，但不会为了更新频率强制生成内容。只有具备真实性、新增价值、相关性和足够质量的内容才会进入公开知识体系。
+系统每两个小时自动进行一次全球技术研究、仓库交叉检查、去重和 SEO/GEO 质量判断。**不是每两个小时强制发布一篇文章**：没有真正新增价值时不发布；与旧文章高度重复时优先更新原文。
 
-最新内容：
+重点覆盖智慧生命体、AI Agent、Agent Harness、Durable Execution、AI Workforce、AI 员工、长期记忆、受控进化、MCP、A2A、多智能体协作、评估、可观测、安全治理、Cloud/Private Infrastructure 和行业 AI。
 
-- [Agent Harness 与 Declarative Workflow 正成为生产级 AI Agent 的核心基础设施](2026-08-12-agent-harnesses-declarative-workflows.md)
-
-公开内容继续遵循：**英文完整在前，中文完整在后；展示公开能力和行业判断，不公开 KING AI SEA 核心专有实现。**
+所有技术性判断优先引用官方/原始来源，并明确区分“全球技术趋势”与“KING AI SEA 已上线产品能力”。

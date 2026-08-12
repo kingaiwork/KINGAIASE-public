@@ -1,5 +1,27 @@
 # KING AI SEA — Public Changelog
 
+## 2026-08-12 — Deep Cross-Audit, Technology Radar & SEO/GEO Upgrade
+
+Completed repository-wide public-knowledge optimization:
+
+- changed KING AI Intelligence research cycle from hourly to every two hours
+- fixed publishing-cadence drift across automation policy, Intelligence index and `llms.txt`
+- fixed README Source-of-Truth and Final Website IA paths (`seo/`, not `docs/`)
+- promoted KING AI Intelligence to first-class README and Documentation Hub navigation
+- standardized the primary public category as **Intelligent Lifeform Platform**
+- added Global Agent Technology Radar 2026 based on current primary technical sources
+- added SEO / GEO Quality Standard with canonical, hreflang, FAQPage, IndexNow and AI-citation guidance
+- added repository audit report
+- added article template for consistent blog-style Intelligence publishing
+- added automated Markdown-link and JSON / JSON-LD validation
+- added GitHub Actions Repository Quality workflow on push, PR, manual runs and a two-hour scheduled check
+- reinforced separation between third-party technology research and KING AI SEA product-availability claims
+
+### Public technology boundary
+No proprietary orchestration, model routing, memory internals, SAE/ACRE internals, Root Policy Kernel implementation, credentials or private production topology were published.
+
+---
+
 ## 2026-08-08 — Final Flagship Public Knowledge Architecture
 
 Major repository expansion completed:
@@ -11,25 +33,10 @@ Major repository expansion completed:
 - 66 industry scenarios
 - 39 industry GEO knowledge packs
 - 210+ canonical bilingual Q&A
-- Enterprise Buyer Guide, RFP and Procurement Checklist
-- Enterprise Security Questionnaire and Trust Center
-- Architecture Assessment and Solution Architecture Templates
-- AI Workforce Operating Model and Maturity Model
-- Pilot Playbook, Implementation RACI and Acceptance Framework
-- KPI, ROI, Benchmark & Evaluation frameworks
-- Data Governance, Integration Design, Mission Design and Role Design standards
-- Incident Response / Human Override and Business Continuity
-- Responsible Deployment and Compliance Positioning guides
-- Global Deployment, Support/SLA and Change Governance
-- Partner Certification and Case Study templates
-- Commercial Packaging, Enterprise Sales and Customer Success models
-- Accessibility / Internationalization standard
+- enterprise buying, RFP, security, governance, pilot, implementation, KPI, ROI and evaluation frameworks
 - final GEO Knowledge Graph, AI Search Answer Map and Source-of-Truth Map
 - final Website Information Architecture
 - updated `llms.txt`
-
-### Public technology boundary
-The repository deliberately presents product capability and high-level architecture without publishing proprietary core implementation or security-sensitive internals.
 
 ### Canonical website
 https://www.kingai.work
