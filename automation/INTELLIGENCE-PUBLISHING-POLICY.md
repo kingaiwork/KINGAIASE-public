@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Run a **two-hour intelligence and repository-quality cycle** for KING AI SEA. Research continuously, publish selectively, and keep the public knowledge system accurate, current, internally consistent and useful.
+Run a **two-hour intelligence, repository-quality and publishing cycle** for KING AI SEA. Each cycle should produce one high-quality public Intelligence content event while keeping the public knowledge system accurate, current, internally consistent and useful.
 
 ## Two-Hour Decision Flow
 
@@ -11,22 +11,25 @@ Run a **two-hour intelligence and repository-quality cycle** for KING AI SEA. Re
 3. For technical claims, prefer official documentation, standards bodies, original research and first-party engineering sources.
 4. Score relevance, novelty, reliability and usefulness.
 5. Compare with existing Intelligence articles, canonical Q&A, role packs, industry packs and product docs.
-6. Choose one action: **CREATE**, **UPDATE**, **REPAIR**, **GEO/FAQ UPDATE**, or **NO PUBLISH**.
-7. Publish to `main` only when the content or repair is materially justified.
+6. Select the best distinct publication type for the cycle.
+7. Publish to `main` only after the content passes the quality gate.
 8. Update indexes and machine-readable references when useful.
 
 ## Publishing Cadence
 
-The research cycle runs every two hours. A new article is **not** required every two hours.
+The publishing cycle runs every two hours.
 
-When nothing material has changed, choose `NO PUBLISH`. When a closely related article already exists, prefer `UPDATE` over creating a competing page.
+Each cycle should publish one high-quality blog-style Intelligence content item. When there is important fresh news, publish an **Intelligence Brief**. When there is no important fresh news, publish a distinct evergreen **Research Insight**, technical explainer, protocol analysis, enterprise guide, architecture discussion, industry analysis or AI Workforce article based on authoritative sources.
+
+Never create a thin or near-duplicate page merely to satisfy cadence. If a proposed topic substantially overlaps an existing canonical article, choose another distinct high-value topic. When an existing article genuinely needs a material update, update the canonical article and record the dated update in the Intelligence index.
 
 ## Preferred Article Structure
 
 - Title
 - Publication / update date
+- Primary intent
 - Executive Summary / Short Answer
-- What Changed
+- What Changed / What the Concept Is
 - Why It Matters
 - Implications for AI Agents / Intelligent Lifeforms
 - Implications for Individuals / Enterprises
@@ -84,4 +87,4 @@ Maintain when materially useful:
 
 ## Principle
 
-**Every two hours is a research and quality cycle. Only meaningful changes become public content.**
+**Every two hours produces a high-quality public Intelligence content event; quality, distinct intent and factual integrity take priority over volume.**
