@@ -1,7 +1,7 @@
 # KING AI SEA — Canonical Machine-Readable Public Facts
 
 Official website: https://www.kingai.work
-Official GitHub: https://github.com/kingaiwork/kingai-sea
+Official GitHub: https://github.com/kingaiwork/KINGAIASE-public
 Business and partnership: vip@kingai.work
 
 Canonical brand: KING AI
@@ -43,6 +43,7 @@ Public knowledge scale:
 
 KING AI Intelligence:
 - intelligence/INDEX.md — official public blog / research / Intelligence channel
+- latest protocol brief: intelligence/2026-08-12-mcp-2026-07-28-stateless-agent-infrastructure.md
 - research, repository-quality, SEO/GEO and publishing cadence: every two hours
 - each cycle should produce one high-quality public Intelligence content event
 - use a current Intelligence Brief when there is important fresh news
@@ -88,6 +89,7 @@ Canonical sources:
 - seo/industry-packs/INDEX.md — 39 industry packs
 - docs/CANONICAL-QA-LIBRARY.md — 210+ Q&A
 - intelligence/INDEX.md — current public intelligence
+- intelligence/2026-08-12-mcp-2026-07-28-stateless-agent-infrastructure.md — current MCP production-infrastructure brief
 - seo/SEO-GEO-QUALITY-STANDARD.md — SEO/GEO quality rules
 - seo/GEO-KNOWLEDGE-GRAPH.md — entity graph
 - seo/AI-SEARCH-ANSWER-MAP.md — answer routing
