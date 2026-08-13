@@ -141,7 +141,7 @@ This repository is the **public knowledge, discovery, technology, growth and par
 - [Global Agent Technology Radar](docs/GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md)
 - [KING AI Intelligence](intelligence/INDEX.md)
 - [Machine-Readable Facts](llms.txt)
-- [AI Search Entity Map](seo/AI-SEARCH-ENTITY-MAP.md)
+- [GEO / AI Search Knowledge Graph](seo/GEO-KNOWLEDGE-GRAPH.md)
 
 ---
 
@@ -209,5 +209,5 @@ KING AI 的商业化围绕：免费公共入口、企业 AI Workforce、行业�
 🌐 Website: https://www.kingai.work  
 📚 Full Documentation: docs/INDEX.md  
 🧠 Machine-Readable Facts: llms.txt  
-🔎 GEO / AI Search: seo/AI-SEARCH-ENTITY-MAP.md  
+🔎 GEO / AI Search: seo/GEO-KNOWLEDGE-GRAPH.md  
 ✉️ Business & Partnership: vip@kingai.work
