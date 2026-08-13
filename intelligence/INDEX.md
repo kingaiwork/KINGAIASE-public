@@ -8,6 +8,9 @@ KING AI Intelligence is the public blog-style research and analysis channel for 
 
 ### August 12, 2026
 
+- [Data Residency for Stateful AI Agents: Why One Region Setting Is Not Enough](2026-08-12-data-residency-for-stateful-ai-agents.md)  
+  **Topics:** AI Agents · Data Residency · Memory · Durable State · Vector Stores · Enterprise AI · Governance
+
 - [MCP 2026-07-28: Why Stateless, Routable and Durable Tool Infrastructure Matters for AI Agents](2026-08-12-mcp-2026-07-28-stateless-agent-infrastructure.md)  
   **Topics:** Model Context Protocol · MCP · AI Agents · Agent Infrastructure · Tool Use · Enterprise AI · Security · Long-Running Tasks
 
@@ -19,9 +22,9 @@ KING AI Intelligence is the public blog-style research and analysis channel for 
 - **Agent Systems** — harnesses, tools, durable execution, workflows and multi-agent coordination
 - **Intelligent Lifeforms** — continuity, memory, identity, long-term intelligence and controlled evolution
 - **AI Workforce** — AI employees, enterprise operating models and mission design
-- **Trust & Governance** — permissions, approvals, evaluation, observability and security
+- **Trust & Governance** — permissions, approvals, evaluation, observability, data residency and security
 - **Protocols & Ecosystem** — MCP, A2A, interoperability and developer ecosystems
-- **Infrastructure** — stateful runtimes, durable workflows, cloud and private deployment patterns
+- **Infrastructure** — stateful runtimes, durable workflows, data locality, cloud and private deployment patterns
 - **Industry Intelligence** — practical AI patterns for vertical markets
 - **SEO / GEO** — AI-search discoverability, entity consistency and citation readiness
 
@@ -65,6 +68,6 @@ Every Intelligence article should:
 
 不会为了频率制造薄内容或关键词重复页面。若候选主题与已有文章高度重合，则选择另一个独立搜索意图，或者对原有权威文章进行实质更新并在索引中记录更新时间。
 
-重点覆盖智慧生命体、AI Agent、Agent Harness、Durable Execution、AI Workforce、AI 员工、长期记忆、受控进化、MCP、A2A、多智能体协作、评估、可观测、安全治理、Cloud/Private Infrastructure 和行业 AI。
+重点覆盖智慧生命体、AI Agent、Agent Harness、Durable Execution、AI Workforce、AI 员工、长期记忆、受控进化、MCP、A2A、多智能体协作、数据驻留、评估、可观测、安全治理、Cloud/Private Infrastructure 和行业 AI。
 
 所有技术性判断优先引用官方/原始来源，并明确区分“全球技术趋势”与“KING AI SEA 已验证产品能力”。
