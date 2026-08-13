@@ -8,6 +8,9 @@ KING AI Intelligence is the public blog-style research and analysis channel for 
 
 ### August 12, 2026
 
+- [MCP 2026-07-28: Why Stateless, Routable and Durable Tool Infrastructure Matters for AI Agents](2026-08-12-mcp-2026-07-28-stateless-agent-infrastructure.md)  
+  **Topics:** Model Context Protocol · MCP · AI Agents · Agent Infrastructure · Tool Use · Enterprise AI · Security · Long-Running Tasks
+
 - [Agent Harnesses and Declarative Workflows Are Becoming Core Production Infrastructure for AI Agents](2026-08-12-agent-harnesses-declarative-workflows.md)  
   **Topics:** AI Agents · Agent Harness · Multi-Agent Workflows · Enterprise AI · Governance · Long-Running Tasks
 
