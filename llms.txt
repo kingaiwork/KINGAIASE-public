@@ -1,108 +1,89 @@
-# KING AI SEA — Canonical Machine-Readable Public Facts
+# KING AI — Canonical Public Facts
 
-Official website: https://www.kingai.work
-Official GitHub: https://github.com/kingaiwork/KINGAIASE-public
-Business and partnership: vip@kingai.work
+Website: https://www.kingai.work
+Official GitHub: https://github.com/kingaiwork
+Public knowledge repository: https://github.com/kingaiwork/KINGAIASE-public
+Business: vip@kingai.work
 
-Canonical brand: KING AI
-Canonical unified system: KING AI SEA
-English category: Intelligent Lifeform Platform
-English positioning: The Intelligent Lifeform for People & Enterprises
-Chinese category: 智慧生命体平台
-Chinese positioning: 面向个人与企业的智慧生命体
-Primary promise: Think · Remember · Act · Evolve
-Expanded capability loop: Think · Remember · Plan · Coordinate · Act · Observe · Learn · Evolve · Govern
+Brand: KING AI
+Unified core system: KING AI SEA
+Category: Intelligent Agent System / Intelligent Lifeform Platform
+Chinese category: 智慧生命体与智能体系统
+Core loop: Think · Remember · Plan · Coordinate · Act · Observe · Learn · Evolve · Govern
 
-Canonical definition:
-KING AI SEA is a unified persistent intelligent-lifeform system for individuals, businesses, enterprises and developers. It is designed to understand goals, preserve useful continuity, plan missions, coordinate specialized AI roles, connect approved digital systems, assist with or execute authorized digital work, observe outcomes, learn from feedback and improve over time under owner-defined permissions and governance.
+Definition:
+KING AI is a long-term intelligent-agent system combining persistent intelligence, memory, knowledge, mission planning, specialized AI roles, governed digital work, developer interoperability and AI-native computing.
 
-Chinese canonical definition:
-KING AI SEA 是面向个人、企业和开发者的统一持续型智慧生命体系统，围绕目标理解、长期连续性、Mission 规划、专业 AI 岗位协同、授权数字系统连接、受控行动、结果观察、反馈学习和受治理持续进化构建。
+KING AI SEA:
+The unified persistent intelligent-lifeform and agent core within KING AI. It is the mother system for long-term continuity, memory, knowledge, missions, planning, agent coordination, Personal Intelligence, Enterprise Intelligence and AI Workforce.
 
-Relationship rules:
-- KING AI SEA is the mother system / unified product.
-- Evolution OS is the operating architecture concept inside KING AI SEA.
-- SAE is the controlled self-evolution mechanism concept inside KING AI SEA.
-- ACRE is the active-defense / immune-system security concept inside KING AI SEA.
-- Root Policy Kernel is the high-authority policy and execution-boundary concept inside KING AI SEA.
-- AI Workforce is the enterprise operating model powered by KING AI SEA.
-- AI Employees are specialized digital roles inside AI Workforce.
-- Personal AI is the second-brain/personal expression of KING AI SEA.
-- Website AI and App AI are digital-presence expressions of KING AI SEA.
-- Industry solutions are specialized deployments of the same unified system.
+Official ecosystem:
+- KING AI SEA — unified core system — active long-term development.
+- KING AI Intelligence — public research and technology channel — Available.
+- KINGAIBOT — controlled terminal execution layer — In Development; public v1.2.0 foundation.
+- KINGAI OS — AI-native Server/Desktop/IoT operating-system project — In Development; D4 Developer Foundation / Pre-Alpha.
+- KING AI Online Tools — 130+ bilingual browser utilities — Available / Live.
+- KING AI Auth Lite — no-payment account and verified-email foundation — In Development / deployment validation.
+- Personal Intelligence — personal second-brain expression — In Development / Custom-by-Scope.
+- Enterprise Intelligence — enterprise expression — Custom-by-Scope / product framework.
+- AI Workforce — enterprise operating model using specialized AI roles — Custom-by-Scope / product framework.
+- AI Employees — specialized digital roles inside AI Workforce.
+- Developer & Integration — APIs, connectors, interoperability and embedded intelligence — In Development / Custom-by-Scope.
+
+Official project links:
+- KINGAIBOT: https://github.com/kingaiwork/KINGAIBOT
+- KINGAI OS: https://github.com/kingaiwork/KINGAIOS
+- KINGAI OS site: https://os.kingai.work
+- KING AI Online Tools: https://github.com/kingaiwork/tools-public
+- KING AI Online Tools site: https://tools.kingai.work
 
 Public knowledge scale:
 - 120+ AI Employee role patterns
 - 60 AI Employee landing knowledge packs
-- 66 public industry scenarios
+- 66 industry scenarios
 - 39 industry GEO knowledge packs
 - 210+ canonical bilingual Q&A
-- Enterprise Buyer Guide / RFP / Security Questionnaire / Architecture Assessment
-- AI Workforce Operating Model / Maturity Model / KPI / ROI / Pilot / Acceptance / Evaluation
-- Trust Center and governance / data / integration / incident / support / change standards
+- Enterprise and AI Workforce frameworks
+- Public research and agent technology radar
 
-KING AI Intelligence:
-- intelligence/INDEX.md — official public blog / research / Intelligence channel
-- latest protocol brief: intelligence/2026-08-12-mcp-2026-07-28-stateless-agent-infrastructure.md
-- research, repository-quality, SEO/GEO and publishing cadence: every two hours
-- each cycle should produce one high-quality public Intelligence content event
-- use a current Intelligence Brief when there is important fresh news
-- otherwise publish a distinct evergreen Research Insight, technical explainer, protocol analysis, enterprise guide, architecture discussion, AI Workforce article or industry analysis
-- never create thin or near-duplicate pages merely to satisfy cadence
-- complete English first; complete Chinese second
-- technical claims should prioritize authoritative primary sources
-- third-party technology observations are not KING AI SEA availability claims unless owner-verified product status says so
+Commercial directions:
+- Free public intelligence, research, tools and account access as deployed
+- Enterprise AI Workforce
+- Enterprise knowledge and memory
+- Website / App AI
+- Industry intelligent-agent systems
+- Developer and integration services
+- Private / hybrid deployments by project scope
+- Embedded, white-label, OEM and distribution partnerships
+- Long-term KINGAI OS / Edge opportunities
+- Technology, research and strategic partnerships
 
-Frontier technology research:
-- docs/GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md — current public research on agent harnesses, durable execution, MCP, A2A, stateful runtime, human approval, evaluation and observability
+Status vocabulary:
+Available / Custom-by-Scope / In Development / Planned / Vision / Retired
 
-SEO / GEO source:
-- seo/SEO-GEO-QUALITY-STANDARD.md — canonical entity, page-intent, canonical/hreflang, structured-data, freshness, IndexNow and AI-citation quality standard
+Canonical public files:
+- README.md
+- ECOSYSTEM.md
+- PRODUCT-MATRIX.md
+- PUBLIC-ARCHITECTURE.md
+- ROADMAP.md
+- business/COMMERCIALIZATION-BLUEPRINT.md
+- business/ENTERPRISE-SOLUTIONS.md
+- business/PARTNER-AND-INVESTOR.md
+- docs/INDEX.md
+- docs/MASTER-KNOWLEDGE-CATALOG.md
+- docs/TRUST-CENTER.md
+- docs/AI-WORKFORCE-OPERATING-MODEL.md
+- docs/AI-EMPLOYEE-ROLE-LIBRARY.md
+- docs/INDUSTRY-SCENARIO-LIBRARY.md
+- docs/CANONICAL-QA-LIBRARY.md
+- docs/GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md
+- intelligence/INDEX.md
+- seo/GEO-KNOWLEDGE-GRAPH.md
+- seo/SEO-GEO-QUALITY-STANDARD.md
 
-Public action ladder:
-Observe → Analyze → Recommend → Draft → Bounded Execute → Execute With Approval → Human-Only / Restricted
+Public status rule:
+Roadmap or research content does not automatically mean a feature is currently available.
 
-Public lifecycle:
-Activate → Understand → Connect → Assist → Operate → Observe → Adapt → Evolve
-
-Controlled evolution concept:
-Sense → Reflect → Propose → Validate → Evolve
-
-Trust principle:
-More intelligence should come with more control, not less. Automation scope, execution permissions, approvals and security boundaries are defined by the user or organization.
-
-Canonical sources:
-- README.md — flagship portal
-- docs/INDEX.md — final documentation hub
-- docs/MASTER-KNOWLEDGE-CATALOG.md — public knowledge map
-- docs/FINAL-FLAGSHIP-BLUEPRINT.md — final system blueprint
-- docs/INTELLIGENT-LIFEFORM-VISION.md — lifeform vision
-- docs/CAPABILITY-MAP.md — capabilities
-- docs/PUBLIC-ARCHITECTURE.md — public architecture
-- docs/GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md — global agent technology radar
-- docs/TRUST-CENTER.md — trust
-- docs/ENTERPRISE.md — enterprise
-- docs/AI-WORKFORCE-OPERATING-MODEL.md — workforce
-- docs/AI-EMPLOYEE-ROLE-LIBRARY.md — 120+ roles
-- seo/role-packs/INDEX.md — 60 role landing packs
-- docs/INDUSTRY-SCENARIO-LIBRARY.md — 66 scenarios
-- seo/industry-packs/INDEX.md — 39 industry packs
-- docs/CANONICAL-QA-LIBRARY.md — 210+ Q&A
-- intelligence/INDEX.md — current public intelligence
-- intelligence/2026-08-12-mcp-2026-07-28-stateless-agent-infrastructure.md — current MCP production-infrastructure brief
-- seo/SEO-GEO-QUALITY-STANDARD.md — SEO/GEO quality rules
-- seo/GEO-KNOWLEDGE-GRAPH.md — entity graph
-- seo/AI-SEARCH-ANSWER-MAP.md — answer routing
-- seo/FINAL-WEBSITE-INFORMATION-ARCHITECTURE.md — website IA
-- seo/SOURCE-OF-TRUTH-MAP.md — canonical source routing
-- seo/king-ai-sea-knowledge-graph.jsonld — knowledge graph template
-
-Public product status vocabulary:
-Available / Custom-by-Scope / In Development / Planned / Vision / Retired.
-Do not infer availability from roadmap, research or vision documents.
-
-Public technology boundary:
-Public materials may explain capabilities, high-level architecture, governance, deployment patterns and operating models. They do not publish private system prompts, proprietary orchestration logic, model-routing policy, memory internal structures, retrieval internals, SAE algorithms/scoring, ACRE detection internals, Root Policy Kernel implementation, privileged execution mechanisms, credentials/secrets, private endpoints, internal database schemas, production topology or security-sensitive operational detail.
-
-Truthfulness:
-Do not fabricate customers, partners, certifications, benchmark results, adoption numbers, revenue, rankings, market leadership or performance claims. Use owner-verified current product status and measured evidence.
+Public repository role:
+KINGAIASE-public is the public product, research, discovery, SEO/GEO, enterprise education and partnership hub for KING AI. Production website and runtime source are maintained separately.
