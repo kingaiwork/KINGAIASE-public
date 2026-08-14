@@ -1,45 +1,118 @@
-# KING AI SEA — Public Changelog
+# KING AI Changelog
 
-## 2026-08-12 — Deep Cross-Audit, Technology Radar & SEO/GEO Upgrade
+## 2026-08-14 — Intelligence Hub, Use Cases & Enterprise Buying Guides
 
-Completed repository-wide public-knowledge optimization:
+Expanded KING AI into a clearer product, research and enterprise knowledge experience.
 
-- changed KING AI Intelligence research cycle from hourly to every two hours
-- fixed publishing-cadence drift across automation policy, Intelligence index and `llms.txt`
-- fixed README Source-of-Truth and Final Website IA paths (`seo/`, not `docs/`)
-- promoted KING AI Intelligence to first-class README and Documentation Hub navigation
-- standardized the primary public category as **Intelligent Lifeform Platform**
-- added Global Agent Technology Radar 2026 based on current primary technical sources
-- added SEO / GEO Quality Standard with canonical, hreflang, FAQPage, IndexNow and AI-citation guidance
-- added repository audit report
-- added article template for consistent blog-style Intelligence publishing
-- added automated Markdown-link and JSON / JSON-LD validation
-- added GitHub Actions Repository Quality workflow on push, PR, manual runs and a two-hour scheduled check
-- reinforced separation between third-party technology research and KING AI SEA product-availability claims
+### New Intelligence articles
 
-### Public technology boundary
-No proprietary orchestration, model routing, memory internals, SAE/ACRE internals, Root Policy Kernel implementation, credentials or private production topology were published.
+- [One General AI Assistant Is Not an AI Workforce](intelligence/2026-08-14-one-general-assistant-is-not-an-ai-workforce.md)
+- [Human Approval Is Not Friction — It Is a Production Feature](intelligence/2026-08-14-human-approval-is-a-production-feature.md)
+- [What Makes an AI Workflow Worth Paying For?](intelligence/2026-08-14-what-makes-an-ai-workflow-worth-paying-for.md)
+
+### New discovery path
+
+Added [Explore KING AI by Problem](USE-CASES.md), covering common starting points such as:
+
+- enterprise knowledge that is difficult to reuse;
+- recurring workflows that consume too much time;
+- inconsistent use of general AI assistants;
+- customer questions and guided self-service;
+- market and technology intelligence;
+- persistent project context;
+- controlled AI action;
+- proving ROI before wider adoption.
+
+### KING AI Intelligence
+
+The Intelligence hub now includes dedicated reading paths for:
+
+- business leaders;
+- AI Workforce teams;
+- production-agent builders;
+- persistent-intelligence product teams;
+- enterprise AI buyers.
+
+The publication is organized around four long-running themes:
+
+**Persistent Intelligence · AI Workforce · Enterprise Buying & ROI · Trust & Production**
+
+### Documentation
+
+The main documentation hub now starts from reader intent rather than file structure:
+
+- understand KING AI;
+- evaluate enterprise solutions;
+- build an AI Workforce;
+- explore architecture and agent systems;
+- evaluate trust and production readiness;
+- build or integrate as a developer.
+
+### Machine-readable facts
+
+Updated `llms.txt` with current ecosystem status, business problems, solution areas, reading paths and the latest Intelligence articles.
 
 ---
 
-## 2026-08-08 — Final Flagship Public Knowledge Architecture
+## 2026-08-13 — Commercial Entry, Pilot Path & Persistent Intelligence
 
-Major repository expansion completed:
+Added a clearer path from product understanding to practical evaluation.
 
-- unified final intelligent-lifeform blueprint
-- final README and Documentation Hub
-- 120+ AI Employee public role library
-- 60 AI Employee landing knowledge packs
-- 66 industry scenarios
-- 39 industry GEO knowledge packs
-- 210+ canonical bilingual Q&A
-- enterprise buying, RFP, security, governance, pilot, implementation, KPI, ROI and evaluation frameworks
-- final GEO Knowledge Graph, AI Search Answer Map and Source-of-Truth Map
-- final Website Information Architecture
-- updated `llms.txt`
+### New guides
 
-### Canonical website
-https://www.kingai.work
+- [Start a KING AI Pilot](business/START-A-PILOT.md)
+- [Start With One Workflow: A Better Way to Pilot AI in a Real Business](intelligence/2026-08-13-start-with-one-workflow-ai-pilot.md)
+- [Beyond the Chatbot: Why Persistent Intelligence Matters](intelligence/2026-08-13-persistent-intelligence-beyond-chatbots.md)
 
-### Business
-vip@kingai.work
+### Enterprise experience
+
+Expanded enterprise solution guidance around:
+
+- knowledge and memory;
+- AI Workforce;
+- recurring workflow intelligence;
+- Website / App Intelligence;
+- research and executive intelligence;
+- developer integration;
+- private and hybrid system options.
+
+### Ecosystem
+
+Clarified the relationship between KING AI SEA, KINGAIBOT, KINGAI OS, KING AI Intelligence, Online Tools, AI Workforce and Personal Intelligence.
+
+---
+
+## 2026-08-12 — Agent Technology & Enterprise Knowledge Expansion
+
+Expanded technical and enterprise learning resources with material covering:
+
+- stateful agent infrastructure;
+- MCP and interoperability;
+- durable and declarative agent workflows;
+- data residency for long-running intelligent systems;
+- enterprise evaluation and governance;
+- AI Workforce design;
+- industry scenarios and role patterns.
+
+The public knowledge system includes a global agent technology radar, enterprise frameworks and structured product-status guidance.
+
+---
+
+## 2026-08-08 — Flagship Knowledge Foundation
+
+Established the broad KING AI knowledge foundation, including:
+
+- intelligent-lifeform system blueprint;
+- capability and architecture documentation;
+- 120+ AI Employee role patterns;
+- 60 AI Employee knowledge packs;
+- 66 industry scenarios;
+- 39 industry knowledge packs;
+- 210+ bilingual Q&A;
+- enterprise buyer, Pilot, KPI, ROI and evaluation resources;
+- trust and governance documentation.
+
+---
+
+🌐 https://www.kingai.work  
+✉️ vip@kingai.work
