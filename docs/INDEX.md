@@ -1,171 +1,174 @@
-# 👑 KING AI SEA — Final Documentation Hub
+# KING AI Documentation
 
-> **Intelligent Lifeform first. Everything else is an extension.**
+**Products · Architecture · Enterprise · AI Workforce · Trust · Developers · Industries**
+
+KING AI documentation explains the system from the perspective of the people who may use it, evaluate it, integrate it or build with it.
 
 🌐 https://www.kingai.work  
 ✉️ vip@kingai.work
 
----
+## Start here
 
-# English Documentation
+### I want to understand KING AI
 
-## 1. Intelligent Lifeform Core
-- [Final Flagship Blueprint](FINAL-FLAGSHIP-BLUEPRINT.md)
-- [Intelligent Lifeform Vision](INTELLIGENT-LIFEFORM-VISION.md)
-- [Intelligent Lifeform Lifecycle](INTELLIGENT-LIFEFORM-LIFECYCLE.md)
+- [KING AI Ecosystem](../ECOSYSTEM.md)
+- [Explore by Problem](../USE-CASES.md)
+- [Product Matrix](../PRODUCT-MATRIX.md)
+- [Public Architecture](../PUBLIC-ARCHITECTURE.md)
+- [Why KING AI](WHY-KING-AI.md)
 - [Capability Map](CAPABILITY-MAP.md)
-- [Public Architecture](PUBLIC-ARCHITECTURE.md)
-- [Global Agent Technology Radar 2026](GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md)
-- [Solution Architecture Templates](SOLUTION-ARCHITECTURE-TEMPLATES.md)
-- [Why KING AI SEA](WHY-KING-AI.md)
-- [Competitive Category Guide](COMPETITIVE-CATEGORY-GUIDE.md)
-- [Product Editions](PRODUCT-EDITIONS.md)
-- [Product Status Matrix](PRODUCT-STATUS-MATRIX.md)
 
-## 2. KING AI Intelligence
-- [KING AI Intelligence Home](../intelligence/INDEX.md)
-- [Latest Intelligence Brief](../intelligence/2026-08-12-agent-harnesses-declarative-workflows.md)
-- [Article Template](../intelligence/ARTICLE-TEMPLATE.md)
-- [Automated Publishing Policy](../automation/INTELLIGENCE-PUBLISHING-POLICY.md)
-- [Repository Audit — 2026-08-12](REPOSITORY-AUDIT-2026-08-12.md)
+### I run a business or enterprise team
 
-## 3. Personal Intelligence
-- [Personal Intelligence](PERSONAL.md)
-- [Memory, Continuity & Evolution](MEMORY-EVOLUTION.md)
-- [Voice / Vision / Multimodal](VOICE-MULTIMODAL.md)
-- [Knowledge & Data](KNOWLEDGE-DATA.md)
+- [Enterprise Solutions](../business/ENTERPRISE-SOLUTIONS.md)
+- [Start a KING AI Pilot](../business/START-A-PILOT.md)
+- [Enterprise Intelligence](ENTERPRISE.md)
+- [Enterprise Buyer Guide](ENTERPRISE-BUYER-GUIDE.md)
+- [Enterprise Readiness Scorecard](ENTERPRISE-READINESS-SCORECARD.md)
+- [Use-Case ROI Framework](USE-CASE-ROI-FRAMEWORK.md)
 
-## 4. Enterprise Intelligence & AI Workforce
-- [Enterprise](ENTERPRISE.md)
+### I am building an AI Workforce
+
 - [AI Workforce Operating Model](AI-WORKFORCE-OPERATING-MODEL.md)
 - [AI Workforce Maturity Model](AI-WORKFORCE-MATURITY-MODEL.md)
-- [AI Control Center](AI-CONTROL-CENTER.md)
 - [AI Employees](AI-EMPLOYEES.md)
 - [120+ AI Employee Role Library](AI-EMPLOYEE-ROLE-LIBRARY.md)
 - [AI Workforce KPI Library](AI-WORKFORCE-KPI-LIBRARY.md)
 - [Mission Design Standard](MISSION-DESIGN-STANDARD.md)
 - [Role Design Standard](ROLE-DESIGN-STANDARD.md)
 
-## 5. Enterprise Buying, Assessment & Delivery
-- [Enterprise Buyer Guide](ENTERPRISE-BUYER-GUIDE.md)
-- [Enterprise Architecture Assessment](ENTERPRISE-ARCHITECTURE-ASSESSMENT.md)
-- [Enterprise RFP Template](ENTERPRISE-RFP-TEMPLATE.md)
-- [Procurement Checklist](PROCUREMENT-CHECKLIST.md)
-- [Enterprise Readiness Scorecard](ENTERPRISE-READINESS-SCORECARD.md)
-- [Enterprise Pilot Playbook](ENTERPRISE-PILOT-PLAYBOOK.md)
-- [Implementation RACI](IMPLEMENTATION-RACI.md)
-- [Implementation & Acceptance Framework](IMPLEMENTATION-ACCEPTANCE-FRAMEWORK.md)
-- [Benchmark & Evaluation Framework](BENCHMARK-EVALUATION-FRAMEWORK.md)
-- [Use-Case ROI Framework](USE-CASE-ROI-FRAMEWORK.md)
-- [Case Study Template](CASE-STUDY-TEMPLATE.md)
+### I care about architecture and agent systems
 
-## 6. Trust, Security & Governance
+- [Public Architecture](PUBLIC-ARCHITECTURE.md)
+- [Global Agent Technology Radar 2026](GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md)
+- [Agentic Automation & Workflows](AUTOMATION-WORKFLOWS.md)
+- [Interoperability](INTEROPERABILITY.md)
+- [Integration Catalog](INTEGRATION-CATALOG.md)
+- [Deployment](DEPLOYMENT.md)
+
+### I care about trust and production readiness
+
 - [Trust Center](TRUST-CENTER.md)
-- [Enterprise Security Questionnaire](SECURITY-QUESTIONNAIRE.md)
-- [Enterprise Operating Governance](ENTERPRISE-OPERATING-GOVERNANCE.md)
 - [Governance, Observability & Evaluation](GOVERNANCE-OBSERVABILITY.md)
-- [Trust Evidence Catalog](TRUST-EVIDENCE-CATALOG.md)
 - [Data Governance & Readiness](DATA-GOVERNANCE-READINESS.md)
 - [Incident Response & Human Override](INCIDENT-RESPONSE-HUMAN-OVERRIDE.md)
 - [Business Continuity & Recovery](BUSINESS-CONTINUITY-RECOVERY.md)
 - [Responsible Deployment Standard](RESPONSIBLE-DEPLOYMENT-STANDARD.md)
-- [Compliance Positioning Guide](COMPLIANCE-POSITIONING.md)
 - [Security](SECURITY.md)
-- [Repository Security Policy](../SECURITY.md)
 
-## 7. Missions, Automation & Integrations
-- [Agentic Automation & Workflows](AUTOMATION-WORKFLOWS.md)
-- [Integration Catalog](INTEGRATION-CATALOG.md)
+### I am a developer or technology partner
+
+- [Developer Ecosystem](DEVELOPER-ECOSYSTEM.md)
 - [Integration Design Standard](INTEGRATION-DESIGN-STANDARD.md)
 - [Interoperability](INTEROPERABILITY.md)
-- [Deployment](DEPLOYMENT.md)
-- [Global Deployment Guide](GLOBAL-DEPLOYMENT-GUIDE.md)
-- [Release & Change Governance](RELEASE-CHANGE-GOVERNANCE.md)
-
-## 8. Websites, Apps & Digital Presence
 - [Website & App Intelligence](WEBSITE-APP-INTELLIGENCE.md)
-- [Voice / Multimodal](VOICE-MULTIMODAL.md)
 - [Knowledge & Data](KNOWLEDGE-DATA.md)
-- [Website / GitHub / GEO Sync Spec](WEBSITE-CONTENT-SYNC-SPEC.md)
-- [Accessibility & Internationalization](ACCESSIBILITY-INTERNATIONALIZATION.md)
+- [Voice / Vision / Multimodal](VOICE-MULTIMODAL.md)
 
-## 9. Industries & AI Employee Landing Knowledge
+## Product and system
+
+- [Final Flagship Blueprint](FINAL-FLAGSHIP-BLUEPRINT.md)
+- [Intelligent Lifeform Vision](INTELLIGENT-LIFEFORM-VISION.md)
+- [Intelligent Lifeform Lifecycle](INTELLIGENT-LIFEFORM-LIFECYCLE.md)
+- [Capability Map](CAPABILITY-MAP.md)
+- [Solution Architecture Templates](SOLUTION-ARCHITECTURE-TEMPLATES.md)
+- [Product Editions](PRODUCT-EDITIONS.md)
+- [Product Status Matrix](PRODUCT-STATUS-MATRIX.md)
+
+## Personal Intelligence
+
+- [Personal Intelligence](PERSONAL.md)
+- [Memory, Continuity & Evolution](MEMORY-EVOLUTION.md)
+- [Knowledge & Data](KNOWLEDGE-DATA.md)
+- [Voice / Vision / Multimodal](VOICE-MULTIMODAL.md)
+
+## Enterprise Intelligence
+
+- [Enterprise](ENTERPRISE.md)
+- [AI Control Center](AI-CONTROL-CENTER.md)
+- [Enterprise Architecture Assessment](ENTERPRISE-ARCHITECTURE-ASSESSMENT.md)
+- [Enterprise RFP Template](ENTERPRISE-RFP-TEMPLATE.md)
+- [Procurement Checklist](PROCUREMENT-CHECKLIST.md)
+- [Enterprise Pilot Playbook](ENTERPRISE-PILOT-PLAYBOOK.md)
+- [Implementation & Acceptance Framework](IMPLEMENTATION-ACCEPTANCE-FRAMEWORK.md)
+- [Benchmark & Evaluation Framework](BENCHMARK-EVALUATION-FRAMEWORK.md)
+- [Case Study Template](CASE-STUDY-TEMPLATE.md)
+
+## Industries and AI roles
+
 - [Industry Solutions](INDUSTRY-SOLUTIONS.md)
 - [66 Industry Scenario Library](INDUSTRY-SCENARIO-LIBRARY.md)
-- [39 Industry GEO Packs](../seo/industry-packs/INDEX.md)
-- [60 AI Employee Landing Packs](../seo/role-packs/INDEX.md)
+- [39 Industry Knowledge Packs](../seo/industry-packs/INDEX.md)
+- [120+ AI Employee Role Library](AI-EMPLOYEE-ROLE-LIBRARY.md)
+- [60 AI Employee Knowledge Packs](../seo/role-packs/INDEX.md)
 
-## 10. Developer & Ecosystem
-- [Developer Ecosystem](DEVELOPER-ECOSYSTEM.md)
-- [Marketplace](MARKETPLACE.md)
-- [Agent Commerce](AGENT-COMMERCE.md)
-- [Partner Ecosystem](PARTNER-ECOSYSTEM.md)
-- [Partner Certification Framework](PARTNER-CERTIFICATION-FRAMEWORK.md)
+## KING AI Intelligence
 
-## 11. Commercial & Customer Operations
-- [Commercial Packaging Framework](COMMERCIAL-PACKAGING-FRAMEWORK.md)
-- [Enterprise Sales Playbook](ENTERPRISE-SALES-PLAYBOOK.md)
-- [Customer Success Operating Model](CUSTOMER-SUCCESS-OPERATING-MODEL.md)
-- [Change Management & Adoption](CHANGE-MANAGEMENT-ADOPTION.md)
-- [Support & SLA Operating Model](SUPPORT-SLA-OPERATING-MODEL.md)
-- [Global Go-To-Market](GLOBAL-GO-TO-MARKET.md)
+For articles, practical guides and technology perspectives, visit:
 
-## 12. Canonical Knowledge & FAQ
-- [210+ Canonical Q&A Library](CANONICAL-QA-LIBRARY.md)
+- [KING AI Intelligence](../intelligence/INDEX.md)
+- [One General AI Assistant Is Not an AI Workforce](../intelligence/2026-08-14-one-general-assistant-is-not-an-ai-workforce.md)
+- [Human Approval Is a Production Feature](../intelligence/2026-08-14-human-approval-is-a-production-feature.md)
+- [What Makes an AI Workflow Worth Paying For?](../intelligence/2026-08-14-what-makes-an-ai-workflow-worth-paying-for.md)
+- [Start With One Workflow](../intelligence/2026-08-13-start-with-one-workflow-ai-pilot.md)
+- [Beyond the Chatbot](../intelligence/2026-08-13-persistent-intelligence-beyond-chatbots.md)
+
+## Knowledge and reference
+
 - [FAQ](FAQ.md)
-- [Knowledge Operations Standard](KNOWLEDGE-OPERATIONS-STANDARD.md)
+- [210+ Canonical Q&A Library](CANONICAL-QA-LIBRARY.md)
 - [Master Knowledge Catalog](MASTER-KNOWLEDGE-CATALOG.md)
-
-## 13. Search, GEO & AI Discovery
-- [SEO / GEO Quality Standard](../seo/SEO-GEO-QUALITY-STANDARD.md)
-- [SEO/GEO Strategy](../seo/SEO-GEO-STRATEGY.md)
-- [GEO Knowledge Graph](../seo/GEO-KNOWLEDGE-GRAPH.md)
-- [AI Search Answer Map](../seo/AI-SEARCH-ANSWER-MAP.md)
-- [Final Website Information Architecture](../seo/FINAL-WEBSITE-INFORMATION-ARCHITECTURE.md)
-- [Source-of-Truth Map](../seo/SOURCE-OF-TRUTH-MAP.md)
-- [Website Page Map](../seo/WEBSITE-PAGE-MAP.md)
-- [Entity Knowledge](../seo/ENTITY-KNOWLEDGE.md)
-- [Knowledge Graph JSON-LD](../seo/king-ai-sea-knowledge-graph.jsonld)
-- [Canonical FAQ JSON-LD](../seo/canonical-faq.jsonld)
 - [Machine-Readable Facts](../llms.txt)
+- [GEO Knowledge Graph](../seo/GEO-KNOWLEDGE-GRAPH.md)
 
-## 14. Product Integrity & Release
-- [Public Claims Standard](PUBLIC-CLAIMS-STANDARD.md)
-- [Final Delivery Checklist](FINAL-DELIVERY-CHECKLIST.md)
-- [Flagship Roadmap](FLAGSHIP-ROADMAP.md)
-- [Public Documentation Notice](../NOTICE.md)
-- [Changelog](../CHANGELOG.md)
+## Recommended reading paths
+
+### Business leader
+
+`Explore by Problem → Enterprise Solutions → Pilot → ROI → Trust`
+
+### Enterprise AI leader
+
+`AI Workforce → Role Design → Governance → Evaluation → Pilot`
+
+### Developer
+
+`Architecture → Interoperability → Integrations → Developer Ecosystem`
+
+### Researcher
+
+`KING AI Intelligence → Technology Radar → Architecture → Trust`
 
 ---
 
 # 中文导航
 
-## 智慧生命体核心
-最终旗舰总蓝图 · 智慧生命体愿景 · 生命周期 · 能力地图 · 公开架构 · 2026 全球 Agent 技术雷达 · 解决方案架构 · 产品状态。
+## 第一次了解 KING AI
 
-## KING AI 智慧前沿
-`intelligence/` 是 Blog / Research / Intelligence 发布频道。系统每两个小时进行一次研究与交叉检查，只有真实、高价值、低重复度的内容才发布。
+建议顺序：
 
-## 企业与 AI Workforce
-企业智慧生命体 · AI Workforce 运营模型 · 成熟度 · Control Center · 120+ 岗位 · KPI · Mission / Role 设计标准。
+**生态体系 → 按问题找方案 → 产品矩阵 → 架构 → 能力地图**
 
-## 企业采购与实施
-Buyer Guide · Architecture Assessment · RFP · 采购清单 · 就绪评分 · Pilot · RACI · 验收 · Benchmark · ROI · Case Study。
+## 企业负责人
 
-## 信任、安全与治理
-Trust Center · 安全问卷 · 企业治理 · Trust Evidence · 数据治理 · Incident / Human Override · Business Continuity · Responsible Deployment · 合规表述。
+建议顺序：
 
-## 行业与岗位
-**39 个行业 GEO Pack + 66 个行业场景 + 60 个 AI Employee Landing Pack + 120+ 岗位模式。**
+**企业解决方案 → Start a Pilot → Buyer Guide → ROI → Trust Center**
 
-## SEO / GEO / AI Search
-SEO/GEO Quality Standard · GEO Knowledge Graph · AI Search Answer Map · Final Website IA · Source-of-Truth Map · JSON-LD · `llms.txt`。
+## AI Workforce
 
----
+建议顺序：
 
-**Canonical Brand:** KING AI  
-**Unified System:** KING AI SEA  
-**Canonical Category:** Intelligent Lifeform Platform / 智慧生命体平台  
-**Positioning:** The Intelligent Lifeform for People & Enterprises / 面向个人与企业的智慧生命体  
-**Website:** https://www.kingai.work  
-**Business:** vip@kingai.work
+**AI Workforce 运营模型 → AI 岗位库 → Role Design → KPI → Mission Design**
+
+## 技术与开发者
+
+建议顺序：
+
+**公开架构 → Agent Technology Radar → Interoperability → Integration → Developer Ecosystem**
+
+## 持续阅读
+
+进入 [KING AI 智慧前沿](../intelligence/INDEX.md)，阅读持续智慧、企业 AI、AI Workforce、Agent Systems、生产治理和 AI 采购相关内容。
+
+**Business & Partnership:** vip@kingai.work
