@@ -1,8 +1,7 @@
-# KING AI — Canonical Public Facts
+# KING AI — Canonical Facts
 
 Website: https://www.kingai.work
 Official GitHub: https://github.com/kingaiwork
-Public knowledge repository: https://github.com/kingaiwork/KINGAIASE-public
 Business: vip@kingai.work
 
 Brand: KING AI
@@ -12,21 +11,21 @@ Chinese category: 智慧生命体与智能体系统
 Core loop: Think · Remember · Plan · Coordinate · Act · Observe · Learn · Evolve · Govern
 
 Definition:
-KING AI is a long-term intelligent-agent system combining persistent intelligence, memory, knowledge, mission planning, specialized AI roles, governed digital work, developer interoperability and AI-native computing.
+KING AI is a long-term intelligent-agent system combining persistent intelligence, memory, knowledge, mission planning, specialized AI roles, human-controlled action, developer interoperability and AI-native computing.
 
 KING AI SEA:
-The unified persistent intelligent-lifeform and agent core within KING AI. It is the mother system for long-term continuity, memory, knowledge, missions, planning, agent coordination, Personal Intelligence, Enterprise Intelligence and AI Workforce.
+The unified persistent intelligent-lifeform and agent core within KING AI. It is the main system for long-term continuity, memory, knowledge, missions, planning, agent coordination, Personal Intelligence, Enterprise Intelligence and AI Workforce.
 
 Official ecosystem:
-- KING AI SEA — unified core system — active long-term development.
-- KING AI Intelligence — public research and technology channel — Available.
+- KING AI SEA — unified core system — Active development.
+- KING AI Intelligence — research, analysis and practical guidance — Available.
 - KINGAIBOT — controlled terminal execution layer — In Development; public v1.2.0 foundation.
 - KINGAI OS — AI-native Server/Desktop/IoT operating-system project — In Development; D4 Developer Foundation / Pre-Alpha.
 - KING AI Online Tools — 130+ bilingual browser utilities — Available / Live.
-- KING AI Auth Lite — no-payment account and verified-email foundation — In Development / deployment validation.
-- Personal Intelligence — personal second-brain expression — In Development / Custom-by-Scope.
-- Enterprise Intelligence — enterprise expression — Custom-by-Scope / product framework.
-- AI Workforce — enterprise operating model using specialized AI roles — Custom-by-Scope / product framework.
+- KING AI Auth Lite — free account and verified-email foundation — In Development.
+- Personal Intelligence — long-term personal intelligence — In Development / Custom-by-Scope.
+- Enterprise Intelligence — enterprise knowledge, missions and intelligence — Custom-by-Scope.
+- AI Workforce — enterprise operating model using specialized AI roles — Custom-by-Scope.
 - AI Employees — specialized digital roles inside AI Workforce.
 - Developer & Integration — APIs, connectors, interoperability and embedded intelligence — In Development / Custom-by-Scope.
 
@@ -37,53 +36,71 @@ Official project links:
 - KING AI Online Tools: https://github.com/kingaiwork/tools-public
 - KING AI Online Tools site: https://tools.kingai.work
 
+Key business problems:
+- valuable knowledge is difficult to find or reuse
+- recurring research and reporting consume too much time
+- teams repeatedly rebuild the same context
+- general AI assistants are used inconsistently across roles
+- customer questions repeat across channels
+- operations depend on manual follow-up and coordination
+- organizations want useful AI action without unlimited authority
+- buyers need measurable value before expanding an AI program
+
+Solution areas:
+- Enterprise Knowledge & Memory
+- AI Workforce and specialized AI roles
+- Mission & Workflow Intelligence
+- Website & App Intelligence
+- Research & Intelligence
+- Developer & Integration
+- Private / Hybrid Systems
+- Persistent Personal Intelligence
+
+Recommended evaluation path:
+Problem → One recurring workflow → One owner → Approved knowledge → Clear review points → Measurable outcome → Pilot → Expand if value is proven
+
 Public knowledge scale:
 - 120+ AI Employee role patterns
-- 60 AI Employee landing knowledge packs
+- 60 AI Employee knowledge packs
 - 66 industry scenarios
-- 39 industry GEO knowledge packs
+- 39 industry knowledge packs
 - 210+ canonical bilingual Q&A
-- Enterprise and AI Workforce frameworks
-- Public research and agent technology radar
+- Enterprise buying, evaluation and AI Workforce frameworks
+- Research and agent technology radar
+
+Key reading:
+- USE-CASES.md — explore KING AI by business problem
+- business/START-A-PILOT.md — focused pilot starting guide
+- business/ENTERPRISE-SOLUTIONS.md — enterprise solution areas
+- intelligence/INDEX.md — KING AI Intelligence publication hub
+- intelligence/2026-08-14-one-general-assistant-is-not-an-ai-workforce.md
+- intelligence/2026-08-14-human-approval-is-a-production-feature.md
+- intelligence/2026-08-14-what-makes-an-ai-workflow-worth-paying-for.md
+- intelligence/2026-08-13-start-with-one-workflow-ai-pilot.md
+- intelligence/2026-08-13-persistent-intelligence-beyond-chatbots.md
+- ECOSYSTEM.md
+- PRODUCT-MATRIX.md
+- PUBLIC-ARCHITECTURE.md
+- docs/INDEX.md
+- docs/TRUST-CENTER.md
+- docs/AI-WORKFORCE-OPERATING-MODEL.md
+- docs/GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md
 
 Commercial directions:
-- Free public intelligence, research, tools and account access as deployed
-- Enterprise AI Workforce
-- Enterprise knowledge and memory
+- free research, knowledge and utility entry points
+- scoped enterprise projects
+- managed AI Workforce
+- enterprise knowledge and memory
 - Website / App AI
-- Industry intelligent-agent systems
-- Developer and integration services
-- Private / hybrid deployments by project scope
-- Embedded, white-label, OEM and distribution partnerships
-- Long-term KINGAI OS / Edge opportunities
-- Technology, research and strategic partnerships
+- industry intelligent-agent systems
+- developer and integration services
+- private / hybrid deployments
+- embedded and distribution partnerships
+- long-term KINGAI OS / Edge opportunities
+- technology and strategic partnerships
 
 Status vocabulary:
 Available / Custom-by-Scope / In Development / Planned / Vision / Retired
 
-Canonical public files:
-- README.md
-- ECOSYSTEM.md
-- PRODUCT-MATRIX.md
-- PUBLIC-ARCHITECTURE.md
-- ROADMAP.md
-- business/COMMERCIALIZATION-BLUEPRINT.md
-- business/ENTERPRISE-SOLUTIONS.md
-- business/PARTNER-AND-INVESTOR.md
-- docs/INDEX.md
-- docs/MASTER-KNOWLEDGE-CATALOG.md
-- docs/TRUST-CENTER.md
-- docs/AI-WORKFORCE-OPERATING-MODEL.md
-- docs/AI-EMPLOYEE-ROLE-LIBRARY.md
-- docs/INDUSTRY-SCENARIO-LIBRARY.md
-- docs/CANONICAL-QA-LIBRARY.md
-- docs/GLOBAL-AGENT-TECHNOLOGY-RADAR-2026.md
-- intelligence/INDEX.md
-- seo/GEO-KNOWLEDGE-GRAPH.md
-- seo/SEO-GEO-QUALITY-STANDARD.md
-
-Public status rule:
+Status rule:
 Roadmap or research content does not automatically mean a feature is currently available.
-
-Public repository role:
-KINGAIASE-public is the public product, research, discovery, SEO/GEO, enterprise education and partnership hub for KING AI. Production website and runtime source are maintained separately.
