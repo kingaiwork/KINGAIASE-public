@@ -1,4 +1,4 @@
-name: Repository Quality
+name: Repository Quality Zero-Bill
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
   pull_request:
   workflow_dispatch:
   schedule:
-    - cron: '23 */2 * * *'
+    - cron: '23 */6 * * *'
 
 permissions:
   contents: read
@@ -17,16 +17,21 @@ concurrency:
 
 jobs:
   validate:
-    runs-on: ubuntu-24.04
-    timeout-minutes: 10
+    runs-on: [self-hosted, linux, x64, kingai-vps]
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v7
-
-      - name: Setup Python
-        uses: actions/setup-python@v6
         with:
-          python-version: '3.13'
-
+          persist-credentials: false
+      - name: Public zero-bill/no-authority guard
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 --version
+          test ! -f wrangler.toml
+          test ! -f wrangler.json
+          test ! -f wrangler.jsonc
+          ! grep -RIn --exclude-dir=.git -E 'OPENAI_API_KEY|ANTHROPIC_API_KEY|DEEPSEEK_API_KEY|GEMINI_API_KEY|CLOUDFLARE_API_TOKEN|SUPABASE_.*SECRET|r2_buckets|JOBS_QUEUE|JOBS_DLQ|runs-on:[[:space:]]*(ubuntu|windows|macos)|actions/upload-artifact' .
       - name: Validate public repository
-        run: python scripts/validate_repo.py
+        run: python3 scripts/validate_repo.py
