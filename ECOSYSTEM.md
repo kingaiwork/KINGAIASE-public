@@ -1,144 +1,190 @@
-# KING AI Ecosystem · Unified Intelligent Agent System
+# KING AI Ecosystem · One Brand, Many Product Expressions
 
-## English
+KING AI is one connected ecosystem built around persistent intelligence, governed action, useful software and long-term digital experiences. This document is the canonical public relationship map for customers, users, partners, investors, search engines and AI systems.
 
-KING AI is organized as one long-term system with multiple product expressions. The purpose of this file is to prevent fragmented positioning and make the relationship between projects clear to customers, developers, partners, investors and AI search systems.
-
-## Canonical relationship
+## Canonical ecosystem map
 
 ```text
 KING AI
-└── KING AI SEA — unified intelligent-lifeform / agent system
-    ├── Personal Intelligence
-    ├── Enterprise Intelligence
-    ├── AI Workforce / AI Employees
-    ├── KING AI Intelligence / Research
-    ├── Developer & Integration Layer
-    ├── Identity & Account Foundation
-    ├── KINGAIBOT — controlled execution layer
-    ├── KINGAI OS — AI-native computing layer
-    └── KING AI Online Tools — public utility product
+└── KING AI SEA — unified intelligence / agent mother system
+    ├── Intelligence & Agent Systems
+    │   ├── Personal Intelligence
+    │   ├── Enterprise Intelligence
+    │   ├── AI Workforce / AI Employees
+    │   ├── KING AI Intelligence
+    │   └── Developer & Integration
+    │
+    ├── Execution & Computing
+    │   ├── KINGAIBOT
+    │   ├── KINGAI OS
+    │   └── KINGAI OPS
+    │
+    ├── Security & Productivity
+    │   ├── KINGAI Security
+    │   ├── KINGAI Office
+    │   ├── KING AI Customer OS
+    │   └── KING AI Online Tools
+    │
+    ├── Digital Life & Entertainment
+    │   ├── AI Life / 数字人生 / 虚拟人生
+    │   ├── Digital Life foundation
+    │   └── KINGAI Pet
+    │
+    ├── Media & Public Intelligence
+    │   ├── Atalk.TV
+    │   └── ZuiMeiTV / 最美TV
+    │
+    └── Shared Foundations
+        ├── Identity & Account
+        ├── Memory / Knowledge
+        ├── Governance / Approval / Audit
+        └── Public Knowledge / SEO / GEO / AI Discovery
 ```
 
+The ecosystem is intentionally broad. KING AI is not positioned as one chatbot or one model wrapper. The long-term brand direction is a family of intelligent products that can share identity, knowledge, memory, governance and infrastructure while serving very different user needs.
+
+## Core platform
+
 ### KING AI SEA
-The mother system and persistent intelligence layer. It is the umbrella system for memory, knowledge, missions, planning, agent coordination, governance, observation, learning and controlled evolution.
+SEA is the mother system and long-term intelligence layer of the ecosystem. It provides the conceptual center for memory, knowledge, missions, agent coordination, governance, learning and controlled evolution.
+
+The strategic value of SEA is not one interface. It is the possibility that different products can become more useful when intelligence, identity and continuity are shared instead of rebuilt independently.
+
+## Intelligence & agent products
 
 ### Personal Intelligence
-The personal expression of KING AI: long-term context, second-brain workflows, knowledge continuity, task support and personal digital intelligence. Public status: **In Development / Custom-by-Scope**.
+A long-term personal intelligence direction for memory, knowledge continuity, planning and personal digital assistance.
 
-### Enterprise Intelligence & AI Workforce
-The enterprise expression: specialized AI roles, governed missions, shared knowledge, workflow automation, observability, approval and human oversight. Public status: **Custom-by-Scope / product framework**.
+### Enterprise Intelligence / AI Workforce
+Enterprise-oriented intelligence, specialized AI roles, governed missions, shared knowledge, workflow assistance and human oversight.
 
 ### KING AI Intelligence
-The public research and analysis channel for agent systems, memory, security, protocols, deployment patterns and technical developments. Public status: **Available**.
+Public research, technical analysis and intelligence covering agents, memory, security, protocols, deployment, AI-native computing and related developments.
+
+### Developer & Integration
+The ecosystem direction for APIs, connectors, MCP/A2A interoperability, embedded intelligence and approved system integrations.
+
+## Execution & computing
 
 ### KINGAIBOT
-A separate execution-oriented runtime intended to become the trusted terminal execution layer for KING AI. The public v1.2.0 foundation includes durable tasks, policy-aware execution, sandboxing, MCP/A2A, auditability, safe updates and controlled evolution proposals. Public status: **In Development**.
+The controlled agent execution runtime of the ecosystem. Its role is to help move intelligence from plans into real digital actions while keeping authority, evidence, recovery and governance explicit.
 
 Official repository: https://github.com/kingaiwork/KINGAIBOT
 
 ### KINGAI OS
-An AI-native, agent-native, local-first, secure-by-default, model-neutral and cloud-neutral operating-system project covering Server, Desktop and IoT / Edge directions. Public status: **D4 Developer Foundation / Pre-Alpha**.
+The AI-native computing direction of KING AI across Server, Desktop, IoT/Edge and containerized environments. It explores how agents, memory, policy, tasks and controlled execution can become deeper computing capabilities rather than isolated applications.
 
 Official repository: https://github.com/kingaiwork/KINGAIOS  
 Official site: https://os.kingai.work
 
+### KINGAI OPS
+The server, edge and infrastructure operations product. It focuses on the operational loop **observe → understand → approve → act → verify → audit**.
+
+Product: https://ops.kingai.work
+
+## Security & productivity
+
+### KINGAI Security
+The endpoint-security and antivirus product family of KING AI. The public positioning focuses on accessible protection, lightweight operation, modern threat defense and a path toward broader intelligent endpoint security.
+
+[Product overview](products/KINGAI-SECURITY.md)
+
+### KINGAI Office
+The productivity and document-work product family of KING AI, covering writing, spreadsheets, presentations, PDF workflows and intelligent assistance across open and widely used document formats.
+
+[Product overview](products/KINGAI-OFFICE.md)
+
+### KING AI Customer OS
+The customer-service, sales-assistance and relationship-intelligence layer. Its long-term role is to connect public knowledge, customer conversations, intent, lead capture, service workflows and human handoff.
+
+[Product overview](products/KINGAI-CUSTOMER-OS.md)
+
 ### KING AI Online Tools
-A live bilingual utility platform with 130+ browser tools. It provides practical public value and acts as an accessible entry point into the broader KING AI ecosystem. Public status: **Available / Live**.
+A live bilingual utility platform with 130+ browser tools. It is a practical public entry point into KING AI and demonstrates a broader product principle: use AI where it adds value, and keep deterministic work simple when AI is unnecessary.
 
 Official repository: https://github.com/kingaiwork/tools-public  
 Live site: https://tools.kingai.work
 
-### KING AI Auth Lite
-A no-payment identity foundation currently being integrated and validated for free account registration, human verification, verified email, passwordless authentication and secure sessions. Public status: **In Development / deployment validation**.
+## Digital life & entertainment
 
-It is intentionally separated from payment so the initial account experience can remain simple and accessible.
+### AI Life / 数字人生 / 虚拟人生
+A persistent virtual second-life experience built around relationships, home, career, city, travel, events, possessions and long-term memory. The product brings KING AI's continuity and memory ideas into consumer entertainment.
 
-## System layers
+[Product overview](products/AI-LIFE.md)
+
+### Digital Life foundation
+The broader digital-life direction behind persistent identities, characters, memories and virtual-world continuity. It supports the long-term vision of digital beings and experiences that can evolve over time.
+
+### KINGAI Pet
+A collectible digital-pet life and adventure product combining companionship, collection, progression and persistent identity.
+
+[Product overview](products/KINGAI-PET.md)
+
+## Media & public intelligence
+
+### Atalk.TV
+A global trends and explanation product designed to help users quickly understand what happened, why it matters and what sources support the story.
+
+Website: https://atalk.tv/  
+[Product overview](products/ATALK-TV.md)
+
+### ZuiMeiTV / 最美TV
+A creator-discovery and public media-intelligence product for the global Chinese-speaking creator economy, with long-term opportunities in verified profiles, reports, brand discovery and creator services.
+
+[Product overview](products/ZUIMEITV.md)
+
+## Shared ecosystem value
+
+The products are intentionally different, but they can reinforce each other:
 
 ```text
-1. EXPERIENCE
-   Web · Account · Personal · Enterprise · Developer
-
-2. INTELLIGENCE
-   Memory · Knowledge · Verified Intelligence · Missions · Planning · Agent Coordination
-
-3. GOVERNANCE
-   Policy · Permissions · Approval · Risk · Audit · Human Override · Controlled Evolution
-
-4. EXECUTION
-   KINGAIBOT · Tools · APIs · MCP · A2A · Workflows · Services · Devices
-
-5. COMPUTING
-   KINGAI OS Server · Desktop · IoT / Edge
-
-6. PUBLIC KNOWLEDGE & DISTRIBUTION
-   KING AI Intelligence · Online Tools · Documentation · SEO/GEO · Global web delivery
+Identity
+  +
+Memory & Knowledge
+  +
+Governed Intelligence
+  +
+Execution
+  +
+Security
+  +
+Product Experiences
+  +
+Public Distribution
+        ↓
+A broader KING AI ecosystem
 ```
 
-## Public technologies and interoperability direction
+For users, this can mean less fragmentation and more continuity. For businesses, it creates multiple entry points into the same technology family. For partners, it creates integration and distribution opportunities across software, infrastructure, media, productivity, security and consumer experiences.
 
-KING AI is designed to remain model-neutral and framework-neutral. Public architecture may integrate or interoperate with technologies such as MCP, A2A, browser automation, APIs, workflows, containerized execution, local/cloud models and secure edge delivery. Third-party technology references are interoperability or research signals unless explicitly identified as a current KING AI product capability.
+## Public status language
 
-## What is not a separate competing product
+KING AI uses clear status labels so long-term ambition does not become a false current claim:
 
-Evolution OS, SAE, ACRE and Root Policy Kernel are architectural concepts within the KING AI system direction, not competing standalone brands:
+- **Available / Live** — usable in its current supported scope.
+- **Active Development** — real product work exists and continues to evolve.
+- **Custom-by-Scope** — available through a defined commercial/project scope.
+- **Planned / Vision** — future direction, not current general availability.
 
-- **Evolution OS** — operating architecture concept for persistent intelligence and controlled evolution.
-- **SAE** — controlled self-evolution mechanism concept.
-- **ACRE** — active-defense / immune-system security concept.
-- **Root Policy Kernel** — high-authority policy and execution-boundary concept.
+## Permanent personal-project exceptions
 
-## Public source boundary
+The following are owned by the same creator/owner but are **personal projects and are not part of the KING AI main ecosystem**:
 
-The public repository explains product positioning, high-level architecture, research, trust, commercial models, use cases and official project relationships. Production implementation remains private.
+- **Jackhao.tv / 郝才子 / Jackhao** — personal music, writing and creator brand.
+- **USChinese / 美国华人网 / usdxchinaren** — personal Chinese-community/media project.
+
+They must not be automatically added to KING AI product matrices, ecosystem diagrams, investor portfolio counts or shared product positioning unless the owner explicitly changes this policy in the future.
+
+Canonical ownership policy: [docs/ECOSYSTEM-OWNERSHIP-POLICY.md](docs/ECOSYSTEM-OWNERSHIP-POLICY.md)
 
 ---
 
-# 中文
+# 中文摘要
 
-## KING AI 统一生态
+KING AI 现在统一定义为一个完整主生态，而不是几个孤立的 AI 技术项目。
 
-KING AI 不是多个互相竞争的项目，而是一套长期智能体系统的不同层级和产品形态。
+主生态包括：**SEA、AI Workforce、KINGAIBOT、KINGAI OS、KINGAI OPS、KINGAI Security、KINGAI Office、Customer OS、Online Tools、AI Life/数字人生/虚拟人生、Digital Life、KINGAI Pet、Atalk.TV、ZuiMeiTV** 等。
 
-```text
-KING AI
-└── KING AI SEA — 统一智慧生命体 / 智能体主系统
-    ├── Personal Intelligence · 个人智慧
-    ├── Enterprise Intelligence · 企业智慧
-    ├── AI Workforce / AI Employees
-    ├── KING AI Intelligence · 研究与公开情报
-    ├── Developer & Integration
-    ├── 身份与账户基础
-    ├── KINGAIBOT · 受控终端执行层
-    ├── KINGAI OS · AI 原生计算层
-    └── KING AI Online Tools · 公共实用工具产品
-```
+它们分别覆盖智慧系统、执行、操作系统、运维、安全、办公、客服销售、实用工具、数字生命、游戏、媒体和创作者经济，但长期可以共享身份、记忆、知识、治理和基础设施。
 
-### KING AI SEA
-母系统与持续智慧核心，统一承担长期记忆、知识、Mission、规划、Agent 协同、治理、观察、学习和受控进化方向。
-
-### Personal Intelligence
-面向个人的第二大脑和长期个人智慧形态。当前公开状态：**开发中 / 按范围定制**。
-
-### Enterprise Intelligence / AI Workforce
-面向企业的 AI 岗位、Mission、共享知识、流程自动化、审批、审计与人工监督体系。当前公开状态：**按项目范围定制 / 产品框架**。
-
-### KING AI Intelligence
-公开研究与分析频道，覆盖 Agent、记忆、安全、协议、部署和技术趋势。当前公开状态：**已可用**。
-
-### KINGAIBOT
-独立研发的受控执行 Runtime，长期目标是成为 KING AI 主系统的可信终端执行层。当前公开状态：**开发中，公开 v1.2.0 工程基础**。
-
-### KINGAI OS
-AI 原生、Agent 原生、本地优先、安全默认、模型中立和云中立的操作系统项目，覆盖 Server、Desktop、IoT / Edge。当前公开状态：**D4 Developer Foundation / Pre-Alpha**。
-
-### KING AI Online Tools
-130+ 中英文浏览器工具的在线公共产品。当前公开状态：**已可用 / Live**。
-
-### KING AI Auth Lite
-无支付注册与登录基础，目标包括 Turnstile 人机验证、邮箱验证、Passwordless 登录和安全 Session。当前公开状态：**开发中 / 部署验证阶段**。
-
-## 统一原则
-
-所有对外网站、GitHub、商业资料和 AI 可读信息都应把 KING AI 作为统一品牌，把 SEA、BOT、OS、Tools、Intelligence、AI Workforce 等作为同一生态的不同层级，而不是互相割裂的项目。
+**永久例外：Jackhao.tv 与 USChinese/美国华人网属于个人项目，不属于 KING AI 主生态。**
