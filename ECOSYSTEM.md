@@ -30,10 +30,6 @@ KING AI
     │   ├── Digital Life foundation
     │   └── KINGAI Pet
     │
-    ├── Media & Public Intelligence
-    │   ├── Atalk.TV
-    │   └── ZuiMeiTV / 最美TV
-    │
     └── Shared Foundations
         ├── Identity & Account
         ├── Memory / Knowledge
@@ -120,19 +116,6 @@ A collectible digital-pet life and adventure product combining companionship, co
 
 [Product overview](products/KINGAI-PET.md)
 
-## Media & public intelligence
-
-### Atalk.TV
-A global trends and explanation product designed to help users quickly understand what happened, why it matters and what sources support the story.
-
-Website: https://atalk.tv/  
-[Product overview](products/ATALK-TV.md)
-
-### ZuiMeiTV / 最美TV
-A creator-discovery and public media-intelligence product for the global Chinese-speaking creator economy, with long-term opportunities in verified profiles, reports, brand discovery and creator services.
-
-[Product overview](products/ZUIMEITV.md)
-
 ## Shared ecosystem value
 
 The products are intentionally different, but they can reinforce each other:
@@ -149,13 +132,11 @@ Execution
 Security
   +
 Product Experiences
-  +
-Public Distribution
         ↓
 A broader KING AI ecosystem
 ```
 
-For users, this can mean less fragmentation and more continuity. For businesses, it creates multiple entry points into the same technology family. For partners, it creates integration and distribution opportunities across software, infrastructure, media, productivity, security and consumer experiences.
+For users, this can mean less fragmentation and more continuity. For businesses, it creates multiple entry points into the same technology family. For partners, it creates integration and distribution opportunities across software, infrastructure, productivity, security and consumer experiences.
 
 ## Public status language
 
@@ -168,12 +149,14 @@ KING AI uses clear status labels so long-term ambition does not become a false c
 
 ## Permanent personal-project exceptions
 
-The following are owned by the same creator/owner but are **personal projects and are not part of the KING AI main ecosystem**:
+The following are owned by the same founder/owner but are **personal projects and are not part of the KING AI main ecosystem**:
 
 - **Jackhao.tv / 郝才子 / Jackhao** — personal music, writing and creator brand.
 - **USChinese / 美国华人网 / usdxchinaren** — personal Chinese-community/media project.
+- **ZuiMeiTV / 最美TV / zuimeitv** — personal creator/media/data project.
+- **Atalk.TV / Atalk / Atalk.Tv** — personal media/trends/news project.
 
-They must not be automatically added to KING AI product matrices, ecosystem diagrams, investor portfolio counts or shared product positioning unless the owner explicitly changes this policy in the future.
+These four projects must not be automatically added to KING AI product matrices, ecosystem diagrams, investor portfolio counts, product totals or shared product positioning unless the owner explicitly changes this policy in the future.
 
 Canonical ownership policy: [docs/ECOSYSTEM-OWNERSHIP-POLICY.md](docs/ECOSYSTEM-OWNERSHIP-POLICY.md)
 
@@ -181,10 +164,8 @@ Canonical ownership policy: [docs/ECOSYSTEM-OWNERSHIP-POLICY.md](docs/ECOSYSTEM-
 
 # 中文摘要
 
-KING AI 现在统一定义为一个完整主生态，而不是几个孤立的 AI 技术项目。
+KING AI 主生态统一包括：**SEA、AI Workforce、KINGAIBOT、KINGAI OS、KINGAI OPS、KINGAI Security、KINGAI Office、Customer OS、Online Tools、AI Life/数字人生/虚拟人生、Digital Life、KINGAI Pet** 等。
 
-主生态包括：**SEA、AI Workforce、KINGAIBOT、KINGAI OS、KINGAI OPS、KINGAI Security、KINGAI Office、Customer OS、Online Tools、AI Life/数字人生/虚拟人生、Digital Life、KINGAI Pet、Atalk.TV、ZuiMeiTV** 等。
+这些产品分别覆盖智慧系统、执行、操作系统、运维、安全、办公、客服销售、实用工具、数字生命和游戏，并长期共享身份、记忆、知识、治理和基础设施方向。
 
-它们分别覆盖智慧系统、执行、操作系统、运维、安全、办公、客服销售、实用工具、数字生命、游戏、媒体和创作者经济，但长期可以共享身份、记忆、知识、治理和基础设施。
-
-**永久例外：Jackhao.tv 与 USChinese/美国华人网属于个人项目，不属于 KING AI 主生态。**
+**永久个人项目例外：Jackhao.tv、USChinese/美国华人网、ZuiMeiTV/最美TV、Atalk.TV。它们不属于 KING AI 主生态。**
