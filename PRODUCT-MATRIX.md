@@ -1,117 +1,140 @@
 # KING AI Product Matrix & Public Status
 
-This file is the canonical public status and commercialization map for KING AI ecosystem communication.
+This file is the canonical public product, status and commercialization map for the KING AI main ecosystem.
 
 ## Status vocabulary
 
-- **Available** — usable in the current supported public or product scope.
+- **Available / Live** — usable in the current supported public or product scope.
+- **Active Development** — a real product foundation exists and is being expanded or validated.
 - **Custom-by-Scope** — deliverable through a defined customer/project scope.
-- **In Development** — actively being built or validated.
-- **Planned** — committed direction, not yet available.
+- **Planned** — committed direction, not yet generally available.
 - **Vision** — long-term direction, not a current delivery commitment.
-- **Retired** — no longer positioned as active.
 
-## Product matrix
+## Main ecosystem product matrix
 
-| Product / Capability | Role | Public status | Commercial role |
+| Product / Capability | User-facing role | Public status | Long-term commercial role |
 |---|---|---|---|
-| KING AI SEA | Unified intelligent-lifeform / agent system | In Development / long-term active system | Core platform brand |
-| KING AI Intelligence | Public research, analysis and agent technology radar | Available | Brand authority, research collaboration, enterprise education |
-| KING AI Online Tools | 130+ bilingual browser utilities | Available / Live | Free acquisition, utility traffic, ecosystem entry |
-| KINGAIBOT | Controlled terminal execution runtime | In Development · v1.2.0 public foundation | Future execution platform, developer/enterprise integration |
-| KINGAI OS | AI-native Server/Desktop/IoT operating-system project | In Development · Pre-Alpha | Long-term infrastructure, edge, device and enterprise opportunity |
-| KING AI Auth Lite | Free account, human verification, verified email, passwordless session foundation | In Development / deployment validation | Frictionless free account entry |
-| Personal Intelligence | Long-term second-brain / personal intelligent system | In Development / Custom-by-Scope | Consumer/prosumer and private intelligent-assistant direction |
-| Enterprise Intelligence | Enterprise memory, knowledge, missions and governed AI | Custom-by-Scope | Enterprise projects and recurring managed services |
-| AI Workforce | Specialized AI roles and mission operating model | Custom-by-Scope / product framework | Enterprise workforce transformation and automation |
-| AI Employee Roles | 120+ public role patterns | Available as public knowledge / Custom-by-Scope delivery | Solution design and enterprise role packaging |
-| Website AI / App AI | Embedded intelligent experiences | Custom-by-Scope | Customer-facing AI, lead support, service and workflow integration |
-| Developer & Integration Layer | APIs, connectors, MCP/A2A and embedded intelligence | In Development / Custom-by-Scope | Developer platform and integration revenue |
-| Private / Hybrid Deployment | Customer-defined private/hybrid architecture | Custom-by-Scope | Enterprise deployment and support |
-| Controlled Evolution | Governed system-improvement concept | In Development / Vision depending subsystem | Long-term differentiation and R&D |
-| Marketplace / Agent Commerce | Ecosystem marketplace and machine commerce direction | Planned / Vision | Future ecosystem revenue |
+| **KING AI SEA** | Unified persistent intelligence / agent mother system | Active Development | Core ecosystem platform and intelligence layer |
+| **Personal Intelligence** | Long-term personal memory, planning and assistance | Active Development / Custom-by-Scope | Consumer, prosumer and private intelligence |
+| **Enterprise Intelligence** | Enterprise memory, knowledge, missions and governed AI | Custom-by-Scope | Enterprise projects and managed intelligence |
+| **AI Workforce / AI Employees** | Specialized AI roles for recurring work | Custom-by-Scope / framework available | Enterprise automation and AI workforce transformation |
+| **KING AI Intelligence** | Public research and technical intelligence | Available | Brand authority, research collaboration and enterprise education |
+| **KINGAIBOT** | Controlled agent execution runtime | Active Development | Execution platform, developer/enterprise integration |
+| **KINGAI OS** | AI-native Server/Desktop/IoT computing | Active Development / Pre-Alpha | Infrastructure, device, edge and enterprise platform opportunity |
+| **KINGAI OPS** | Server, edge and infrastructure operations | Available in supported public distribution scope / Active Development | Free-to-use entry, Pro/Business/Enterprise operations and MSP opportunity |
+| **KINGAI Security** | Endpoint security and antivirus product family | Active Development | Consumer endpoint protection, premium security and enterprise endpoint direction |
+| **KINGAI Office** | Writer, Sheets, Slides, PDF and intelligent productivity | Active Development | Free productivity entry, premium productivity, team and enterprise opportunity |
+| **KING AI Customer OS** | Customer service, sales assistance and relationship intelligence | Active Development | Hosted support, CRM extension, managed knowledge and enterprise service |
+| **KING AI Online Tools** | 130+ bilingual browser utilities | Available / Live | Free acquisition, utility traffic and ecosystem entry |
+| **AI Life / 数字人生 / 虚拟人生** | Persistent virtual second life | Active Development / playable foundation | Consumer entertainment, digital-life subscriptions/content and future creator economy |
+| **Digital Life foundation** | Persistent digital identity, character and memory direction | Active Development / Vision by subsystem | Shared digital-life platform and future virtual-being ecosystem |
+| **KINGAI Pet** | Collectible digital-pet life and adventure | Active Development | Consumer game, content, community, licensing and entertainment partnerships |
+| **Atalk.TV** | Global trend explanation and source-aware media | Active Development | Media, sponsorship, premium intelligence and industry channels |
+| **ZuiMeiTV / 最美TV** | Creator discovery and public media intelligence | Active Development | Verified profiles, reports, creator services, data and brand discovery |
+| **Identity & Account Foundation** | Shared user/account relationship across products | Active Development | Ecosystem retention, product federation and future account services |
+| **Developer & Integration Layer** | APIs, connectors, MCP/A2A and embedded intelligence | Active Development / Custom-by-Scope | Developer platform, integration and embedded revenue |
+| **Private / Hybrid Deployment** | Customer-defined private/hybrid architecture | Custom-by-Scope | Enterprise deployment, licensing and support |
+| **Controlled Evolution** | Governed system improvement and long-term adaptation | Active R&D / Vision by subsystem | Long-term differentiation and platform capability |
+| **Marketplace / Agent Commerce** | Future ecosystem distribution and machine commerce | Planned / Vision | Ecosystem and transaction revenue opportunity |
 
-## What is sellable today vs. what is directional
+## Why the portfolio matters
 
-### Publicly available now
-
-- KING AI public documentation and research
-- KING AI Intelligence channel
-- KING AI Online Tools
-- Public AI Employee / industry / enterprise knowledge frameworks
-- Public trust, governance, deployment and buyer-education material
-
-### Custom-by-Scope commercial conversations
-
-The following can be discussed as scoped enterprise or integration work, subject to technical and commercial qualification:
-
-- Enterprise AI / AI Workforce design
-- Knowledge and memory systems
-- Website / App AI
-- Workflow and agent automation
-- Developer/integration work
-- Private or hybrid intelligent-agent architecture
-- Industry-specific AI systems
-- Governance, approval and observability design
-
-### Engineering / validation stage
-
-- KINGAIBOT production maturity beyond its current public foundation
-- KINGAI OS stable distribution
-- KING AI Auth Lite production deployment
-- Unified developer platform
-- Broad commercial API/service packaging
-
-### Long-term direction
-
-- Large-scale agent ecosystem / marketplace
-- Agent commerce
-- AI-native device and edge ecosystem
-- Wider autonomous evolution under strong governance
-
-## Commercial packaging principle
-
-KING AI should commercialize from the outside in:
+KING AI is intentionally not dependent on a single product category. The same ecosystem can meet users at different points:
 
 ```text
-Free discovery / utility
-        ↓
-Verified account / relationship
-        ↓
-Scoped workflow or intelligence value
-        ↓
-Business / enterprise deployment
-        ↓
-Platform, API, embedded or private infrastructure
-        ↓
-Long-term ecosystem and strategic partnerships
+Free utility / media / entertainment
+            ↓
+Account & long-term relationship
+            ↓
+Personal productivity / security / digital life
+            ↓
+Developer and business workflows
+            ↓
+Enterprise intelligence / infrastructure / operations
+            ↓
+Platform, API, embedded and strategic partnerships
 ```
 
-Pricing, billing and subscription systems are separate implementation layers. A capability must not be described as paid, live or generally available merely because a pricing concept exists.
+This creates multiple ways for users to discover the brand and multiple ways for commercial value to develop over time.
 
-## Truth rules
+## User-value entry points
 
-Do not fabricate or imply:
+### Use something immediately
+- KING AI Online Tools
+- supported KINGAI OPS public releases
+- public research and documentation
+- public/live KING AI websites and media products where deployed
 
-- customers or customer counts
-- revenue or ARR
-- partnerships not formally established
-- certifications not actually earned
-- benchmark leadership
-- market ranking
-- production scale
-- fundraising status or valuation
+### Follow products that are actively becoming broader
+- KINGAI Security
+- KINGAI Office
+- KINGAIBOT
+- KINGAI OS
+- Customer OS
+- AI Life
+- KINGAI Pet
+- Atalk.TV
+- ZuiMeiTV
 
-Use measured evidence and owner-verified product status.
+### Talk to KING AI about a business problem
+- Enterprise Intelligence
+- AI Workforce
+- Customer-service and knowledge systems
+- Website / App AI
+- workflow and agent automation
+- infrastructure and operations
+- private/hybrid deployments
+- developer integrations
+
+## Commercial model directions
+
+Different products support different commercial paths. Potential models include:
+
+- free products that drive discovery and trust;
+- consumer/prosumer subscriptions where product maturity supports them;
+- paid content, premium functionality or digital experiences;
+- business and enterprise editions;
+- managed services and implementation;
+- developer/API services;
+- private/hybrid deployments;
+- embedded/OEM or strategic licensing;
+- media sponsorship and data/report products;
+- creator, entertainment and brand partnerships.
+
+A future monetization path is a strategy, not a claim of current revenue.
+
+## Portfolio principles for partners and investors
+
+KING AI public materials should communicate ambition without inventing traction. The portfolio may emphasize:
+
+- breadth of product surface;
+- shared intelligence, identity and governance direction;
+- cross-product distribution potential;
+- consumer + enterprise + infrastructure coverage;
+- local-first and governed-computing differentiation;
+- the ability to build recurring relationships instead of one-off AI interactions.
+
+Public materials must not fabricate customers, user counts, revenue, ARR, signed partnerships, certifications, valuations, fundraising status or market leadership.
+
+## Permanent exceptions
+
+The following are **personal projects, not KING AI ecosystem products**:
+
+- Jackhao.tv / 郝才子 / Jackhao
+- USChinese / 美国华人网 / usdxchinaren
+
+They must not be included in KING AI product counts, investor portfolio summaries or ecosystem diagrams unless the owner explicitly changes the canonical ownership policy.
+
+See: `docs/ECOSYSTEM-OWNERSHIP-POLICY.md`.
 
 ---
 
 # 中文摘要
 
-本文件是 KING AI 对外产品状态的统一口径。
+KING AI 主生态现已统一覆盖：**SEA、AI Workforce、KINGAIBOT、KINGAI OS、KINGAI OPS、KINGAI Security、KINGAI Office、Customer OS、Online Tools、AI Life/数字人生/虚拟人生、Digital Life、KINGAI Pet、Atalk.TV、ZuiMeiTV** 等产品方向。
 
-当前已明确公开可用的核心包括：公开知识/研究体系、KING AI Intelligence、KING AI Online Tools，以及大量企业/AI Workforce/行业/信任治理知识资产。
+商业逻辑不是只靠一个 AI 产品，而是形成从免费工具、媒体和娱乐入口，到个人生产力、安全、数字生命，再到企业智慧、开发平台、基础设施与战略合作的多层产品组合。
 
-KINGAIBOT、KINGAI OS、Auth Lite、统一 Developer Platform 等仍处于开发或部署验证阶段；AI Workforce、企业智慧、Website/App AI、私有/混合部署等按照项目范围进行商业沟通和交付评估。
+未来功能和商业模式可以积极展示长期潜力，但必须标注为方向或规划，不把未来能力、收入、客户和合作关系伪装成已经实现。
 
-商业化顺序坚持：**免费发现 → 验证账户 → 明确业务价值 → 企业项目 → 平台/API/私有部署 → 长期生态**。任何路线图内容不得自动写成“已经上线”。
+**Jackhao.tv 与 USChinese/美国华人网永久作为个人项目例外，不纳入 KING AI 主生态。**
