@@ -1,0 +1,13 @@
+{
+  "schema": "kingai.ecosystem-ownership.v1",
+  "effective_date": "2026-08-18",
+  "source_of_truth": "docs/ECOSYSTEM-OWNERSHIP-POLICY.md",
+  "personal_projects_excluded_from_king_ai": [
+    {"id":"jackhao-tv","names":["Jackhao.tv","Jackhao","郝才子"],"part_of_king_ai_ecosystem":false},
+    {"id":"uschinese","names":["USChinese","美国华人网","usdxchinaren"],"part_of_king_ai_ecosystem":false},
+    {"id":"zuimeitv","names":["ZuiMeiTV","最美TV","zuimeitv"],"part_of_king_ai_ecosystem":false},
+    {"id":"atalk-tv","names":["Atalk.TV","Atalk","Atalk.Tv"],"part_of_king_ai_ecosystem":false}
+  ],
+  "default_rule": "KING AI branded or KING AI-developed products belong to the KING AI main ecosystem unless explicitly excluded by the owner.",
+  "precedence": "This file overrides older conflicting public classification outputs."
+}
