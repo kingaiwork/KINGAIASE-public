@@ -1,0 +1,109 @@
+name: Global Intelligence Pages Upload
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - '.global-intelligence-deploy-trigger'
+
+permissions:
+  contents: read
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      TARGET_REPO: kingaiwork/kingai-global-intelligence
+      PROJECT_NAME: kingai-global-intelligence
+    steps:
+      - name: Check Cloudflare credentials
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -z "${CLOUDFLARE_API_TOKEN:-}" ] || [ -z "${CLOUDFLARE_ACCOUNT_ID:-}" ]; then
+            echo 'Cloudflare credentials are not available in this repository.' >&2
+            exit 1
+          fi
+          echo 'Cloudflare credentials available.'
+
+      - name: Checkout latest public site
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf /tmp/gi-repo /tmp/gi-site
+          git clone --depth=1 "https://github.com/${TARGET_REPO}.git" /tmp/gi-repo
+          mkdir -p /tmp/gi-site
+          rsync -a /tmp/gi-repo/ /tmp/gi-site/ \
+            --exclude '.git' \
+            --exclude '.github' \
+            --exclude 'README.md' \
+            --exclude '.deploy-trigger' \
+            --exclude 'data/deployment-status.json'
+          git -C /tmp/gi-repo rev-parse HEAD > /tmp/gi-sha
+          test -f /tmp/gi-site/index.html
+          test -f /tmp/gi-site/country.html
+          test -f /tmp/gi-site/media.html
+
+      - name: Validate static payload
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          from html.parser import HTMLParser
+          import json, xml.etree.ElementTree as ET
+          root=Path('/tmp/gi-site')
+          for p in root.rglob('*.json'):
+              json.loads(p.read_text(encoding='utf-8'))
+          ET.parse(root/'sitemap.xml')
+          class P(HTMLParser): pass
+          for p in root.glob('*.html'):
+              P().feed(p.read_text(encoding='utf-8'))
+          print('static payload validation passed')
+          PY
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Ensure Pages project exists
+        shell: bash
+        run: |
+          set -euo pipefail
+          npx --yes wrangler@4 pages project list --json > /tmp/pages.json
+          if ! node -e "const fs=require('fs');const j=JSON.parse(fs.readFileSync('/tmp/pages.json','utf8'));const rows=Array.isArray(j)?j:(j.result||[]);process.exit(rows.some(x=>x.name===process.argv[1])?0:1)" "$PROJECT_NAME"; then
+            npx --yes wrangler@4 pages project create "$PROJECT_NAME" --production-branch main
+          fi
+
+      - name: Upload to Cloudflare Pages
+        shell: bash
+        run: |
+          set -euo pipefail
+          SHA=$(cat /tmp/gi-sha)
+          npx --yes wrangler@4 pages deploy /tmp/gi-site \
+            --project-name "$PROJECT_NAME" \
+            --branch main \
+            --commit-hash "$SHA" \
+            --commit-message 'KINGAI Global Intelligence production upload' \
+            --commit-dirty=true 2>&1 | tee /tmp/deploy.log
+          URL=$(grep -Eo 'https://[A-Za-z0-9.-]+\.pages\.dev' /tmp/deploy.log | tail -1 || true)
+          echo "PAGES_URL=$URL" >> "$GITHUB_ENV"
+          echo "Cloudflare Pages URL: $URL"
+          test -n "$URL"
+
+      - name: Verify Pages content
+        shell: bash
+        run: |
+          set -euo pipefail
+          for i in $(seq 1 12); do
+            code=$(curl -sS -L --max-time 20 -o /tmp/home.html -w '%{http_code}' "$PAGES_URL/" || true)
+            if [ "$code" = '200' ] && grep -q 'KINGAI' /tmp/home.html; then
+              echo "verified=$PAGES_URL"
+              exit 0
+            fi
+            sleep 5
+          done
+          exit 1
