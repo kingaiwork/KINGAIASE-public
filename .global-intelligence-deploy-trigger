@@ -1,0 +1,4 @@
+deploy=kingai-global-intelligence
+mode=cloudflare-pages-upload-only
+bind_domain=false
+requested_at=2026-08-19T16:36:00-07:00
