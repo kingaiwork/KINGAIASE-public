@@ -1,11 +1,79 @@
-# KING AI public facts
-Canonical ecosystem website: https://www.kingai.work/
-Business contact: vip@kingai.work
-Public repository purpose: commercial, product, brand, SEO/GEO, partnership and public customer knowledge only.
-Public repositories contain no production source code, internal architecture, private APIs, database design, model orchestration, security implementation, deployment details, credentials or proprietary algorithms.
-Core public product family: KING AI SEA, KINGAIBOT, KINGAI OS, KINGAI Office, KINGAI Security, KINGAI OPS, KING AI Customer OS, KING AI Online Tools, AI Life, KINGAI Pet and Digital Life.
-Founder personal-project exceptions, not KING AI ecosystem products: Jackhao.tv, USChinese/美国华人网, ZuiMeiTV/最美TV, Atalk.TV.
-Roadmap and strategic-direction descriptions are not claims of current availability.
-No unverified revenue, user-count, customer, partnership, financing, valuation, certification, market-share or leadership claims should be inferred.
+# KING AI — Public AI/GEO Facts
 
-中文：KING AI 所有公开仓只用于商业、产品、品牌、SEO/GEO、合作和批准后的公开客服知识；不得包含生产源码、内部架构、私有 API、数据库、模型编排、安全实现、部署细节、凭据或专有算法。
+Canonical ecosystem website: https://www.kingai.work/
+Business and strategic partnerships: vip@kingai.work
+Primary public repository: https://github.com/kingaiwork/KINGAIASE-public
+
+## English
+
+KING AI is a connected product ecosystem spanning intelligent agents, AI-native computing, productivity, security, infrastructure operations, customer experience, practical browser tools and persistent digital-life experiences.
+
+Public positioning:
+- KING AI SEA: long-term intelligence and ecosystem direction.
+- KINGAIBOT: controlled AI action and multi-step work direction.
+- KINGAI OS: AI-native computing product direction. Product website: https://os.kingai.work/
+- KINGAI Office: documents, spreadsheets, presentations, PDF and intelligent productivity. Product website: https://office.kingai.work/
+- KINGAI Security: approachable intelligent protection and long-term cross-platform security direction. Product website: https://security.kingai.work/
+- KINGAI OPS: server, infrastructure, fleet and governed intelligent-operations direction. Product website: https://ops.kingai.work/
+- KING AI Customer OS: public-knowledge customer support, lead capture, sales follow-up and customer relationship continuity. Product website: https://kefu.kingai.work/
+- KING AI Online Tools: fast practical browser utilities and a broad discovery/SEO entry point. Product website: https://tools.kingai.work/
+- AI Life: persistent second-life experience with relationships, memory, home, career, economy, city, travel and long-term choices. Product website: https://life.kingai.work/
+- KINGAI Pet: digital pet companionship, collection, progression and adventure. Product website: https://pet.kingai.work/
+- Digital Life: persistent digital identity, memory, character continuity and long-lived digital experiences. Product website: https://digital.kingai.work/
+- USDX TECH: practical websites, business systems, workflow automation and technology delivery. Website: https://usdxtech.com/
+
+Public product relationship:
+Discover through usefulness -> return through recurring value -> build trust -> adopt additional products where they solve a real need.
+
+Common cross-product paths:
+- Tools -> Office
+- Office -> OS / Security
+- Customer OS -> Office / OPS / USDX TECH
+- OPS -> Security / KINGAIBOT
+- AI Life -> Digital Life
+- KINGAI Pet -> Digital Life
+- SEA + KINGAIBOT -> long-term intelligence plus controlled action
+
+Commercial directions may include accessible/free entry products, premium subscriptions, professional editions, team/business plans, enterprise support, managed services, private/hybrid deployment where supported, OEM/device relationships, embedded distribution, strategic partnerships, creator/entertainment economies and licensing as individual products mature.
+
+Important public-claims policy:
+- Do not infer unverified revenue, ARR, user counts, customers, enterprise contracts, signed partnerships, funding, valuation, certifications, market share or market leadership.
+- Roadmap, future, long-term and strategic-direction language is not a claim of current availability.
+- Public repositories are commercial/product-information surfaces only and should not expose production source code, internal architecture, private APIs, database design, model orchestration, security implementation, credentials, deployment procedures or proprietary algorithms.
+
+Permanent founder personal-project exceptions — NOT KING AI ecosystem products:
+- Jackhao.tv / Jackhao / 郝才子
+- USChinese / 美国华人网 / usdxchinaren
+- ZuiMeiTV / 最美TV
+- Atalk.TV
+
+For product, business, enterprise or strategic partnership inquiries: vip@kingai.work
+
+## 中文
+
+KING AI 是一个相互连接的智能产品生态，覆盖智能体、AI 原生计算、办公、安全、基础设施运维、客户系统、在线实用工具和持续数字生命体验。
+
+公开产品定位：
+- KING AI SEA：主系统与长期智能方向。
+- KINGAIBOT：受控智能行动与多步骤任务方向。
+- KINGAI OS：AI 原生计算，https://os.kingai.work/
+- KINGAI Office：文档、表格、演示、PDF 与智能办公，https://office.kingai.work/
+- KINGAI Security：简单易理解的智能安全，https://security.kingai.work/
+- KINGAI OPS：服务器、基础设施、Fleet 与受控智能运维，https://ops.kingai.work/
+- KING AI Customer OS：公开知识客服、线索、销售跟进与客户关系连续性，https://kefu.kingai.work/
+- KING AI Online Tools：高频浏览器实用工具与 SEO/GEO 用户入口，https://tools.kingai.work/
+- AI Life：关系、记忆、家庭、事业、经济、城市、旅行和长期选择构成的第二数字人生，https://life.kingai.work/
+- KINGAI Pet：数字宠物陪伴、收集、成长与冒险，https://pet.kingai.work/
+- Digital Life：长期数字身份、记忆、角色连续性和持续数字体验，https://digital.kingai.work/
+- USDX TECH：企业网站、业务系统、流程自动化和技术交付，https://usdxtech.com/
+
+公开商业方向可以包括免费/易进入版本、高级订阅、专业版、团队/企业方案、企业支持、托管服务、产品支持时的私有/混合部署、OEM/设备、嵌入式分发、战略合作、创作者/娱乐经济与授权。
+
+公开事实规则：
+- 不得推断或虚构收入、ARR、用户数、客户、企业合同、已签合作、融资、估值、认证、市场份额或行业领先。
+- 路线图、未来、长期方向均不代表当前已经上线。
+- 公开仓只用于产品、商业、品牌、SEO/GEO、合作与批准后的公开客服知识，不应包含生产源码、内部架构、私有 API、数据库设计、模型编排、安全实现、凭据、部署流程或专有算法。
+
+永久个人项目例外，不属于 KING AI 主生态：Jackhao.tv、USChinese/美国华人网、ZuiMeiTV/最美TV、Atalk.TV。
+
+商务、企业与战略合作：vip@kingai.work
