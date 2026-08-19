@@ -1,14 +1,14 @@
 # KING AI Public Repository Consolidation
 
-`kingaiwork/KINGAIASE-public` is the **single active public repository for the KING AI product ecosystem**.
+This repository is the **single active public repository for the KING AI product ecosystem**.
 
-It is the public home for commercial product discovery, safe documentation, ecosystem navigation, partnerships and verified release references. Production source and private implementation remain in the registered private product repositories.
+It is the public home for commercial product discovery, customer-safe documentation, ecosystem navigation, partnerships, and verified release references. Production source and internal implementation remain private.
 
 ## Public repository rule
 
-KING AI no longer creates a separate public repository for every product. Product-specific public repositories that already exist are retained only as legacy link/history surfaces during migration and will be archived after their public references are consolidated here.
+KING AI no longer creates a separate public repository for every product. Older product-specific public repositories are retained only as legacy link/history surfaces during migration and may be archived after their public references and historical release needs are verified.
 
-This public hub never becomes a private-source fallback and must not contain internal architecture, deployment secrets, private APIs, infrastructure topology, proprietary algorithms or security implementation.
+This public hub never becomes a private-source fallback and must not contain internal architecture, private repository inventory, deployment secrets, private APIs, infrastructure topology, proprietary algorithms, security implementation, customer data, or confidential operational material.
 
 ## Active KING AI product family
 
@@ -28,8 +28,10 @@ USDX TECH remains an independent company/product surface that may be presented h
 
 ## Release policy
 
-Public release references may be indexed here, but customer binaries must be built from the registered private authority and pass the product release gate before being presented as current. See `RELEASES.md`.
+Public release references may be indexed here, but customer binaries must be produced by the private production authority and pass the product release gate before being presented as current. See `RELEASES.md`.
 
 ## Legacy public repositories
 
-The current consolidation registry is maintained privately in `kingaiwork/KINGAIASE/config/repository-registry.json`. Legacy public repositories must point users here and must not receive new product implementation.
+Legacy repositories must redirect product discovery to the current official product/site or this public hub. They must not receive new implementation, architecture, deployment details, or automation authority.
+
+The private repository inventory and migration registry are intentionally not published here.
