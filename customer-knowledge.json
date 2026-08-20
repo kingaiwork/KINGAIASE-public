@@ -1,0 +1,41 @@
+{
+  "schema":"kingai.customer-knowledge-source.v1",
+  "project_id":"kingai",
+  "visibility":"public",
+  "private_repository_access":false,
+  "customer_safe_paths":["README.md","PRODUCTS.md","BUSINESS.md","USE-CASES.md","FAQ.md","RELEASES.md"],
+  "entries":[
+    {
+      "id":"kingai.personal","intent":"personal_ai","publish":true,"visibility":"public","risk":"low","confidence":0.96,"verified_at":"2026-08-20",
+      "questions":{"en":["What is KINGAI Life?","What does the personal AI do?","Is this for an individual?"],"zh":["KINGAI Life 是什么？","个人 AI 能做什么？","这个适合个人吗？"]},
+      "answer":{"en":"KINGAI Life is the personal direction of KING AI: bringing briefings, tasks, documents, reminders and longer-term context into one place so the system can continue from what matters instead of starting over each time. Sensitive actions should remain bounded by permissions and approval.","zh":"KINGAI Life 是 KING AI 的个人方向：把简报、任务、文档、提醒和长期上下文放在一起，让系统不用每次从零开始。涉及敏感操作时，仍应受权限和确认机制约束。"}
+    },
+    {
+      "id":"kingai.family","intent":"family_ai","publish":true,"visibility":"public","risk":"low","confidence":0.96,"verified_at":"2026-08-20",
+      "questions":{"en":["What is KINGAI Family?","Can KING AI help a family?"],"zh":["KINGAI Family 是什么？","KING AI 可以帮助家庭吗？"]},
+      "answer":{"en":"KINGAI Family focuses on shared calendars, important records, reminders and bounded family memory. The goal is better coordination without treating shared family use as permission to expose everything to everyone.","zh":"KINGAI Family 聚焦共享日历、重要资料、提醒和有边界的家庭记忆。目标是让一家人更好协作，同时不把“家庭共享”变成“所有内容对所有人开放”。"}
+    },
+    {
+      "id":"kingai.workforce","intent":"business_workforce","publish":true,"visibility":"public","risk":"low","confidence":0.97,"verified_at":"2026-08-20",
+      "questions":{"en":["What is KINGAI Workforce?","Can KING AI provide digital employees?","Is this for business?"],"zh":["KINGAI Workforce 是什么？","可以做 AI 数字员工吗？","适合企业吗？"]},
+      "answer":{"en":"KINGAI Workforce is the business direction for governed digital workers with defined roles, tasks and authority. It is intended for repetitive service, sales, operations and other workflows where approvals and auditability matter.","zh":"KINGAI Workforce 是面向企业的受治理数字员工方向，可以为 AI 分配岗位、任务和权限，适合客服、销售、运营等重复工作，并保留审批与审计边界。"},
+      "cta":"sales"
+    },
+    {
+      "id":"kingai.sovereign","intent":"sovereign_ai","publish":true,"visibility":"public","risk":"medium","confidence":0.97,"verified_at":"2026-08-20",
+      "questions":{"en":["What is KINGAI Sovereign?","Is this for government or institutions?","Can this run in a sovereign environment?"],"zh":["KINGAI Sovereign 是什么？","适合政府或机构吗？","可以做主权部署吗？"]},
+      "answer":{"en":"KINGAI Sovereign is the institutional and sovereign-deployment direction of KING AI. It focuses on explicit identity, data, model and execution boundaries for organizations that need stronger control and accountability; the exact production scope must be confirmed for each project.","zh":"KINGAI Sovereign 是 KING AI 面向机构与主权部署的方向，重点是把身份、数据、模型和执行边界明确分开，适合需要更强控制与问责的大型组织；具体生产范围需要按项目确认。"},
+      "cta":"sales"
+    },
+    {
+      "id":"kingai.world","intent":"world_intelligence","publish":true,"visibility":"public","risk":"low","confidence":0.96,"verified_at":"2026-08-20",
+      "questions":{"en":["What is KINGAI World Intelligence?","What is Global Intelligence?","Can it summarize world signals?"],"zh":["KINGAI World Intelligence 是什么？","全球情报是做什么的？","可以整理全球信息吗？"]},
+      "answer":{"en":"KINGAI World Intelligence is the decision-intelligence direction for organizing public world signals into source-aware briefings, timelines, watchlists and risk context. It is meant to reduce information overload while keeping evidence visible.","zh":"KINGAI World Intelligence 是面向决策的全球情报方向，把公开世界信号整理成带来源的简报、时间线、关注列表和风险背景，减少信息过载，同时保留证据线索。"}
+    },
+    {
+      "id":"kingai.governance","intent":"security_governance","publish":true,"visibility":"public","risk":"low","confidence":0.99,"verified_at":"2026-08-20",
+      "questions":{"en":["How does KING AI control permissions?","Does a stronger model get more authority?","How do approvals work?"],"zh":["KING AI 怎么控制权限？","模型变强会自动获得更多权限吗？","高风险操作需要人工确认吗？"]},
+      "answer":{"en":"KING AI treats model capability and execution authority as separate concerns. Identity, permissions, approvals and audit evidence are intended to stay explicit, with higher-risk work requiring clearer human control and recovery paths.","zh":"KING AI 把模型能力和执行权限分开处理。身份、权限、审批和审计证据需要保持明确；风险越高的工作，越需要清晰的人类控制、确认和恢复路径。"}
+    }
+  ]
+}
