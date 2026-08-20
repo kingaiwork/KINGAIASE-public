@@ -37,3 +37,5 @@ jobs:
               raise SystemExit('Cloudflare API probe failed')
           print('Cloudflare Pages account read access confirmed.')
           PY
+
+# Triggered after the workflow already existed on the default branch.
