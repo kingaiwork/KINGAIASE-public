@@ -36,6 +36,51 @@
       "id":"kingai.governance","intent":"security_governance","publish":true,"visibility":"public","risk":"low","confidence":0.99,"verified_at":"2026-08-20",
       "questions":{"en":["How does KING AI control permissions?","Does a stronger model get more authority?","How do approvals work?"],"zh":["KING AI 怎么控制权限？","模型变强会自动获得更多权限吗？","高风险操作需要人工确认吗？"]},
       "answer":{"en":"KING AI treats model capability and execution authority as separate concerns. Identity, permissions, approvals and audit evidence are intended to stay explicit, with higher-risk work requiring clearer human control and recovery paths.","zh":"KING AI 把模型能力和执行权限分开处理。身份、权限、审批和审计证据需要保持明确；风险越高的工作，越需要清晰的人类控制、确认和恢复路径。"}
+    },
+    {
+      "id":"kingai.sea","intent":"sea_intelligent_system","publish":true,"visibility":"public","risk":"low","confidence":0.98,"verified_at":"2026-08-20",
+      "questions":{"en":["What is KING AI SEA?","What is the intelligent lifeform idea?","How does SEA connect memory and action?"],"zh":["KING AI SEA 是什么？","智慧生命体是什么意思？","SEA 怎么连接记忆和行动？"]},
+      "answer":{"en":"KING AI SEA is the long-term intelligence system concept that connects approved memory, specialized AI roles, governed action, workflows, security and controlled improvement. It describes a persistent software intelligence architecture, not human consciousness or unrestricted autonomous authority.","zh":"KING AI SEA 是长期智能系统方向，把经过授权的记忆、专业 AI 岗位、受治理行动、工作流、安全与受控改进连接起来。这里的“智慧生命体”指持续运行的软件智慧架构，不代表人类意识，也不意味着系统拥有无限制自主权限。"}
+    },
+    {
+      "id":"kingai.ai_employees","intent":"ai_employee_roles","publish":true,"visibility":"public","risk":"low","confidence":0.98,"verified_at":"2026-08-20",
+      "questions":{"en":["What are KING AI employees?","Can I create AI roles for departments?","How are AI employees different from chatbots?"],"zh":["KING AI 的 AI 员工是什么？","可以按部门建立 AI 岗位吗？","AI 员工和聊天机器人有什么区别？"]},
+      "answer":{"en":"KING AI Employees are specialized digital roles shaped around responsibilities, approved knowledge, tools, permissions, workflows and human escalation. The value comes from clear ownership and collaboration around real work, not simply creating more bots.","zh":"KING AI 的 AI 员工是围绕职责、授权知识、工具、权限、工作流和人工升级机制设计的专业数字岗位。价值来自明确责任和围绕真实工作的协作，而不是简单增加更多机器人。"},
+      "cta":"sales"
+    },
+    {
+      "id":"kingai.control_center","intent":"ai_control_center","publish":true,"visibility":"public","risk":"medium","confidence":0.99,"verified_at":"2026-08-20",
+      "questions":{"en":["What is KING AI Control Center?","Can I manage AI employees from one place?","Is Control Center available?"],"zh":["KING AI Control Center 是什么？","可以统一管理 AI 员工吗？","Control Center 上线了吗？"]},
+      "answer":{"en":"KING AI Control Center is an in-development enterprise direction for governing AI roles, missions, approvals, workflows, quality, cost, risk and deployment from one command surface. It should not be treated as a universally available finished product yet.","zh":"KING AI Control Center 是正在开发中的企业方向，用一个控制平面管理 AI 岗位、任务、审批、工作流、质量、成本、风险和部署。目前不应把它描述成已经全面商用的成熟产品。"},
+      "cta":"sales"
+    },
+    {
+      "id":"kingai.automation","intent":"agentic_automation","publish":true,"visibility":"public","risk":"low","confidence":0.98,"verified_at":"2026-08-20",
+      "questions":{"en":["Can KING AI automate long-running work?","Can it run recurring workflows?","What kinds of automation are supported?"],"zh":["KING AI 可以自动处理长期任务吗？","可以做周期工作流吗？","支持哪些自动化方式？"]},
+      "answer":{"en":"KING AI automation is designed around one-time, recurring, event-driven, condition-based and long-running work with checkpoints, approvals, retries and human takeover. The exact connected systems and production scope are confirmed per workflow.","zh":"KING AI 自动化方向覆盖一次性、周期性、事件触发、条件触发和长期工作，并保留检查点、审批、重试与人工接管。具体接入哪些系统以及生产范围，需要按工作流确认。"},
+      "cta":"sales"
+    },
+    {
+      "id":"kingai.app_ai","intent":"application_intelligence","publish":true,"visibility":"public","risk":"medium","confidence":0.97,"verified_at":"2026-08-20",
+      "questions":{"en":["Can KING AI be added to my app?","What is Application Intelligence?","Can users control software in natural language?"],"zh":["KING AI 可以接入我的 App 吗？","Application Intelligence 是什么？","用户可以用自然语言操作软件吗？"]},
+      "answer":{"en":"Application Intelligence is the KING AI integration direction for adding governed natural-language assistance to SaaS, web, mobile and internal software. It can interpret intent and prepare or execute approved application actions while keeping identity, permissions and higher-risk approvals explicit; exact integrations are project-specific.","zh":"Application Intelligence 是 KING AI 面向 SaaS、Web、手机和内部软件的集成方向，通过受治理的自然语言层理解意图，并准备或执行经过授权的应用操作，同时保持身份、权限和高风险审批明确；具体集成按项目确认。"},
+      "cta":"sales"
+    },
+    {
+      "id":"kingai.multimodal","intent":"multimodal_intelligence","publish":true,"visibility":"public","risk":"medium","confidence":0.99,"verified_at":"2026-08-20",
+      "questions":{"en":["Does KING AI support voice and images?","What is multimodal intelligence?","Can it understand documents and screens?"],"zh":["KING AI 支持语音和图片吗？","多模态智慧是什么？","可以理解文档和屏幕吗？"]},
+      "answer":{"en":"Multimodal intelligence is an in-development direction for using voice, images, documents, screens and structured data as governed workflow context. It is being delivered in phases and should not be presented as universally available across every product today.","zh":"多模态智慧是正在开发中的方向，让语音、图片、文档、屏幕和结构化数据成为受治理的工作流上下文。它会分阶段交付，目前不能描述成已经在所有产品里全面可用。"}
+    },
+    {
+      "id":"kingai.evolution","intent":"controlled_evolution_sae","publish":true,"visibility":"public","risk":"medium","confidence":0.99,"verified_at":"2026-08-20",
+      "questions":{"en":["What is SAE?","Can KING AI improve itself?","What does controlled evolution mean?"],"zh":["SAE 是什么？","KING AI 会自己进化吗？","受控进化是什么意思？"]},
+      "answer":{"en":"SAE is the controlled-improvement mechanism inside the KING AI SEA architecture: Sense, Reflect, Propose, Validate and Evolve under operator-defined permissions, tests, approvals and rollback paths. It does not mean unrestricted self-modification or automatic expansion of authority.","zh":"SAE 是 KING AI SEA 架构中的受控改进机制：在运营者定义的权限、测试、审批和回滚路径下完成 Sense、Reflect、Propose、Validate、Evolve。它不代表无限制自我修改，也不代表系统会自动扩大权限。"}
+    },
+    {
+      "id":"kingai.acre","intent":"active_defense_acre","publish":true,"visibility":"public","risk":"medium","confidence":0.99,"verified_at":"2026-08-20",
+      "questions":{"en":["What is ACRE?","How does KING AI handle active defense?","Does ACRE guarantee security?"],"zh":["ACRE 是什么？","KING AI 怎么做主动防御？","ACRE 能保证绝对安全吗？"]},
+      "answer":{"en":"ACRE is the KING AI security mechanism for organizing approved discovery, containment, forensics, repair, validation, review and learning around infrastructure and security signals. It is not a guarantee of perfect security; human responsibility, residual risk and recovery planning still matter.","zh":"ACRE 是 KING AI 的安全机制，把经过授权的发现、隔离、取证、修复、验证、复盘和学习组织成闭环。它不代表绝对安全；人的责任、剩余风险和恢复规划仍然不可缺少。"},
+      "cta":"sales"
     }
   ]
 }
