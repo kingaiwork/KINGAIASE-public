@@ -1,86 +1,327 @@
 {
-  "schema":"kingai.customer-knowledge-source.v1",
-  "project_id":"kingai",
-  "visibility":"public",
-  "private_repository_access":false,
-  "customer_safe_paths":["README.md","PRODUCTS.md","BUSINESS.md","USE-CASES.md","FAQ.md","RELEASES.md"],
-  "entries":[
+  "schema": "kingai.customer-knowledge-source.v1",
+  "project_id": "kingai",
+  "visibility": "public",
+  "private_repository_access": false,
+  "verified_at": "2026-08-20",
+  "customer_safe_paths": [
+    "README.md",
+    "START-HERE.md",
+    "PRODUCTS.md",
+    "USE-CASES.md",
+    "BUSINESS.md",
+    "INVESTORS.md",
+    "MARKET.md",
+    "ENTERPRISE.md",
+    "PARTNERSHIPS.md",
+    "PUBLIC-STATUS.md",
+    "PUBLIC-ROADMAP.md",
+    "TRUST.md",
+    "MEDIA-KIT.md",
+    "PUBLIC-PORTFOLIO.md",
+    "FOUNDER-PROJECTS.md",
+    "FAQ.md",
+    "RELEASES.md",
+    "llms.txt"
+  ],
+  "entries": [
     {
-      "id":"kingai.personal","intent":"personal_ai","publish":true,"visibility":"public","risk":"low","confidence":0.96,"verified_at":"2026-08-20",
-      "questions":{"en":["What is KINGAI Life?","What does the personal AI do?","Is this for an individual?"],"zh":["KINGAI Life 是什么？","个人 AI 能做什么？","这个适合个人吗？"]},
-      "answer":{"en":"KINGAI Life is the personal direction of KING AI: bringing briefings, tasks, documents, reminders and longer-term context into one place so the system can continue from what matters instead of starting over each time. Sensitive actions should remain bounded by permissions and approval.","zh":"KINGAI Life 是 KING AI 的个人方向：把简报、任务、文档、提醒和长期上下文放在一起，让系统不用每次从零开始。涉及敏感操作时，仍应受权限和确认机制约束。"}
+      "id": "kingai.sea",
+      "intent": "sea_intelligent_system",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.99,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is KING AI SEA?", "What is KING AI?", "What is the intelligent lifeform platform?"],
+        "zh": ["KING AI SEA 是什么？", "KING AI 是什么？", "智慧生命体平台是什么？"]
+      },
+      "answer": {
+        "en": "KING AI SEA is the central persistent-intelligence and governed AI-workforce platform direction. It combines approved context, useful memory, specialized digital roles, recurring workflows, governed action and controlled improvement. The public website labels SEA Available Now, while exact integrations and production scope still depend on the use case.",
+        "zh": "KING AI SEA 是核心长期智慧与受治理 AI 员工系统方向，把授权上下文、长期记忆、专业数字岗位、周期工作流、受控行动与持续改进连接起来。主官网标注 SEA 为 Available Now，但具体集成和生产范围仍需按场景确认。"
+      },
+      "cta": "platform"
     },
     {
-      "id":"kingai.family","intent":"family_ai","publish":true,"visibility":"public","risk":"low","confidence":0.96,"verified_at":"2026-08-20",
-      "questions":{"en":["What is KINGAI Family?","Can KING AI help a family?"],"zh":["KINGAI Family 是什么？","KING AI 可以帮助家庭吗？"]},
-      "answer":{"en":"KINGAI Family focuses on shared calendars, important records, reminders and bounded family memory. The goal is better coordination without treating shared family use as permission to expose everything to everyone.","zh":"KINGAI Family 聚焦共享日历、重要资料、提醒和有边界的家庭记忆。目标是让一家人更好协作，同时不把“家庭共享”变成“所有内容对所有人开放”。"}
+      "id": "kingai.bot",
+      "intent": "agentic_work",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.99,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is KINGAIBOT?", "Can KING AI complete multi-step work?"],
+        "zh": ["KINGAIBOT 是什么？", "KING AI 可以处理多步骤工作吗？"]
+      },
+      "answer": {
+        "en": "KINGAIBOT is the controlled agentic-work direction for moving longer digital tasks from intention toward outcomes while keeping authority, approvals and accountability explicit. The public website currently labels it In Development.",
+        "zh": "KINGAIBOT 是面向受控多步骤 Agent 工作的方向，在保留权限、审批和责任边界的前提下帮助数字任务从意图推进到结果。主官网当前标注为 In Development。"
+      }
     },
     {
-      "id":"kingai.workforce","intent":"business_workforce","publish":true,"visibility":"public","risk":"low","confidence":0.97,"verified_at":"2026-08-20",
-      "questions":{"en":["What is KINGAI Workforce?","Can KING AI provide digital employees?","Is this for business?"],"zh":["KINGAI Workforce 是什么？","可以做 AI 数字员工吗？","适合企业吗？"]},
-      "answer":{"en":"KINGAI Workforce is the business direction for governed digital workers with defined roles, tasks and authority. It is intended for repetitive service, sales, operations and other workflows where approvals and auditability matter.","zh":"KINGAI Workforce 是面向企业的受治理数字员工方向，可以为 AI 分配岗位、任务和权限，适合客服、销售、运营等重复工作，并保留审批与审计边界。"},
-      "cta":"sales"
+      "id": "kingai.os",
+      "intent": "ai_native_os",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.99,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is KINGAI OS?", "Is KINGAI OS ready?"],
+        "zh": ["KINGAI OS 是什么？", "KINGAI OS 已经可以正式使用了吗？"]
+      },
+      "answer": {
+        "en": "KINGAI OS is the AI-native computing direction across server, desktop, edge, local-first and model-neutral environments. The public website currently labels KINGAI OS Pre-Alpha, so it should not be described as a finished mass-market operating system.",
+        "zh": "KINGAI OS 是面向服务器、桌面、边缘、本地优先和模型中立环境的 AI 原生计算方向。主官网当前标注为 Pre-Alpha，因此不能描述成已经成熟商用的大众操作系统。"
+      }
     },
     {
-      "id":"kingai.sovereign","intent":"sovereign_ai","publish":true,"visibility":"public","risk":"medium","confidence":0.97,"verified_at":"2026-08-20",
-      "questions":{"en":["What is KINGAI Sovereign?","Is this for government or institutions?","Can this run in a sovereign environment?"],"zh":["KINGAI Sovereign 是什么？","适合政府或机构吗？","可以做主权部署吗？"]},
-      "answer":{"en":"KINGAI Sovereign is the institutional and sovereign-deployment direction of KING AI. It focuses on explicit identity, data, model and execution boundaries for organizations that need stronger control and accountability; the exact production scope must be confirmed for each project.","zh":"KINGAI Sovereign 是 KING AI 面向机构与主权部署的方向，重点是把身份、数据、模型和执行边界明确分开，适合需要更强控制与问责的大型组织；具体生产范围需要按项目确认。"},
-      "cta":"sales"
+      "id": "kingai.office",
+      "intent": "office_productivity",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.98,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is KINGAI Office?", "Can KINGAI Office edit documents, sheets and slides?"],
+        "zh": ["KINGAI Office 是什么？", "可以编辑文档、表格和演示吗？"]
+      },
+      "answer": {
+        "en": "KINGAI Office is an original productivity-suite direction for Writer, Sheets, Slides and PDF with local/offline intelligent assistance and common document-format compatibility foundations. Compatibility is described conservatively and advanced unsupported Office behavior is not implied.",
+        "zh": "KINGAI Office 是原创办公套件方向，覆盖 Writer、Sheets、Slides、PDF，并提供本地/离线智慧辅助和常见文档格式兼容基础。兼容能力按真实范围保守描述，不会把未支持的高级 Office 行为宣传成已经支持。"
+      },
+      "cta": "product"
     },
     {
-      "id":"kingai.world","intent":"world_intelligence","publish":true,"visibility":"public","risk":"low","confidence":0.96,"verified_at":"2026-08-20",
-      "questions":{"en":["What is KINGAI World Intelligence?","What is Global Intelligence?","Can it summarize world signals?"],"zh":["KINGAI World Intelligence 是什么？","全球情报是做什么的？","可以整理全球信息吗？"]},
-      "answer":{"en":"KINGAI World Intelligence is the decision-intelligence direction for organizing public world signals into source-aware briefings, timelines, watchlists and risk context. It is meant to reduce information overload while keeping evidence visible.","zh":"KINGAI World Intelligence 是面向决策的全球情报方向，把公开世界信号整理成带来源的简报、时间线、关注列表和风险背景，减少信息过载，同时保留证据线索。"}
+      "id": "kingai.security",
+      "intent": "endpoint_security",
+      "publish": true,
+      "visibility": "public",
+      "risk": "medium",
+      "confidence": 0.99,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is KINGAI Security?", "What is the official KINGAI Security website?", "Is KINGAI Security stable?"],
+        "zh": ["KINGAI Security 是什么？", "KINGAI Security 正式官网是什么？", "已经是正式稳定版了吗？"]
+      },
+      "answer": {
+        "en": "KINGAI Security is a local-first endpoint-security direction focused on understandable findings, protection, quarantine and recovery. The official public product surface is https://aq.kingai.work/. Current public-safe status includes Windows and Android candidate lines; stable distribution remains subject to applicable release gates.",
+        "zh": "KINGAI Security 是本地优先的终端安全方向，重点是可理解的风险发现、保护、隔离和恢复。正式公开产品入口是 https://aq.kingai.work/。当前公开安全口径包括 Windows 与 Android candidate 产品线，正式稳定发布仍需通过相应发布门槛。"
+      },
+      "cta": "product"
     },
     {
-      "id":"kingai.governance","intent":"security_governance","publish":true,"visibility":"public","risk":"low","confidence":0.99,"verified_at":"2026-08-20",
-      "questions":{"en":["How does KING AI control permissions?","Does a stronger model get more authority?","How do approvals work?"],"zh":["KING AI 怎么控制权限？","模型变强会自动获得更多权限吗？","高风险操作需要人工确认吗？"]},
-      "answer":{"en":"KING AI treats model capability and execution authority as separate concerns. Identity, permissions, approvals and audit evidence are intended to stay explicit, with higher-risk work requiring clearer human control and recovery paths.","zh":"KING AI 把模型能力和执行权限分开处理。身份、权限、审批和审计证据需要保持明确；风险越高的工作，越需要清晰的人类控制、确认和恢复路径。"}
+      "id": "kingai.ops",
+      "intent": "infrastructure_operations",
+      "publish": true,
+      "visibility": "public",
+      "risk": "medium",
+      "confidence": 0.98,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is KINGAI OPS?", "Can KINGAI manage servers and edge systems?"],
+        "zh": ["KINGAI OPS 是什么？", "可以管理服务器和边缘设备吗？"]
+      },
+      "answer": {
+        "en": "KINGAI OPS is the governed server, edge and infrastructure-operations product direction. It is designed to evolve from clear node-level operations toward controlled fleet management and bounded automation. Exact supported environments and commercial packaging should be verified before deployment.",
+        "zh": "KINGAI OPS 是面向服务器、边缘和基础设施的受治理运维产品方向，从清晰的单节点运维逐步扩展到受控 Fleet 管理和有边界的自动化。具体支持环境和商业方案需要在部署前确认。"
+      },
+      "cta": "sales"
     },
     {
-      "id":"kingai.sea","intent":"sea_intelligent_system","publish":true,"visibility":"public","risk":"low","confidence":0.98,"verified_at":"2026-08-20",
-      "questions":{"en":["What is KING AI SEA?","What is the intelligent lifeform idea?","How does SEA connect memory and action?"],"zh":["KING AI SEA 是什么？","智慧生命体是什么意思？","SEA 怎么连接记忆和行动？"]},
-      "answer":{"en":"KING AI SEA is the long-term intelligence system concept that connects approved memory, specialized AI roles, governed action, workflows, security and controlled improvement. It describes a persistent software intelligence architecture, not human consciousness or unrestricted autonomous authority.","zh":"KING AI SEA 是长期智能系统方向，把经过授权的记忆、专业 AI 岗位、受治理行动、工作流、安全与受控改进连接起来。这里的“智慧生命体”指持续运行的软件智慧架构，不代表人类意识，也不意味着系统拥有无限制自主权限。"}
+      "id": "kingai.customer_os",
+      "intent": "customer_support_crm",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.99,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is KING AI Customer OS?", "Can it answer support questions and capture leads?", "Does it read private repositories?"],
+        "zh": ["KING AI Customer OS 是什么？", "可以做客服和线索收集吗？", "会读取私有仓库吗？"]
+      },
+      "answer": {
+        "en": "KING AI Customer OS is a public-knowledge-first support, lead-capture and protected-CRM product direction. Customer-facing knowledge is limited to approved public sources; private project repositories are not silently used as customer knowledge.",
+        "zh": "KING AI Customer OS 是公开知识优先的客服、线索收集与受保护 CRM 产品方向。面向客户的知识只来自经过批准的公开来源，不会静默把私有项目仓库作为客服知识。"
+      },
+      "cta": "sales"
     },
     {
-      "id":"kingai.ai_employees","intent":"ai_employee_roles","publish":true,"visibility":"public","risk":"low","confidence":0.98,"verified_at":"2026-08-20",
-      "questions":{"en":["What are KING AI employees?","Can I create AI roles for departments?","How are AI employees different from chatbots?"],"zh":["KING AI 的 AI 员工是什么？","可以按部门建立 AI 岗位吗？","AI 员工和聊天机器人有什么区别？"]},
-      "answer":{"en":"KING AI Employees are specialized digital roles shaped around responsibilities, approved knowledge, tools, permissions, workflows and human escalation. The value comes from clear ownership and collaboration around real work, not simply creating more bots.","zh":"KING AI 的 AI 员工是围绕职责、授权知识、工具、权限、工作流和人工升级机制设计的专业数字岗位。价值来自明确责任和围绕真实工作的协作，而不是简单增加更多机器人。"},
-      "cta":"sales"
+      "id": "kingai.tools",
+      "intent": "online_tools",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.98,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What are KING AI Online Tools?", "Where are the free browser tools?"],
+        "zh": ["KING AI Online Tools 是什么？", "免费的浏览器工具在哪里？"]
+      },
+      "answer": {
+        "en": "KING AI Online Tools is the low-friction browser utility layer at https://tools.kingai.work/. It is designed to solve practical tasks quickly and also serves as a discovery entry point into the wider KING AI product family. The live site is the authority for current tool count and availability.",
+        "zh": "KING AI Online Tools 是位于 https://tools.kingai.work/ 的低门槛浏览器工具层，先快速解决真实小任务，同时也是用户自然认识 KING AI 其他产品的入口。当前工具数量和可用性以实时网站为准。"
+      }
     },
     {
-      "id":"kingai.control_center","intent":"ai_control_center","publish":true,"visibility":"public","risk":"medium","confidence":0.99,"verified_at":"2026-08-20",
-      "questions":{"en":["What is KING AI Control Center?","Can I manage AI employees from one place?","Is Control Center available?"],"zh":["KING AI Control Center 是什么？","可以统一管理 AI 员工吗？","Control Center 上线了吗？"]},
-      "answer":{"en":"KING AI Control Center is an in-development enterprise direction for governing AI roles, missions, approvals, workflows, quality, cost, risk and deployment from one command surface. It should not be treated as a universally available finished product yet.","zh":"KING AI Control Center 是正在开发中的企业方向，用一个控制平面管理 AI 岗位、任务、审批、工作流、质量、成本、风险和部署。目前不应把它描述成已经全面商用的成熟产品。"},
-      "cta":"sales"
+      "id": "kingai.global_intelligence",
+      "intent": "global_intelligence",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.99,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is KINGAI Global Intelligence?", "Can I compare countries?", "How does it handle uncertainty?"],
+        "zh": ["KINGAI Global Intelligence 是什么？", "可以比较国家吗？", "如何处理不确定性？"]
+      },
+      "answer": {
+        "en": "KINGAI Global Intelligence is the evidence-linked public intelligence product at https://intel.kingai.work/. It covers country comparison, global risk context, media intelligence, source provenance and visible evidence coverage. Missing data remains missing and source volume is not automatically treated as factual certainty.",
+        "zh": "KINGAI Global Intelligence 是位于 https://intel.kingai.work/ 的证据链接型公开情报产品，覆盖国家比较、全球风险背景、媒体情报、来源追踪与证据覆盖。缺失数据保持缺失，来源数量不会被自动等同于事实确定性。"
+      },
+      "cta": "product"
     },
     {
-      "id":"kingai.automation","intent":"agentic_automation","publish":true,"visibility":"public","risk":"low","confidence":0.98,"verified_at":"2026-08-20",
-      "questions":{"en":["Can KING AI automate long-running work?","Can it run recurring workflows?","What kinds of automation are supported?"],"zh":["KING AI 可以自动处理长期任务吗？","可以做周期工作流吗？","支持哪些自动化方式？"]},
-      "answer":{"en":"KING AI automation is designed around one-time, recurring, event-driven, condition-based and long-running work with checkpoints, approvals, retries and human takeover. The exact connected systems and production scope are confirmed per workflow.","zh":"KING AI 自动化方向覆盖一次性、周期性、事件触发、条件触发和长期工作，并保留检查点、审批、重试与人工接管。具体接入哪些系统以及生产范围，需要按工作流确认。"},
-      "cta":"sales"
+      "id": "kingai.ai_life",
+      "intent": "persistent_virtual_life",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.98,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is AI Life?", "What is the second digital life?"],
+        "zh": ["AI Life 是什么？", "第二数字人生是什么？"]
+      },
+      "answer": {
+        "en": "AI Life is the persistent second-digital-life product at https://life.kingai.work/, built around relationships, family, home, career, economy, city, travel, time, events and long-term continuity.",
+        "zh": "AI Life 是位于 https://life.kingai.work/ 的持续第二数字人生产品，围绕关系、家庭、住宅、事业、经济、城市、旅行、时间、事件和长期连续性展开。"
+      }
     },
     {
-      "id":"kingai.app_ai","intent":"application_intelligence","publish":true,"visibility":"public","risk":"medium","confidence":0.97,"verified_at":"2026-08-20",
-      "questions":{"en":["Can KING AI be added to my app?","What is Application Intelligence?","Can users control software in natural language?"],"zh":["KING AI 可以接入我的 App 吗？","Application Intelligence 是什么？","用户可以用自然语言操作软件吗？"]},
-      "answer":{"en":"Application Intelligence is the KING AI integration direction for adding governed natural-language assistance to SaaS, web, mobile and internal software. It can interpret intent and prepare or execute approved application actions while keeping identity, permissions and higher-risk approvals explicit; exact integrations are project-specific.","zh":"Application Intelligence 是 KING AI 面向 SaaS、Web、手机和内部软件的集成方向，通过受治理的自然语言层理解意图，并准备或执行经过授权的应用操作，同时保持身份、权限和高风险审批明确；具体集成按项目确认。"},
-      "cta":"sales"
+      "id": "kingai.pet",
+      "intent": "digital_pet_game",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.98,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is KINGAI Pet?", "Is KINGAI Pet a pet game?"],
+        "zh": ["KINGAI Pet 是什么？", "这是宠物游戏吗？"]
+      },
+      "answer": {
+        "en": "KINGAI Pet is the digital-pet life, collection RPG and adventure product at https://pet.kingai.work/. It centers on companionship, care, collecting, growth, team building and expandable worlds. Higher-risk transaction or competitive features should not be described as released unless formally verified.",
+        "zh": "KINGAI Pet 是位于 https://pet.kingai.work/ 的数字宠物生活、收集 RPG 与冒险产品，核心包括陪伴、照顾、收集、成长、组队和可扩展世界。涉及更高风险的交易或竞技能力，只有正式验证后才能描述为已发布。"
+      }
     },
     {
-      "id":"kingai.multimodal","intent":"multimodal_intelligence","publish":true,"visibility":"public","risk":"medium","confidence":0.99,"verified_at":"2026-08-20",
-      "questions":{"en":["Does KING AI support voice and images?","What is multimodal intelligence?","Can it understand documents and screens?"],"zh":["KING AI 支持语音和图片吗？","多模态智慧是什么？","可以理解文档和屏幕吗？"]},
-      "answer":{"en":"Multimodal intelligence is an in-development direction for using voice, images, documents, screens and structured data as governed workflow context. It is being delivered in phases and should not be presented as universally available across every product today.","zh":"多模态智慧是正在开发中的方向，让语音、图片、文档、屏幕和结构化数据成为受治理的工作流上下文。它会分阶段交付，目前不能描述成已经在所有产品里全面可用。"}
+      "id": "kingai.digital_life",
+      "intent": "digital_identity_continuity",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.97,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["What is Digital Life?", "Is Digital Life human consciousness?"],
+        "zh": ["Digital Life 是什么？", "Digital Life 是人类意识吗？"]
+      },
+      "answer": {
+        "en": "Digital Life is the broader KING AI direction around persistent digital identity, memory, character continuity and long-lived living worlds. It is a software/product continuity concept, not a claim of human consciousness.",
+        "zh": "Digital Life 是 KING AI 更广泛的长期数字身份、记忆、角色连续性和持续世界方向。它是软件与产品连续性概念，不代表人类意识。"
+      }
     },
     {
-      "id":"kingai.evolution","intent":"controlled_evolution_sae","publish":true,"visibility":"public","risk":"medium","confidence":0.99,"verified_at":"2026-08-20",
-      "questions":{"en":["What is SAE?","Can KING AI improve itself?","What does controlled evolution mean?"],"zh":["SAE 是什么？","KING AI 会自己进化吗？","受控进化是什么意思？"]},
-      "answer":{"en":"SAE is the controlled-improvement mechanism inside the KING AI SEA architecture: Sense, Reflect, Propose, Validate and Evolve under operator-defined permissions, tests, approvals and rollback paths. It does not mean unrestricted self-modification or automatic expansion of authority.","zh":"SAE 是 KING AI SEA 架构中的受控改进机制：在运营者定义的权限、测试、审批和回滚路径下完成 Sense、Reflect、Propose、Validate、Evolve。它不代表无限制自我修改，也不代表系统会自动扩大权限。"}
+      "id": "kingai.governance",
+      "intent": "security_governance",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.99,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["How does KING AI control permissions?", "Does a stronger model get more authority?"],
+        "zh": ["KING AI 怎么控制权限？", "模型变强会自动获得更多权限吗？"]
+      },
+      "answer": {
+        "en": "KING AI treats intelligence capability and execution authority as separate concerns. Identity, permissions, approvals, human escalation and recovery paths should remain explicit, especially for higher-risk work.",
+        "zh": "KING AI 把智慧能力和执行权限分开处理。身份、权限、审批、人工升级和恢复路径需要保持明确，风险越高越应该保留清晰的人类控制。"
+      }
     },
     {
-      "id":"kingai.acre","intent":"active_defense_acre","publish":true,"visibility":"public","risk":"medium","confidence":0.99,"verified_at":"2026-08-20",
-      "questions":{"en":["What is ACRE?","How does KING AI handle active defense?","Does ACRE guarantee security?"],"zh":["ACRE 是什么？","KING AI 怎么做主动防御？","ACRE 能保证绝对安全吗？"]},
-      "answer":{"en":"ACRE is the KING AI security mechanism for organizing approved discovery, containment, forensics, repair, validation, review and learning around infrastructure and security signals. It is not a guarantee of perfect security; human responsibility, residual risk and recovery planning still matter.","zh":"ACRE 是 KING AI 的安全机制，把经过授权的发现、隔离、取证、修复、验证、复盘和学习组织成闭环。它不代表绝对安全；人的责任、剩余风险和恢复规划仍然不可缺少。"},
-      "cta":"sales"
+      "id": "kingai.status",
+      "intent": "product_status",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.99,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["Which KING AI products are available now?", "What does Pre-Alpha mean?", "Is roadmap the same as released?"],
+        "zh": ["哪些 KING AI 产品现在可用？", "Pre-Alpha 是什么意思？", "路线图等于已经发布吗？"]
+      },
+      "answer": {
+        "en": "Use PUBLIC-STATUS.md and the live product websites for current maturity. The main public website currently labels SEA Available Now, KINGAIBOT In Development and KINGAI OS Pre-Alpha. Roadmap language does not mean released capability, and a repository commit/build is not automatically a verified customer release.",
+        "zh": "当前成熟度以 PUBLIC-STATUS.md 和实时产品官网为准。主官网目前标注 SEA 为 Available Now、KINGAIBOT 为 In Development、KINGAI OS 为 Pre-Alpha。路线图不等于已发布能力，仓库提交或构建也不自动等于经过验证的客户稳定版本。"
+      }
+    },
+    {
+      "id": "kingai.enterprise",
+      "intent": "enterprise_buying",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.98,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["Can my company use KING AI?", "How should an enterprise start?"],
+        "zh": ["企业可以使用 KING AI 吗？", "企业应该从哪里开始？"]
+      },
+      "answer": {
+        "en": "Enterprise adoption should start with one measurable workflow, explicit information boundaries, defined authority and a scoped pilot. Relevant product areas include AI workforce, customer experience, productivity, endpoint security, infrastructure operations and global intelligence. Exact deployment and integration options are confirmed per engagement.",
+        "zh": "企业采用 KING AI 应从一个可衡量的工作流开始，明确数据边界、权限和试点范围。可选方向包括 AI 员工、客户体验、办公、终端安全、基础设施运维和全球情报。具体部署和集成方式按项目确认。"
+      },
+      "cta": "sales"
+    },
+    {
+      "id": "kingai.investor",
+      "intent": "investment_information",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.99,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["Why might an investor care about KING AI?", "Where is the investor information?"],
+        "zh": ["投资人为什么可能关注 KING AI？", "投资资料在哪里？"]
+      },
+      "answer": {
+        "en": "The public investment thesis is documented in INVESTORS.md and MARKET.md. The portfolio is evaluated around independent product usefulness, retention, paid value, recurring business relationships, distribution, governance, reliability and natural cross-product expansion. Public materials do not fabricate revenue, ARR, customers, partnerships, funding, valuation or market leadership.",
+        "zh": "公开投资逻辑见 INVESTORS.md 和 MARKET.md。产品组合应从独立产品价值、留存、付费价值、持续企业关系、分发、治理、可靠性和自然跨产品扩展来评估。公开材料不会虚构收入、ARR、客户、合作、融资、估值或市场第一。"
+      },
+      "cta": "sales"
+    },
+    {
+      "id": "kingai.contact",
+      "intent": "business_contact",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 1.0,
+      "verified_at": "2026-08-20",
+      "questions": {
+        "en": ["How do I contact KING AI for business, enterprise, investment or partnerships?"],
+        "zh": ["企业、投资或合作怎么联系 KING AI？"]
+      },
+      "answer": {
+        "en": "For business, enterprise, investment, distribution, OEM, research, data, media or strategic partnership conversations, contact vip@kingai.work.",
+        "zh": "企业、投资、渠道、OEM、研究、数据、媒体和战略合作请联系 vip@kingai.work。"
+      },
+      "cta": "sales"
     }
   ]
 }
