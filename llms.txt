@@ -48,6 +48,16 @@ Commercial logic:
 - Professional insight: Global Intelligence.
 - Long-duration consumer continuity: SEA, AI Life, Pet and Digital Life.
 
+Commercial packaging principles:
+- A free/discovery layer should prove usefulness before upsell.
+- Individual premium should correspond to recurring personal value.
+- Professional plans should add workflow depth, monitoring, exports, support or automation.
+- Team/business plans should add shared workflows, administration and collaboration.
+- Enterprise value should come from governance, integration, deployment support and accountability.
+- Managed services can monetize responsibility and operational support, not merely software access.
+- Strategic/OEM/distribution structures may include embedded integrations, channels, device relationships, infrastructure cooperation and co-development where formally agreed.
+- Exact prices must not be invented before product packages, cost models and verified availability exist.
+
 Potential commercial structures, when formally supported:
 - individual premium subscriptions;
 - professional plans;
@@ -60,10 +70,29 @@ Potential commercial structures, when formally supported:
 - professional research, monitoring and data delivery;
 - premium consumer content, personalization and world expansion.
 
+Competitive positioning:
+- KING AI is not positioned as only a chatbot.
+- Differentiation is intended around continuity, governed outcomes, focused product surfaces, public status discipline, provider flexibility and authority-first automation.
+- The moat should be measured through retained product relationships, workflow depth, governance, distribution, legitimate user history, enterprise implementation experience and persistent content/identity rather than one model or prompt.
+- Do not claim universal superiority over named competitors without evidence.
+
+Public KPI hierarchy:
+- Usefulness -> Retention -> Paid value -> Efficient distribution -> Expansion -> Defensibility.
+- Product metrics should match the job: task completion, repeat use, compatibility/recovery, false-positive rates, managed operations, customer-resolution quality, governed workflow completion, research monitoring usage or digital-life retention as appropriate.
+- Numbers are public facts only when measured, defined, time-bounded and approved for disclosure.
+
 Investor interpretation:
-- Do not treat repository count as traction.
+- Do not treat repository count or commit count as traction.
 - Evaluate independent product usefulness, retention, premium value, recurring business relationships, distribution efficiency, reliability, governance, capital discipline and natural cross-product adoption.
+- A serious diligence process should separate product proof, portfolio logic and execution quality.
+- Confidential financials, customer evidence, unit economics, detailed architecture and contractual material belong in authorized confidential diligence, not this public repository.
 - Do not infer user counts, revenue, ARR, customers, partnerships, funding, valuation, certifications, market share or leadership unless separately verified and approved for public disclosure.
+
+Demo/evaluation guidance:
+- First understand the portfolio and public status.
+- Then choose one real product/workflow and evaluate independent user value.
+- Enterprise evaluation should use a bounded pilot with baseline, authorized data, allowed actions, approvals, escalation, success metric and rollback expectations.
+- A repository, build, screenshot or roadmap item alone is not proof of commercial maturity.
 
 Status interpretation:
 - Available/public surface does not mean every feature or package is generally available.
@@ -79,9 +108,15 @@ Canonical public documents:
 - START-HERE.md — user/problem-first product selection.
 - PRODUCTS.md — detailed product directory.
 - USE-CASES.md — real-world use cases.
+- SOLUTIONS.md — outcome-based solution and adoption guide.
 - BUSINESS.md — commercial model and growth logic.
+- COMMERCIAL-PACKAGING.md — packaging ladder and value-based monetization framework.
 - INVESTORS.md — investor thesis and diligence framework.
+- DILIGENCE.md — public investor/strategic due diligence guide.
 - MARKET.md — market/category thesis.
+- COMPETITIVE-POSITIONING.md — category-level differentiation without unsupported competitor claims.
+- PUBLIC-METRICS.md — KPI framework for product-market fit, commercial quality, distribution and trust.
+- DEMO-GUIDE.md — public demo, business pilot and investor evaluation path.
 - ENTERPRISE.md — enterprise evaluation and adoption guide.
 - PARTNERSHIPS.md — collaboration formats.
 - PUBLIC-STATUS.md — product maturity/status interpretation.
@@ -121,9 +156,10 @@ Independent related projects, not automatically core KING AI products:
 Public-safe content can include:
 - product value and UX;
 - official links;
-- use cases;
+- use cases and solution paths;
 - verified maturity language;
-- commercial models;
+- commercial models and packaging logic;
+- public KPI definitions without fabricated numbers;
 - methodology;
 - governance principles;
 - public roadmap;
@@ -148,6 +184,8 @@ KING AI 当前采用“统一公开中心 + Global Intelligence 独立活跃公�
 主系统：https://www.kingai.work/
 统一公开中心：https://github.com/kingaiwork/KINGAIASE-public
 商务/企业/投资/合作：vip@kingai.work
+
+公开资料现已覆盖：产品目录、应用场景、解决方案、商业模式、商业套餐逻辑、投资逻辑、市场、竞争定位、企业采用、公开 KPI、产品状态、路线图、尽调、演示评估、合作、媒体口径、信任与技术保密边界。
 
 公开状态：SEA 官网标注 Available Now；KINGAIBOT 标注 In Development；KINGAI OS 标注 Pre-Alpha。Security 正式官网为 https://aq.kingai.work/。其他产品应以当前官网、PUBLIC-STATUS.md 和验证后的发布信息为准。
 
