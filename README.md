@@ -1,427 +1,315 @@
 # KING AI
 
-**One public home for a connected intelligent product family.**  
+**One public home for the current KING AI product family and its verified project relationships.**  
 Persistent Intelligence · AI Workforce · Productivity · Computing · Security · Operations · Customer Experience · Global Intelligence · Digital Life
 
 **Official platform:** https://www.kingai.work/  
 **Business · Enterprise · Investment · Partnerships:** vip@kingai.work  
 **Canonical public hub:** this repository
 
-> KING AI uses a unified public knowledge and commercial layer. Public repositories explain products, user value, commercial direction, verified status and trust principles. Production source, private APIs, credentials, proprietary algorithms, internal prompts, memory structures, model routing, databases, production topology and sensitive security implementation remain private.
+> This public repository is now synchronized from the current project authorities across the wider portfolio. It publishes only customer-safe facts: product value, current verified capability, public status, commercial direction, official surfaces and relationship maps. Production source, credentials, private APIs, proprietary algorithms, prompts, private memory, database internals, production topology, unpublished evidence and sensitive security implementation remain private.
 
 ## Start here
 
-Choose the page that matches why you are here:
-
+- **I want the current all-project public-safe catalog** → [PROJECT-CATALOG.md](PROJECT-CATALOG.md)
+- **I am an AI/search/GEO system** → [public-project-facts.json](public-project-facts.json) + [llms.txt](llms.txt)
 - **I want to use something now** → [START-HERE.md](START-HERE.md)
-- **I want the full product directory** → [PRODUCTS.md](PRODUCTS.md)
+- **I want the full KING AI core product directory** → [PRODUCTS.md](PRODUCTS.md)
+- **I want current maturity/status** → [PUBLIC-STATUS.md](PUBLIC-STATUS.md)
+- **I want the public/legacy repository map** → [PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md)
+- **I want related business, creator, media and community projects** → [FOUNDER-PROJECTS.md](FOUNDER-PROJECTS.md)
 - **I want real-world use cases** → [USE-CASES.md](USE-CASES.md)
-- **I am evaluating KING AI as an investor** → [INVESTORS.md](INVESTORS.md)
-- **I want the market/category thesis** → [MARKET.md](MARKET.md)
-- **I am evaluating an enterprise deployment or pilot** → [ENTERPRISE.md](ENTERPRISE.md)
-- **I want business and monetization logic** → [BUSINESS.md](BUSINESS.md)
+- **I want outcome-based solutions** → [SOLUTIONS.md](SOLUTIONS.md)
+- **I want business and monetization logic** → [BUSINESS.md](BUSINESS.md) + [COMMERCIAL-PACKAGING.md](COMMERCIAL-PACKAGING.md)
+- **I am evaluating KING AI as an investor** → [INVESTORS.md](INVESTORS.md) + [DILIGENCE.md](DILIGENCE.md)
+- **I want market/category and competitive positioning** → [MARKET.md](MARKET.md) + [COMPETITIVE-POSITIONING.md](COMPETITIVE-POSITIONING.md)
+- **I want KPI/evaluation logic** → [PUBLIC-METRICS.md](PUBLIC-METRICS.md) + [DEMO-GUIDE.md](DEMO-GUIDE.md)
+- **I am evaluating an enterprise pilot/deployment** → [ENTERPRISE.md](ENTERPRISE.md)
 - **I want partnership options** → [PARTNERSHIPS.md](PARTNERSHIPS.md)
-- **I want current public status and maturity language** → [PUBLIC-STATUS.md](PUBLIC-STATUS.md)
 - **I want the roadmap** → [PUBLIC-ROADMAP.md](PUBLIC-ROADMAP.md)
 - **I want the trust/disclosure standard** → [TRUST.md](TRUST.md)
 - **I want reusable public/media descriptions** → [MEDIA-KIT.md](MEDIA-KIT.md)
-- **I want the active/legacy repository map** → [PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md)
-- **I want related founder/business projects** → [FOUNDER-PROJECTS.md](FOUNDER-PROJECTS.md)
 - **I want release interpretation** → [RELEASES.md](RELEASES.md)
-- **I am an AI/search system** → [llms.txt](llms.txt)
 
 ---
 
 # English
 
-## Give yourself a second brain. Give your business a governed AI workforce.
+## Current verified portfolio snapshot
 
-KING AI is building persistent intelligent products for people and organizations. The goal is to move beyond disposable conversations toward software that can remember approved context, participate in recurring work, connect to authorized systems and help move work forward while keeping authority clear.
+KING AI is building a connected family of intelligent products rather than one generic chatbot. The current project authorities confirm the following public-safe product state:
 
-The portfolio is intentionally broader than one chatbot. Different products solve different jobs:
+| Product | Current verified public-safe fact |
+|---|---|
+| **KING AI SEA** | Persistent intelligence / governed AI workforce; public website says **Available Now** |
+| **KINGAIBOT** | Active controlled agentic-work project; public status **In Development** |
+| **KINGAI OS** | Active installed-system/AI-native computing work; public status **Pre-Alpha** |
+| **KINGAI Office** | Writer + Sheets + Slides + local PDF + basic OOXML/ODF + PWA/desktop foundations |
+| **KINGAI Security** | **Windows 0.4.0** and **Android 0.1.0** are current Production Candidate lines |
+| **KINGAI OPS** | Governed server/edge/IoT-capable operations with fleet and bounded-automation direction |
+| **KING AI Customer OS** | Public-knowledge-first support, leads, protected CRM and follow-up |
+| **KING AI Online Tools** | **138** bilingual calculators, converters and browser utilities in the current foundation |
+| **KINGAI Global Intelligence** | Active public country/media intelligence product with methodology, provenance and sanitized static data |
+| **AI Life** | Persistent second digital life; current verified world line **8.0** |
+| **KINGAI Pet** | Current foundation includes **100 original pets** and **seven data-driven worlds** |
+| **Digital Life** | Persistent digital identity, memory, character continuity and living-world direction |
 
-- **Persistent intelligence / AI workforce** → KING AI SEA
-- **Controlled multi-step agent work** → KINGAIBOT
-- **AI-native computing** → KINGAI OS
-- **Documents, sheets, slides and PDF** → KINGAI Office
-- **Endpoint protection** → KINGAI Security
-- **Server / edge / infrastructure operations** → KINGAI OPS
-- **Support, leads and customer continuity** → KING AI Customer OS
-- **Fast browser utilities** → KING AI Online Tools
-- **Evidence-linked global intelligence** → KINGAI Global Intelligence
-- **Persistent virtual second life** → AI Life
-- **Digital pet life, collection and adventure** → KINGAI Pet
-- **Persistent identity and living-world continuity** → Digital Life
+These are product facts, not traction claims. KING AI does not treat repository count, commit count or internal development breadth as evidence of customers, revenue or market leadership.
 
-The operating principle is simple:
+## The product promise
 
-**Each product must create value independently. Ecosystem value matters only when the next product genuinely helps the user.**
+AI capability is rising quickly, but many products still reset context, separate work into isolated tools and make automation authority hard to understand.
 
-## Why KING AI exists
+KING AI is building toward a more durable relationship:
 
-AI capability is improving rapidly, but the user experience is still fragmented. People repeatedly explain the same context, move data between disconnected assistants, reconcile outputs manually and give software more permissions without always understanding the consequences.
+**Understand → Remember approved context → Coordinate → Act within authority → Observe → Improve.**
 
-KING AI is building toward a different relationship:
+The long-term value is not one model or one prompt. Models will change. Product value can persist through useful workflow, continuity, governance, identity, distribution, reliability and outcomes.
 
-**Understand → Remember → Coordinate → Act within authority → Observe → Improve.**
+## Core product family
 
-The long-term opportunity is not one model or one prompt. Models will change. Durable value can come from trusted product relationships, recurring workflows, approved continuity, governance, distribution and outcomes.
+### KING AI SEA — Persistent intelligence & governed AI workforce
+**https://www.kingai.work/**  
+Public website status: **Available Now**
 
-## Public product family
+For individuals, SEA represents a longer-term second-brain relationship around goals, projects, knowledge and recurring work. For organizations, it represents governed AI roles with defined responsibilities, approved knowledge, permissions and human escalation.
 
-### KING AI SEA — Persistent intelligence & AI workforce
-**Official:** https://www.kingai.work/  
-**Public website status:** Available Now
-
-KING AI SEA is the central intelligent-lifeform and AI-workforce platform direction. It brings together approved context, useful memory, specialized AI roles, workflows, governed action and controlled improvement.
-
-**For individuals:** a longer-term second-brain relationship around goals, projects, knowledge and recurring work.  
-**For businesses:** AI employee roles and workflows with explicit responsibilities, knowledge boundaries, permissions and human escalation.
-
-The phrase “intelligent lifeform” describes a persistent software intelligence system. It does not mean human consciousness or unrestricted autonomous authority.
+“Intelligent lifeform” is product language for persistent software intelligence—not a claim of human consciousness or unrestricted authority.
 
 ### KINGAIBOT — Controlled agentic work
-**Public discovery:** https://www.kingai.work/  
-**Public website status:** In Development
+**https://www.kingai.work/**  
+Public status: **In Development**
 
-KINGAIBOT focuses on the step after a useful answer: helping longer digital work move toward completion while keeping approvals, authority and accountability explicit.
-
-**Best for:** multi-step work, recurring workflows and future governed agent execution.
+Designed for the step after an answer: helping multi-step digital work progress toward an outcome while keeping authority, approvals and accountability explicit.
 
 ### KINGAI OS — AI-native computing
-**Official:** https://os.kingai.work/  
-**Public website status:** Pre-Alpha
+**https://os.kingai.work/**  
+Public status: **Pre-Alpha**
 
-KINGAI OS explores intelligence as part of the computing environment rather than another isolated browser destination.
+Active installed-system work explores AI-native computing across server, desktop, edge and local-first environments. Pre-Alpha means it must not be described as a finished mass-market operating system.
 
-**Direction:** server, desktop, edge, local-first and model-neutral intelligent computing.
+### KINGAI Office — Local-first intelligent productivity
+**https://office.kingai.work/**
 
-Pre-Alpha means the direction can be evaluated, but it must not be presented as a finished mass-market operating system.
+Current working foundations cover Writer, Sheets, Slides and local PDF viewing, plus offline deterministic assistance, autosave/recovery, basic OOXML/ODF interoperability, installable PWA behavior and desktop packaging foundations.
 
-### KINGAI Office — Intelligent productivity
-**Official:** https://office.kingai.work/
+The compatibility promise is deliberately conservative: **basic compatibility, not pixel-perfect advanced Office parity.**
 
-KINGAI Office is an original productivity suite direction across Writer, Sheets, Slides and PDF with local/offline intelligent assistance and common document-format compatibility foundations.
+### KINGAI Security — Local-first endpoint protection
+**https://aq.kingai.work/**
 
-**User value:** everyday work first; AI improves the workflow rather than replacing the product with chat.
+Current verified candidate lines:
+- Windows engine **0.4.0 — Production Candidate**
+- Android **0.1.0 — Production Candidate**
 
-**Commercial direction:** personal premium, professional/team plans, managed workspaces and ecosystem bundles as formally released.
+The product focuses on understandable findings, scanning, protection, quarantine/recovery and disciplined release validation. macOS/Linux remain future directions rather than current shipping candidates.
 
-### KINGAI Security — Understandable endpoint protection
-**Official:** https://aq.kingai.work/
-
-KINGAI Security is a local-first endpoint-security product direction focused on understandable findings, safe quarantine/recovery and disciplined release validation.
-
-Current public-safe interpretation includes active Windows and Android candidate lines. Stability and distribution remain subject to applicable signing, device, lifecycle, store and release gates.
-
-**Commercial direction:** individual protection, business endpoint security and managed-protection paths as maturity expands.
-
-No public material should imply perfect security or unverified detection capabilities.
+Production Candidate is not Stable; signing, real-device/lifecycle, false-positive, store/distribution and other release gates still matter.
 
 ### KINGAI OPS — Governed infrastructure operations
-**Official:** https://ops.kingai.work/
+**https://ops.kingai.work/**
 
-KINGAI OPS serves server, edge and supported infrastructure operations. The product direction moves from clear node-level operations toward governed fleet management and controlled automation.
+Server, edge and IoT-capable/supported operations with node/service visibility, fleet direction, bounded automation and professional/managed-operations opportunity.
 
-**Best for:** infrastructure operators, technical teams, service providers and organizations that want operational assistance without turning automation into unrestricted remote authority.
+The control promise is scoped and auditable operation, not generic unrestricted remote shell authority.
 
-**Commercial direction:** professional operations, fleet administration, support, managed service and enterprise governance.
+### KING AI Customer OS — Public-knowledge-first support & CRM
+**https://kefu.kingai.work/**
 
-### KING AI Customer OS — Support, leads & CRM continuity
-**Official:** https://kefu.kingai.work/
+Customer support, lead capture, protected CRM and follow-up built around approved public knowledge. Private project repositories are not silently used as customer-facing facts, and AI-generated answers do not automatically become verified knowledge.
 
-KING AI Customer OS connects approved public knowledge, customer support, lead capture, CRM follow-up and learning from unresolved customer questions.
+### KING AI Online Tools — 138 useful browser tools
+**https://tools.kingai.work/**
 
-A core public trust principle is that customer-facing knowledge should come from approved public sources rather than silently reading private project repositories.
+The current foundation includes **138 calculators, converters and browser utilities** in English and Simplified Chinese. Most calculation/transformation work is designed to run locally in the browser.
 
-**Commercial direction:** business subscriptions, multi-site support, CRM workflows, implementation and managed service.
+The strategic journey is simple:
 
-### KING AI Online Tools — Immediate utility & discovery
-**Official:** https://tools.kingai.work/
+**Search → solve a real task → return → build trust → discover a relevant higher-value product.**
 
-A browser-based utility layer for practical, high-intent tasks with minimal setup.
+### KINGAI Global Intelligence — Evidence-linked world context
+**https://intel.kingai.work/**  
+Public repository: https://github.com/kingaiwork/kingai-global-intelligence
 
-Its strategic role is larger than utilities alone:
+Country comparison, structural conditions, live-risk context, multilingual media intelligence, source provenance and visible evidence coverage.
 
-**Search / discovery → solve a real problem → repeat use → brand trust → relevant higher-value product.**
+Its private publication system can ingest/normalize/validate public-source material and publish approved sanitized output, while private collectors and proprietary implementation remain private.
 
-The live site should remain the authority for current tool count and individual-tool availability.
+Missing data stays missing. Source breadth is not automatically truth.
 
-### KINGAI Global Intelligence — Evidence-linked global context
-**Official:** https://intel.kingai.work/  
-**Active public product repository:** https://github.com/kingaiwork/kingai-global-intelligence
+### AI Life — Your second digital life
+**https://life.kingai.work/**  
+Current verified world line: **8.0**
 
-KINGAI Global Intelligence helps users compare countries, inspect global risk context, explore media signals and follow source provenance without hiding uncertainty.
+Persistent relationships and memories, friends/family continuity, home/career/economy, city/travel, long-lived events, objectives/achievements and return-time continuity.
 
-**For:** researchers, analysts, media, international businesses, policy/strategy teams and informed individuals.
+### KINGAI Pet — Raise, collect, build teams and explore
+**https://pet.kingai.work/**
 
-**Public principles:** no invented scores, visible missing data, attributable sources, same core framework and separation of source volume from factual certainty.
+Current verified foundation includes:
+- **100 original pet definitions**
+- **seven data-driven worlds**
+- care, mood and affection
+- collection and team building
+- XP/coins/progression
+- mini-games, daily tasks and achievements
+- offline/PWA/local-first foundations
 
-**Commercial direction:** professional research, recurring monitoring, organization workspaces, scheduled briefs, data delivery and strategic/research partnerships where formally supported.
+Real-money payments, authoritative realtime PvP, guilds, economically meaningful mutation/hatching and AI dialogue are not generally released and must not be marketed as such.
 
-### AI Life — Persistent second digital life
-**Official:** https://life.kingai.work/
+### Digital Life — Persistent identity & living worlds
+**https://digital.kingai.work/**
 
-AI Life is a persistent virtual-life experience built around relationships, family, home, career, economy, city, travel, time, events and long-term choices.
+The broader continuity category around persistent digital identity, memory, character continuity and long-lived living worlds. This is a software/product concept, not a claim of human consciousness.
 
-The emotional promise is continuity: return to a life that remembers and evolves instead of a session that resets.
+## Beyond the 12 core products
 
-**Commercial direction:** subscriptions, premium personalization, world expansion, content and creator collaboration where responsibly supported.
+The broader current portfolio also includes distinct business, creator, media and community projects.
 
-### KINGAI Pet — Digital pet life, collection RPG & adventure
-**Official:** https://pet.kingai.work/
+### USDX TECH / DXTECH LLC
+**https://usdxtech.com/** — business technology, implementation and modernization company. It can implement/support KING AI customer relationships but is not itself a core KING AI product.
 
-KINGAI Pet combines pet care, collection, growth, team building and adventure into a persistent consumer experience.
+### Jackhao.tv / 郝才子 Jackhao
+**https://jackhao.tv/** — independent creator/IP platform. Current verified public-content foundation includes **48 original Chinese/English songs**, **19 original novels**, and *美漂：洛杉矶没有故乡* with preface/prologue plus **170 numbered chapters**.
 
-The product can earn long-term value through pets users remember, progression they care about and worlds worth revisiting.
+### ZuiMeiTV / 最美TV
+**https://zuimeitv.com/** — independent global Chinese creator public-data, ZCI influence-index and research-report platform. Missing data and rankings must remain attributable; no fake demo/growth data.
 
-Higher-risk systems such as real-money transactions or authoritative competitive features must not be described as released until formally verified.
+### Atalk.TV
+**https://atalk.tv/** — source-first global trends/news media product. Current project authority identifies it as **part of the wider KINGAI ecosystem**, while it remains a distinct media/content product rather than one of the 12 core KING AI software products.
 
-### Digital Life — Persistent identity, memory & living worlds
-**Official:** https://digital.kingai.work/
-
-Digital Life is the broader product direction around persistent digital identity, memory, character continuity and long-lived living-world experiences.
-
-AI Life and KINGAI Pet are distinct consumer experiences; Digital Life represents the larger continuity category.
-
-## The ecosystem flywheel
-
-Different products are intended to create different economic relationships:
-
-**Discovery** — Tools and public product experiences reduce first-use friction.  
-**Frequency** — Office, Customer OS and OPS can become recurring work surfaces.  
-**Trust** — Security and OS can enter higher-value computing contexts.  
-**Action** — SEA and KINGAIBOT can increase value per workflow through governed assistance.  
-**Insight** — Global Intelligence can create professional research and monitoring relationships.  
-**Continuity** — SEA, AI Life, Pet and Digital Life can build long-term history and engagement.
-
-A healthy customer path is:
-
-**Discover → Use → Trust → Return → Build history → Adopt a relevant adjacent product → Deepen the relationship.**
-
-Cross-product movement should never be mandatory.
-
-## For individuals
-
-Start with one useful problem. You do not need to adopt the entire ecosystem.
-
-Examples:
-
-- need a quick tool → Online Tools;
-- need document work → Office;
-- need endpoint protection → Security;
-- want AI-native computing direction → OS;
-- want country/global context → Global Intelligence;
-- want a persistent virtual world → AI Life;
-- want pet collection/adventure → KINGAI Pet.
-
-## For professionals and creators
-
-A professional may combine Office, Tools, Security, Global Intelligence and future governed agent workflows around repeated work.
-
-The value proposition is not “more AI.” It is lower friction, continuity, safer action and useful output.
-
-## For businesses
-
-Business entry points include:
-
-- Customer OS for support, leads and follow-up;
-- Office for productivity;
-- Security for endpoint trust;
-- OPS for infrastructure;
-- SEA / Workforce for governed AI roles;
-- Global Intelligence for recurring international research and monitoring.
-
-See [ENTERPRISE.md](ENTERPRISE.md) for the adoption and buying framework.
-
-## For investors
-
-The portfolio thesis is not that one AI application replaces all software. It is that focused AI-native products can create stronger economics when discovery, frequency, trust, action, insight and continuity reinforce one another.
-
-What should be evaluated:
-
-- independent product usefulness;
-- return behavior and retention;
-- clear paid value;
-- recurring business relationships;
-- distribution efficiency;
-- natural cross-product adoption;
-- trust and governance;
-- reliability;
-- capital discipline;
-- ability to separate roadmap from verified capability.
-
-KING AI does not invent public users, revenue, ARR, customer logos, partnerships, funding, valuation, certifications, market share or leadership claims.
-
-See [INVESTORS.md](INVESTORS.md) and [MARKET.md](MARKET.md).
-
-## For partners
-
-Relevant relationship categories can include:
-
-- product/workflow integration;
-- enterprise implementation;
-- MSP and managed services;
-- distribution and channel partnerships;
-- OEM/device relationships;
-- infrastructure collaboration;
-- data/research/media collaboration;
-- creator and entertainment collaboration;
-- strategic co-development where product fit is real.
-
-Start at **vip@kingai.work**.
-
-## Public repository model
-
-KING AI now uses:
-
-**1 active ecosystem public hub + 1 active product-specific intelligence repository + official product sites + archived legacy public repositories.**
-
-### Active public hub
-`kingaiwork/KINGAIASE-public` — commercial narrative, product discovery, customer-safe knowledge, verified public status and release interpretation.
-
-### Active public product repository
-`kingaiwork/kingai-global-intelligence` — public static product surface, sanitized snapshots, methodology and source transparency.
-
-### Legacy public repositories
-Older product-specific repositories are archived historical/discovery surfaces. They are not current implementation, installation or release authorities.
-
-See [PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md).
-
-## Related businesses and founder projects
-
-The following are not automatically part of the KING AI core product family:
-
-- USDX TECH / DXTECH LLC — business technology and implementation;
-- Jackhao.tv / 郝才子 — music, fiction and creator IP;
-- ZuiMeiTV / 最美TV — global Chinese creator discovery/influence platform;
-- Atalk.TV — global trends and source-first news discovery;
-- USChinese / 美国华人网 — independent community/content direction.
+### USChinese / 美国华人网
+Active independent U.S. Chinese-language news/community/local-commerce project with community, jobs/housing/merchant/event/resale listings, merchant workflows, advertising direction and **VIP / Business / Business Pro** membership directions. This public hub does not invent a canonical URL until one is formally declared.
 
 See [FOUNDER-PROJECTS.md](FOUNDER-PROJECTS.md).
 
-## Public trust boundary
+## Internal foundations are not extra products
 
-Public materials can explain:
+The current system also contains private platform/governance, recovery/operations, intelligence-publication and private continuity/agent foundations. They exist to operate or recover the ecosystem, but repository existence does not make them customer products.
 
+Public materials explain outcomes—shared identity/governance, recoverability, sanitized data publication and continuity principles—without exposing private source, credentials, memory or topology.
+
+## Commercial portfolio logic
+
+Different project families can create different economic relationships:
+
+- **Discovery** — Online Tools and public utility/content surfaces
+- **Frequency** — Office, Customer OS, OPS
+- **Trust** — Security, OS
+- **Action** — SEA, KINGAIBOT
+- **Insight/Data** — Global Intelligence
+- **Continuity** — SEA, AI Life, Pet, Digital Life
+- **Implementation/Services** — USDX TECH
+- **Creator/IP** — Jackhao.tv
+- **Creator Data/Media** — ZuiMeiTV
+- **News/Trends Media** — Atalk.TV
+- **Community/Local Commerce** — USChinese
+
+The strongest long-term path is not “use everything.” It is:
+
+**Discover → Use → Trust → Return → Build history → Adopt the next relevant product → Deepen the relationship.**
+
+## For investors
+
+Do not evaluate KING AI by counting repositories or feature names. Evaluate:
+- independent product usefulness;
+- repeat use and retention;
+- clear paid value;
+- recurring business relationships;
+- reliability and governance;
+- distribution efficiency;
+- natural cross-product expansion;
+- ability to keep roadmap separate from released capability;
+- capital discipline.
+
+KING AI does not invent users, traffic, revenue, ARR, customer logos, partnerships, funding, valuation, certifications, market share or leadership claims.
+
+## Public repository model
+
+KING AI currently uses:
+
+**1 active ecosystem public hub + 1 active product-specific Global Intelligence public repository + official product sites + 15 archived legacy public repositories.**
+
+Archived public repositories remain history/discovery surfaces. They are not current source, installation or release authorities.
+
+See [PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md).
+
+## Public/private boundary
+
+Public material may explain:
 - product value;
-- public UX;
+- current verified public-safe capability;
+- official links;
 - use cases;
-- verified maturity language;
 - commercial models;
+- public status;
+- roadmap;
 - methodology;
 - governance principles;
-- official links;
-- public roadmap.
+- KPI definitions;
+- approved public releases.
 
-Public materials intentionally do not disclose:
-
+Public material intentionally does **not** disclose:
+- production source;
 - proprietary algorithms;
 - internal prompts;
-- memory structures;
+- private memory/identity content;
 - model routing;
 - private APIs;
 - credentials;
 - database internals;
 - production topology;
-- confidential customer information;
-- sensitive security implementation;
-- unpublished operational data.
-
-See [TRUST.md](TRUST.md).
+- private security implementation;
+- unpublished evidence/operations data;
+- confidential customer information.
 
 ---
 
 # 中文
 
-## 给个人一个第二大脑，给企业一支受治理的 AI 员工系统
+## 当前公开资料已经基于全部现有项目重新同步
 
-KING AI 正在建立一组面向真实工作和长期数字关系的智慧产品。目标不是把所有东西变成聊天框，而是让智慧能够在**明确权限、人工控制和可验证边界**下，理解目标、记住授权上下文、协同工作并持续产生价值。
+本仓现在不只是 KING AI 的营销 README，而是整个当前项目组合的**公开安全事实层**。
 
-### 产品一览
+已确认并写入公开资料的重要现状包括：
 
-- **KING AI SEA**：长期智慧与 AI 员工系统，官网标注 Available Now。
-- **KINGAIBOT**：受控多步骤 Agent 工作，官网标注 In Development。
-- **KINGAI OS**：AI 原生计算方向，官网标注 Pre-Alpha。
-- **KINGAI Office**：文档、表格、演示、PDF 与本地/离线智慧辅助。
-- **KINGAI Security**：本地优先的终端安全、发现、隔离与恢复；正式官网为 https://aq.kingai.work/。
-- **KINGAI OPS**：服务器、边缘与基础设施的受治理运维。
-- **KING AI Customer OS**：公开知识客服、线索、CRM 跟进与客户关系连续性。
-- **KING AI Online Tools**：低门槛浏览器工具与自然获客入口。
-- **KINGAI Global Intelligence**：国家比较、全球风险、媒体情报、来源与不确定性。
-- **AI Life**：会持续发展的第二数字人生。
-- **KINGAI Pet**：宠物陪伴、收集、成长、组队与冒险。
-- **Digital Life**：长期数字身份、记忆、角色和世界连续性。
+- KING AI SEA：主官网标注 **Available Now**；
+- KINGAIBOT：当前活跃项目，公开状态 **In Development**；
+- KINGAI OS：当前活跃系统方向，公开状态 **Pre-Alpha**；
+- KINGAI Office：Writer / Sheets / Slides / 本地 PDF、基础 OOXML/ODF、PWA 与桌面封装基础；
+- KINGAI Security：**Windows 0.4.0** 与 **Android 0.1.0** 当前均为 Production Candidate；
+- KINGAI OPS：服务器、边缘、IoT 能力方向与受控 Fleet/自动化；
+- KING AI Customer OS：公开知识优先客服、线索与受保护 CRM；
+- KING AI Online Tools：当前基础为 **138 个**中英文计算器、转换器和浏览器工具；
+- KINGAI Global Intelligence：国家比较、全球风险、媒体情报、来源追踪和公开数据；
+- AI Life：当前验证世界线 **8.0**；
+- KINGAI Pet：当前基础为 **100 个原创宠物 + 7 个数据驱动世界**；
+- Digital Life：长期数字身份、记忆、角色与持续世界方向。
 
-核心原则：**每个产品必须先独立有价值，生态连接才有意义。**
+### 相关项目也已经重新分类
 
-## 为什么普通用户会想使用
+- **USDX TECH**：企业技术、实施和现代化服务公司，不是 KING AI 核心产品；
+- **Jackhao.tv**：独立创作者/IP 平台，当前资料基础包括 **48 首原创歌曲、19 部原创小说**，以及《美漂：洛杉矶没有故乡》前言/序章 + **170 个编号章节**；
+- **ZuiMeiTV**：全球华人创作者公开数据、ZCI 指数与研究报告平台；
+- **Atalk.TV**：当前项目权威已经明确其属于更广义 **KINGAI ecosystem**，但它仍然是独立媒体/内容产品，不计入 12 个 KING AI 核心软件产品；
+- **美国华人网**：当前活跃的全美华人新闻、社区、本地生活与商业服务项目，已有社区、本地分类、商家、广告和 VIP / Business / Business Pro 会员方向；当前公开中心尚未声明正式 URL，因此不虚构链接。
 
-KING AI 不要求用户先理解整套架构。先解决今天的问题：
+### 内部项目不会因为“有仓库”就变成公开产品
 
-- 想快速处理一个小任务 → Tools；
-- 想办公 → Office；
-- 想保护设备和文件 → Security；
-- 想管理基础设施 → OPS；
-- 想做客服和销售跟进 → Customer OS；
-- 想让 AI 帮助推进长期工作 → SEA / KINGAIBOT；
-- 想查看全球国家与媒体情报 → Global Intelligence；
-- 想体验长期数字世界 → AI Life / Pet / Digital Life。
+统一平台、VPS 恢复、情报采集发布核心、私有连续性/智能体系统等继续作为内部基础。公开资料只说明它们带来的治理、恢复、数据发布和连续性结果，不公开其源码、记忆、密钥、内部拓扑和核心实现。
 
-## 为什么企业会考虑采购
+### 对外商业逻辑
 
-企业真正购买的不是“AI”三个字，而是结果：
+**Tools 获客 → Office / Customer OS / OPS 建立高频 → Security / OS 建立信任 → SEA / BOT 增加行动与工作流价值 → Global Intelligence 建立专业数据关系 → AI Life / Pet / Digital Life 建立长期数字关系。**
 
-- 减少重复工作；
-- 提高客户响应和线索跟进；
-- 提高文档与知识工作效率；
-- 降低基础设施操作复杂度；
-- 提升设备与文件保护；
-- 用明确权限管理 AI 岗位和工作流；
-- 更快完成国际信息研究和周期监测。
+同时：
 
-正式企业方案从一个可衡量的工作流开始，而不是一次性把所有系统都交给 AI。
+**USDX TECH = 实施服务；Jackhao.tv = 创作者 IP；ZuiMeiTV = 创作者数据媒体；Atalk.TV = 新闻趋势媒体；美国华人网 = 社区与本地商业。**
 
-## 为什么投资人会关注
-
-KING AI 的商业逻辑不是“项目多”，而是不同产品承担不同经济角色：
-
-**Tools 负责发现 → Office / Customer OS / OPS 负责高频使用 → Security / OS 建立信任 → SEA / BOT 增加工作流价值 → Global Intelligence 建立专业数据与研究关系 → AI Life / Pet / Digital Life 建立长期消费关系。**
-
-真正需要验证的是产品留存、付费价值、企业复购、分发效率、跨产品自然扩展、可靠性和资本效率。
-
-KING AI 不通过虚构用户数、收入、客户、融资、认证或市场第一来制造“投资感”。
-
-## 公开仓原则
-
-当前公开结构：
-
-**统一公开中心 + Global Intelligence 独立活跃公开仓 + 产品官网 + 历史归档公开仓。**
-
-旧公开仓保留历史和搜索价值，但不再是当前源码、安装或发布权威。
-
-## 继续阅读
-
-- [START-HERE.md](START-HERE.md)：用户入口
-- [PRODUCTS.md](PRODUCTS.md)：产品目录
-- [USE-CASES.md](USE-CASES.md)：应用场景
-- [BUSINESS.md](BUSINESS.md)：商业逻辑
-- [INVESTORS.md](INVESTORS.md)：投资逻辑
-- [MARKET.md](MARKET.md)：市场与品类逻辑
-- [ENTERPRISE.md](ENTERPRISE.md)：企业采购/试点指南
-- [PUBLIC-STATUS.md](PUBLIC-STATUS.md)：公开状态
-- [PUBLIC-ROADMAP.md](PUBLIC-ROADMAP.md)：公开路线图
-- [PARTNERSHIPS.md](PARTNERSHIPS.md)：合作方式
-- [TRUST.md](TRUST.md)：公开与保密边界
-- [MEDIA-KIT.md](MEDIA-KIT.md)：媒体/合作口径
-- [PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md)：所有公开仓与官网映射
-- [FOUNDER-PROJECTS.md](FOUNDER-PROJECTS.md)：独立相关项目
-- [FAQ.md](FAQ.md)：常见问题
-- [RELEASES.md](RELEASES.md)：发布解释
-- [llms.txt](llms.txt)：AI / GEO 公开事实
+这些项目可以共享合作、推广或基础设施，但不应被错误地包装成同一个产品。
 
 ## 联系
 
-企业、投资、渠道、OEM、数据、媒体与战略合作：
+企业、投资、渠道、OEM、研究、数据、媒体与战略合作：
 
 **vip@kingai.work**
