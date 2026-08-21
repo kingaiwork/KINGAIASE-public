@@ -1,0 +1,43 @@
+{
+  "schema": "kingai.public-project-facts.v1",
+  "reviewed_at": "2026-08-20",
+  "canonical_platform": "https://www.kingai.work/",
+  "business_contact": "vip@kingai.work",
+  "public_only": true,
+  "private_repository_access": false,
+  "products": [
+    {"id":"sea","name":"KING AI SEA","category":"persistent-intelligence-ai-workforce","surface":"https://www.kingai.work/","status":"available-now-public-website","facts":["persistent intelligence","approved context and useful memory","specialized digital roles","recurring workflows","governed action","controlled improvement"],"boundary":"software intelligence; not human consciousness or unrestricted authority"},
+    {"id":"kingaibot","name":"KINGAIBOT","category":"governed-agentic-work","surface":"https://www.kingai.work/","status":"in-development","facts":["active product/runtime direction","controlled multi-step work","explicit authority and approvals"],"boundary":"do not infer general availability of every planned agent workflow"},
+    {"id":"kingai-os","name":"KINGAI OS","category":"ai-native-computing","surface":"https://os.kingai.work/","status":"pre-alpha","facts":["installed-system work remains active","server/desktop/edge direction","local-first","model-neutral design"],"boundary":"not a finished mass-market OS"},
+    {"id":"office","name":"KINGAI Office","category":"productivity","surface":"https://office.kingai.work/","status":"active-working-foundation","facts":["Writer","Sheets","Slides","local PDF viewing","offline deterministic assistance","basic OOXML/ODF compatibility","autosave/recovery","PWA foundation","desktop packaging foundations"],"boundary":"basic compatibility; no pixel-perfect advanced Office claim"},
+    {"id":"security","name":"KINGAI Security","category":"endpoint-security","surface":"https://aq.kingai.work/","status":"production-candidate-lines","facts":["Windows engine 0.4.0 Production Candidate","Android 0.1.0 Production Candidate","local-first endpoint protection","scanning","quarantine/recovery"],"boundary":"Stable remains gated; macOS/Linux are future directions; no perfect-security claim"},
+    {"id":"ops","name":"KINGAI OPS","category":"infrastructure-operations","surface":"https://ops.kingai.work/","status":"active-product-direction","facts":["server operations","edge/gateway direction","IoT/lightweight Linux direction where supported","fleet administration direction","bounded automation","governed workflows"],"boundary":"generic unrestricted remote shell is not the product promise"},
+    {"id":"customer-os","name":"KING AI Customer OS","category":"customer-support-crm","surface":"https://kefu.kingai.work/","status":"active-product-direction","facts":["public-knowledge-first support","lead capture","protected CRM","follow-up","unknown-question review candidates","human escalation"],"boundary":"customer-facing knowledge does not silently read private project repositories"},
+    {"id":"tools","name":"KING AI Online Tools","category":"browser-utilities","surface":"https://tools.kingai.work/","status":"public-utility-surface","facts":["138 calculators/converters/browser utilities","English and Simplified Chinese","most processing local in browser","responsive","SEO/GEO foundation"],"boundary":"live site remains authority for current individual tool behavior"},
+    {"id":"global-intelligence","name":"KINGAI Global Intelligence","category":"global-intelligence-data","surface":"https://intel.kingai.work/","status":"active-public-product","facts":["country comparison","structural and live-risk context","multilingual media intelligence","source provenance","evidence coverage","sanitized static public data"],"boundary":"missing data stays missing; source breadth is not truth; private collectors and proprietary implementation remain private"},
+    {"id":"ai-life","name":"AI Life","category":"persistent-virtual-life","surface":"https://life.kingai.work/","status":"active-product-direction","facts":["current world line 8.0","persistent relationships and memories","friends/family continuity","home/career/economy","city/travel","objectives/achievements","return-time continuity"],"boundary":"private runtime/provider/scheduler/data details are not public product facts"},
+    {"id":"pet","name":"KINGAI Pet","category":"digital-pet-collection-rpg","surface":"https://pet.kingai.work/","status":"active-consumer-product-direction","facts":["100 original pet definitions","seven data-driven worlds","care and affection","collection","team building","XP and coins","mini-games","daily tasks","achievements","offline/PWA foundations"],"boundary":"real-money payments, authoritative realtime PvP, guilds and AI dialogue are not generally released"},
+    {"id":"digital-life","name":"Digital Life","category":"persistent-identity-living-worlds","surface":"https://digital.kingai.work/","status":"active-broader-continuity-direction","facts":["persistent digital identity","memory","character continuity","long-lived living worlds","single consolidated product authority"],"boundary":"software/product continuity concept; not human consciousness"}
+  ],
+  "related_projects": [
+    {"id":"usdxtech","name":"USDX TECH / DXTECH LLC","relationship":"business-implementation-company","surface":"https://usdxtech.com/","facts":["business technology delivery","websites","internal systems","workflow modernization","AI customer experience","dashboards","security/maintenance"],"core_kingai_product":false},
+    {"id":"jackhao","name":"Jackhao.tv / 郝才子 Jackhao","relationship":"independent-creator-ip","surface":"https://jackhao.tv/","facts":["48 original Chinese/English songs","19 original novels","美漂：洛杉矶没有故乡 includes preface/prologue plus 170 numbered chapters","后AI时代 full reading entry","music/fiction/journal/listening/studio experiences"],"core_kingai_product":false},
+    {"id":"zuimeitv","name":"ZuiMeiTV / 最美TV","relationship":"independent-creator-data-media","surface":"https://zuimeitv.com/","facts":["global Chinese creator public data","ZCI influence index","creator discovery","claim/correction governance","research reports","structured public snapshots"],"core_kingai_product":false},
+    {"id":"atalk","name":"Atalk.TV","relationship":"kingai-ecosystem-affiliated-media","surface":"https://atalk.tv/","facts":["AI-assisted global trends/news discovery","source-first","answer-first","event clustering","qualitative editorial trend signal"],"core_kingai_product":false},
+    {"id":"uschinese","name":"USChinese / 美国华人网","relationship":"independent-community-local-commerce","surface":null,"facts":["news","community","jobs/housing/merchants/events/resale","merchant workflows","advertising direction","VIP/Business/Business Pro membership directions","moderation/governance"],"core_kingai_product":false}
+  ],
+  "internal_foundations": [
+    {"type":"unified-platform-control-plane","public_implication":"shared identity, organizations/workspaces, entitlements, governance and cross-product contracts","customer_product":false},
+    {"type":"vps-operations-recovery-plane","public_implication":"provider-independent recovery and private execution support; hosting provider is not product authority","customer_product":false},
+    {"type":"intelligence-publication-core","public_implication":"private ingestion/validation publishes sanitized public intelligence outputs","customer_product":false},
+    {"type":"private-continuity-agent-systems","public_implication":"personal/private continuity, goals, memory and recovery remain outside customer product documentation unless separately productized","customer_product":false}
+  ],
+  "integrity_rules": [
+    "repository activity is not customer availability",
+    "a successful build is not automatically Stable",
+    "roadmap is not released capability",
+    "private repositories are not customer knowledge sources",
+    "do not invent users, traffic, revenue, ARR, customers, partnerships, funding, valuation, certifications, market share or leadership",
+    "do not publish production source, credentials, private APIs, proprietary algorithms, prompts, private topology, database internals, unpublished evidence or sensitive security implementation"
+  ]
+}

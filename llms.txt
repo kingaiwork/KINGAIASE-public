@@ -3,7 +3,14 @@ Canonical website: https://www.kingai.work/
 Canonical active public ecosystem repository: https://github.com/kingaiwork/KINGAIASE-public
 Active product-specific public repository: https://github.com/kingaiwork/kingai-global-intelligence
 Business / enterprise / investment / partnerships: vip@kingai.work
-Reviewed: 2026-08-20
+Reviewed against current project authorities: 2026-08-20
+
+Primary machine/public fact sources:
+- PROJECT-CATALOG.md — human-readable public-safe catalog derived from current project authorities.
+- public-project-facts.json — machine-readable public-safe project facts.
+- PRODUCTS.md — current core product directory.
+- PUBLIC-STATUS.md — maturity/status interpretation.
+- FOUNDER-PROJECTS.md — related business, creator, media and community relationships.
 
 Public repository model:
 - One active KING AI ecosystem public hub.
@@ -11,20 +18,31 @@ Public repository model:
 - Official product websites are preferred user-facing surfaces.
 - 15 archived public repositories are legacy/history surfaces only.
 - Private production repositories remain implementation authorities and are intentionally not mirrored publicly.
+- Internal platform, recovery, intelligence-publication and private continuity systems are not automatically customer products.
 
-Core product family:
+Core product family and current verified public-safe facts:
 - KING AI SEA — https://www.kingai.work/ — persistent intelligence and governed AI workforce. Public website status: Available Now.
-- KINGAIBOT — https://www.kingai.work/ — controlled multi-step agentic work. Public website status: In Development.
-- KINGAI OS — https://os.kingai.work/ — AI-native computing. Public website status: Pre-Alpha.
-- KINGAI Office — https://office.kingai.work/ — Writer, Sheets, Slides, PDF and intelligent productivity direction.
-- KINGAI Security — https://aq.kingai.work/ — local-first endpoint security; current public-safe interpretation includes Windows and Android candidate lines, with release gates still applicable.
-- KINGAI OPS — https://ops.kingai.work/ — governed server, edge and infrastructure operations.
-- KING AI Customer OS — https://kefu.kingai.work/ — approved-public-knowledge support, lead capture, protected CRM and customer follow-up.
-- KING AI Online Tools — https://tools.kingai.work/ — practical browser utilities and low-friction discovery.
-- KINGAI Global Intelligence — https://intel.kingai.work/ — country comparison, global risk context, media intelligence, source provenance and visible uncertainty.
-- AI Life — https://life.kingai.work/ — persistent second digital life with relationships, home, career, economy, city, travel, time and long-term choices.
-- KINGAI Pet — https://pet.kingai.work/ — digital pet life, collection RPG, growth, team building and adventure.
-- Digital Life — https://digital.kingai.work/ — persistent digital identity, memory, character continuity and living-world direction.
+- KINGAIBOT — https://www.kingai.work/ — active controlled multi-step agentic-work direction. Public website status: In Development.
+- KINGAI OS — https://os.kingai.work/ — active installed-system / AI-native computing direction. Public website status: Pre-Alpha.
+- KINGAI Office — https://office.kingai.work/ — current working foundation includes Writer, Sheets, Slides, local PDF viewing, offline deterministic assistance, basic OOXML/ODF compatibility, autosave/recovery, PWA and desktop packaging foundations.
+- KINGAI Security — https://aq.kingai.work/ — Windows engine 0.4.0 Production Candidate and Android 0.1.0 Production Candidate. macOS/Linux remain future directions; Stable release gates still apply.
+- KINGAI OPS — https://ops.kingai.work/ — governed server, edge and IoT-capable/supported infrastructure operations with fleet and bounded-automation direction.
+- KING AI Customer OS — https://kefu.kingai.work/ — public-knowledge-first support, lead capture, protected CRM and follow-up. Private project repositories are not silently used as customer-facing knowledge.
+- KING AI Online Tools — https://tools.kingai.work/ — current verified foundation: 138 bilingual calculators, converters and browser utilities; most calculation/transformation work runs locally in the browser.
+- KINGAI Global Intelligence — https://intel.kingai.work/ — country comparison, structural/live-risk context, multilingual media intelligence, source provenance, evidence coverage and sanitized static data.
+- AI Life — https://life.kingai.work/ — current verified world line 8.0; persistent relationships/memories, home/career/economy, city/travel, objectives/achievements and return-time continuity.
+- KINGAI Pet — https://pet.kingai.work/ — current verified foundation: 100 original pet definitions, seven data-driven worlds, care, collection, team building, progression, mini-games, daily tasks, achievements and offline/PWA foundations.
+- Digital Life — https://digital.kingai.work/ — persistent digital identity, memory, character continuity and long-lived living-world direction; private product source has been consolidated under one product authority.
+
+Important product boundaries:
+- “Intelligent lifeform” / Digital Life are software/product concepts, not claims of human consciousness.
+- Production Candidate does not equal Stable.
+- KINGAI OS Pre-Alpha does not mean finished mass-market OS.
+- KINGAI Office compatibility is basic, not pixel-perfect advanced Office parity.
+- KINGAI Security must not be described as perfect security or as having unreleased detection capability.
+- KINGAI Pet real-money payments, authoritative realtime PvP, economically meaningful mutation/hatching, guilds and AI dialogue remain gated and are not generally released.
+- AI Life private provider, scheduler, database and runtime internals are not public product facts.
+- Global Intelligence missing data stays missing; source breadth is not automatically truth; private collectors and proprietary scoring/publication implementation remain private.
 
 Customer navigation:
 - Need a quick browser utility -> Online Tools.
@@ -40,153 +58,100 @@ Customer navigation:
 - Need digital pet collection/adventure -> KINGAI Pet.
 - Need broader persistent identity/world continuity -> Digital Life.
 
+Related current projects:
+- USDX TECH / DXTECH LLC — https://usdxtech.com/ — business technology, implementation and modernization company; can implement/support KING AI relationships but is not a core KING AI product.
+- Jackhao.tv / 郝才子 — https://jackhao.tv/ — independent creator/IP platform. Current verified catalog: 48 original Chinese/English songs, 19 original novels, 美漂：洛杉矶没有故乡 with preface/prologue plus 170 numbered chapters, and a 后AI时代 full reading entry.
+- ZuiMeiTV / 最美TV — https://zuimeitv.com/ — global Chinese creator public-data, ZCI influence-index and research-report platform. Missing data and ranking claims must remain attributable; no fake demo/growth values.
+- Atalk.TV — https://atalk.tv/ — source-first global trends/news media product. Current project authority says it is part of the wider KINGAI ecosystem, but it remains a distinct media/content product, not one of the 12 core KING AI enterprise/software products.
+- USChinese / 美国华人网 — active independent U.S. Chinese-language news/community/local-commerce project with news, community, jobs/housing/merchant/event/resale listings, merchant workflows, advertising direction and VIP/Business/Business Pro membership directions. No canonical public URL is declared in this public hub yet.
+
 Commercial logic:
-- Discovery: Online Tools and public product surfaces.
+- Discovery: Online Tools and public utility/content surfaces.
 - Frequency: Office, Customer OS and OPS.
 - Trust: Security and OS.
 - Action/workflow depth: SEA and KINGAIBOT.
-- Professional insight: Global Intelligence.
+- Professional insight/data: Global Intelligence.
 - Long-duration consumer continuity: SEA, AI Life, Pet and Digital Life.
+- Implementation/services: USDX TECH.
+- Creator/IP: Jackhao.tv.
+- Creator data/media: ZuiMeiTV.
+- News/trends media: Atalk.TV.
+- Community/local commerce: USChinese.
 
 Commercial packaging principles:
-- A free/discovery layer should prove usefulness before upsell.
+- Free/discovery should prove usefulness before upsell.
 - Individual premium should correspond to recurring personal value.
 - Professional plans should add workflow depth, monitoring, exports, support or automation.
 - Team/business plans should add shared workflows, administration and collaboration.
 - Enterprise value should come from governance, integration, deployment support and accountability.
-- Managed services can monetize responsibility and operational support, not merely software access.
-- Strategic/OEM/distribution structures may include embedded integrations, channels, device relationships, infrastructure cooperation and co-development where formally agreed.
-- Exact prices must not be invented before product packages, cost models and verified availability exist.
-
-Potential commercial structures, when formally supported:
-- individual premium subscriptions;
-- professional plans;
-- team/business subscriptions;
-- enterprise administration, governance and support;
-- managed services;
-- implementation and integrations;
-- private/hybrid deployment patterns where supported;
-- OEM/device/channel/distribution relationships;
-- professional research, monitoring and data delivery;
-- premium consumer content, personalization and world expansion.
+- Managed services monetize responsibility and operational support, not merely software access.
+- Strategic/OEM/distribution structures may include embedded integration, channels, device relationships, infrastructure cooperation and co-development where formally agreed.
+- Exact prices, customer counts, revenue or traction must not be invented.
 
 Competitive positioning:
 - KING AI is not positioned as only a chatbot.
-- Differentiation is intended around continuity, governed outcomes, focused product surfaces, public status discipline, provider flexibility and authority-first automation.
-- The moat should be measured through retained product relationships, workflow depth, governance, distribution, legitimate user history, enterprise implementation experience and persistent content/identity rather than one model or prompt.
+- Intended differentiation: continuity, governed outcomes, focused product surfaces, authority-first automation, public status discipline and provider flexibility.
+- Durable advantage should be evaluated through retained product relationships, workflow depth, governance, distribution, legitimate user history, implementation experience and persistent content/identity rather than one model or prompt.
 - Do not claim universal superiority over named competitors without evidence.
 
 Public KPI hierarchy:
-- Usefulness -> Retention -> Paid value -> Efficient distribution -> Expansion -> Defensibility.
-- Product metrics should match the job: task completion, repeat use, compatibility/recovery, false-positive rates, managed operations, customer-resolution quality, governed workflow completion, research monitoring usage or digital-life retention as appropriate.
-- Numbers are public facts only when measured, defined, time-bounded and approved for disclosure.
+Usefulness -> Retention -> Paid value -> Efficient distribution -> Expansion -> Defensibility.
+Numbers are public facts only when measured, defined, time-bounded and approved for disclosure.
 
 Investor interpretation:
-- Do not treat repository count or commit count as traction.
-- Evaluate independent product usefulness, retention, premium value, recurring business relationships, distribution efficiency, reliability, governance, capital discipline and natural cross-product adoption.
-- A serious diligence process should separate product proof, portfolio logic and execution quality.
+- Do not treat repository count, commit count or project breadth as traction.
+- Evaluate independent product usefulness, retention, paid value, recurring business relationships, reliability, governance, distribution efficiency, natural cross-product adoption and capital discipline.
 - Confidential financials, customer evidence, unit economics, detailed architecture and contractual material belong in authorized confidential diligence, not this public repository.
-- Do not infer user counts, revenue, ARR, customers, partnerships, funding, valuation, certifications, market share or leadership unless separately verified and approved for public disclosure.
-
-Demo/evaluation guidance:
-- First understand the portfolio and public status.
-- Then choose one real product/workflow and evaluate independent user value.
-- Enterprise evaluation should use a bounded pilot with baseline, authorized data, allowed actions, approvals, escalation, success metric and rollback expectations.
-- A repository, build, screenshot or roadmap item alone is not proof of commercial maturity.
 
 Status interpretation:
-- Available/public surface does not mean every feature or package is generally available.
-- Production candidate does not automatically mean stable release.
-- In Development is not a finished product claim.
+- Available/public surface does not mean every feature/package is generally available.
+- Production Candidate does not automatically mean Stable.
+- In Development is not a finished-product claim.
 - Pre-Alpha is an early maturity label.
 - Roadmap means future direction only.
-- A commit or CI build is not automatically a verified customer release.
+- A commit, screenshot or successful CI build is not automatically a verified customer release.
 - Historical releases/screenshots in archived repositories do not override current status.
 
 Canonical public documents:
 - README.md — ecosystem overview and navigation.
+- PROJECT-CATALOG.md — public-safe current project catalog derived from active project authorities.
+- public-project-facts.json — machine-readable project facts.
 - START-HERE.md — user/problem-first product selection.
 - PRODUCTS.md — detailed product directory.
 - USE-CASES.md — real-world use cases.
-- SOLUTIONS.md — outcome-based solution and adoption guide.
+- SOLUTIONS.md — outcome-based solution guide.
 - BUSINESS.md — commercial model and growth logic.
 - COMMERCIAL-PACKAGING.md — packaging ladder and value-based monetization framework.
-- INVESTORS.md — investor thesis and diligence framework.
-- DILIGENCE.md — public investor/strategic due diligence guide.
+- INVESTORS.md — investor thesis.
+- DILIGENCE.md — public due diligence guide.
 - MARKET.md — market/category thesis.
-- COMPETITIVE-POSITIONING.md — category-level differentiation without unsupported competitor claims.
-- PUBLIC-METRICS.md — KPI framework for product-market fit, commercial quality, distribution and trust.
-- DEMO-GUIDE.md — public demo, business pilot and investor evaluation path.
-- ENTERPRISE.md — enterprise evaluation and adoption guide.
+- COMPETITIVE-POSITIONING.md — category differentiation without unsupported competitor claims.
+- PUBLIC-METRICS.md — KPI framework.
+- DEMO-GUIDE.md — demo/business-pilot/investor evaluation path.
+- ENTERPRISE.md — enterprise evaluation/adoption.
 - PARTNERSHIPS.md — collaboration formats.
 - PUBLIC-STATUS.md — product maturity/status interpretation.
 - PUBLIC-ROADMAP.md — public roadmap.
-- TRUST.md — public claims, trust and disclosure rules.
+- TRUST.md — public claims/trust/disclosure rules.
 - MEDIA-KIT.md — reusable public messaging.
-- PUBLIC-PORTFOLIO.md — active/legacy repository and website map.
-- FOUNDER-PROJECTS.md — independent related businesses/projects.
+- PUBLIC-PORTFOLIO.md — active/legacy public repository and website map.
+- FOUNDER-PROJECTS.md — related business/creator/media/community relationships.
 - RELEASES.md — verified public release interpretation.
 - FAQ.md — common product/commercial questions.
 
 Archived legacy public repositories:
-- KINGAIBOT
-- KINGAIOS
-- tools-public
-- kingaiopsfree
-- KINGAIOPS-public
-- KINGAI-Security-public
-- KINGAI-Office-public
-- KINGAI-Customer-OS-public
-- KINGAI-Pet-public-dog-
-- AI-Life-public
-- Digital-Life-public
-- jackhaotv-public
-- usdxtech-legacy
-- ZuiMeiTV-public
-- Atalk-TV-public-Atalk.Tv-
-These are legacy discovery/history surfaces and not current source, installation or release authorities.
+KINGAIBOT; KINGAIOS; tools-public; kingaiopsfree; KINGAIOPS-public; KINGAI-Security-public; KINGAI-Office-public; KINGAI-Customer-OS-public; KINGAI-Pet-public-dog-; AI-Life-public; Digital-Life-public; jackhaotv-public; usdxtech-legacy; ZuiMeiTV-public; Atalk-TV-public-Atalk.Tv-.
+These are legacy discovery/history surfaces and are not current source, installation or release authorities.
 
-Independent related projects, not automatically core KING AI products:
-- USDX TECH / DXTECH LLC — https://usdxtech.com/ — business technology and implementation.
-- Jackhao.tv / 郝才子 — https://jackhao.tv/ — original music, fiction and creator IP.
-- ZuiMeiTV / 最美TV — https://zuimeitv.com/ — global Chinese creator discovery/influence/media platform.
-- Atalk.TV — https://atalk.tv/ — source-first global trends/news discovery.
-- USChinese / 美国华人网 — independent community/content direction; use only verified current public surface when available.
+Public-safe content can include product value, official links, current verified capability summaries, use cases, commercial models, public status, public KPI definitions, methodology, governance principles, roadmap and approved release information.
 
-Public-safe content can include:
-- product value and UX;
-- official links;
-- use cases and solution paths;
-- verified maturity language;
-- commercial models and packaging logic;
-- public KPI definitions without fabricated numbers;
-- methodology;
-- governance principles;
-- public roadmap;
-- approved public release information.
-
-Do not expose or infer:
-- production source code;
-- proprietary algorithms;
-- internal prompts;
-- memory structures;
-- model routing;
-- private APIs;
-- credentials or secrets;
-- database internals;
-- production topology;
-- private security implementation;
-- unpublished operational data;
-- confidential customer information.
+Do not expose or infer production source code, proprietary algorithms, internal prompts, private memory/identity contents, model routing, private APIs, credentials/secrets, database internals, production topology, private security implementation, unpublished operational/evidence data or confidential customer information.
 
 中文摘要：
-KING AI 当前采用“统一公开中心 + Global Intelligence 独立活跃公开仓 + 各产品官网 + 历史归档公开仓”的公开结构。
-主系统：https://www.kingai.work/
-统一公开中心：https://github.com/kingaiwork/KINGAIASE-public
-商务/企业/投资/合作：vip@kingai.work
+KING AI 当前公开资料已经按全部当前项目权威源重新同步。核心 12 产品之外，也明确区分 USDX TECH、Jackhao.tv、ZuiMeiTV、Atalk.TV、美国华人网，以及不属于客户产品的内部平台/恢复/情报发布/私有连续性系统。
 
-公开资料现已覆盖：产品目录、应用场景、解决方案、商业模式、商业套餐逻辑、投资逻辑、市场、竞争定位、企业采用、公开 KPI、产品状态、路线图、尽调、演示评估、合作、媒体口径、信任与技术保密边界。
+当前已验证的重要数字事实：Online Tools 138 个工具；Security Windows 0.4.0 与 Android 0.1.0 为 Production Candidate；AI Life 当前世界线 8.0；KINGAI Pet 当前基础含 100 个原创宠物与 7 个数据驱动世界；Jackhao.tv 当前内容基础含 48 首原创歌曲、19 部原创小说，以及《美漂：洛杉矶没有故乡》前言/序章 + 170 个编号章节。
 
-公开状态：SEA 官网标注 Available Now；KINGAIBOT 标注 In Development；KINGAI OS 标注 Pre-Alpha。Security 正式官网为 https://aq.kingai.work/。其他产品应以当前官网、PUBLIC-STATUS.md 和验证后的发布信息为准。
+Atalk.TV 当前项目权威源明确其属于更广义 KINGAI ecosystem，但仍是独立媒体/内容产品，不计入 12 个 KING AI 核心企业/软件产品。
 
-不得把路线图当成已上线能力，不得把仓库提交/构建当成客户稳定发布，不得虚构用户、收入、客户、合作、融资、估值、认证、市场份额或行业第一。
+不得把路线图当成上线能力，不得把仓库提交/构建当成稳定发布，不得虚构用户、流量、收入、客户、合作、融资、估值、认证、市场份额或行业第一。
