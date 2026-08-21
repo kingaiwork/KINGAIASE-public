@@ -2,21 +2,23 @@
 
 **Canonical platform:** https://www.kingai.work/  
 **Business / strategic contact:** vip@kingai.work  
-**Reviewed:** 2026-08-20
+**Reviewed against current project authorities:** 2026-08-20
 
-This document maps every current public repository, legacy public repository, official product website and independent related project so users, investors, partners, search engines and AI systems have one consistent source of truth.
+This document maps the current public repository structure, official product websites, archived public repositories and related active projects. It is intentionally public-safe: private repository names, implementation details, credentials and sensitive topology are not required to understand the portfolio.
 
 ## Executive summary
 
-KING AI currently uses a deliberately consolidated public structure:
+KING AI uses a deliberately consolidated public structure:
 
 - **1 active ecosystem public hub** — `kingaiwork/KINGAIASE-public`
 - **1 active product-specific public repository** — `kingaiwork/kingai-global-intelligence`
-- **official product websites** — the preferred user-facing product surfaces
-- **15 archived public repositories** — retained for history/search continuity, not current release authority
-- **private production repositories** — implementation authority, intentionally not mirrored into the public layer
+- **official product websites** — preferred user-facing surfaces
+- **15 archived public repositories** — history/search continuity only
+- **private production/project authorities** — current implementation truth, intentionally not mirrored publicly
 
-This reduces duplicate SEO/GEO authority, stale product claims and accidental technical disclosure.
+The public hub now contains a current-project-derived projection in:
+- [PROJECT-CATALOG.md](PROJECT-CATALOG.md)
+- [public-project-facts.json](public-project-facts.json)
 
 ## Active public repositories
 
@@ -24,197 +26,175 @@ This reduces duplicate SEO/GEO authority, stale product claims and accidental te
 **Repository:** https://github.com/kingaiwork/KINGAIASE-public  
 **Official platform:** https://www.kingai.work/
 
-**Role:**
-
+Role:
+- current public-safe project catalog;
 - unified KING AI product directory;
 - user onboarding and use cases;
-- public commercial narrative;
-- investor and enterprise materials;
+- public commercial/investor/enterprise narrative;
 - partnership information;
 - public product status and roadmap interpretation;
-- customer-safe knowledge;
 - trust/disclosure rules;
 - verified release interpretation;
-- machine-readable public facts.
-
-This is the canonical public repository for the KING AI ecosystem.
+- customer-safe and machine-readable facts.
 
 ### kingai-global-intelligence
 **Repository:** https://github.com/kingaiwork/kingai-global-intelligence  
 **Official product:** https://intel.kingai.work/
 
-**Role:**
-
+Role:
 - public Global Intelligence frontend;
-- public country/territory intelligence views;
-- comparison and media-intelligence surfaces;
-- transparent methodology;
-- public source registry;
-- sanitized public data snapshots;
-- independent static public deployment surface.
+- country/territory intelligence and comparison;
+- multilingual media-intelligence surfaces;
+- transparent methodology and source roles;
+- sanitized static public data;
+- professional/research/data public documentation.
 
-Private collection, proprietary scoring implementation, unpublished evidence, credentials and internal automation remain outside the public repository.
+Private collectors, proprietary implementation, unpublished evidence, credentials and internal automation remain outside the public repository.
 
 ## Core KING AI product family
 
-| Product | Official surface | Public status/interpretation | Primary customer value | Commercial role |
-|---|---|---|---|---|
-| KING AI SEA | https://www.kingai.work/ | Available Now on public website | Persistent intelligence and governed AI workforce | Central platform, individual/business/enterprise entry |
-| KINGAIBOT | https://www.kingai.work/ | In Development | Controlled multi-step agent work | Workflow depth, integrations, enterprise support |
-| KINGAI OS | https://os.kingai.work/ | Pre-Alpha | AI-native computing | Platform, managed environments, OEM/device opportunity |
-| KINGAI Office | https://office.kingai.work/ | Active working product direction | Documents, sheets, slides, PDF, local/offline intelligence | High-frequency productivity and team/business expansion |
-| KINGAI Security | https://aq.kingai.work/ | Windows/Android candidate lines; release gates apply | Endpoint protection, understandable findings, quarantine/recovery | Premium protection, business security, managed service |
-| KINGAI OPS | https://ops.kingai.work/ | Active governed-operations direction | Server/edge/infrastructure operations | Professional, fleet, managed ops, enterprise governance |
-| KING AI Customer OS | https://kefu.kingai.work/ | Active public-knowledge-first direction | Support, leads, CRM follow-up | Recurring business SaaS/service relationship |
-| KING AI Online Tools | https://tools.kingai.work/ | Public utility surface | Immediate browser utility | Organic discovery and acquisition |
-| KINGAI Global Intelligence | https://intel.kingai.work/ | Active public product | Country/media intelligence and source transparency | Professional research, monitoring, data/partnership paths |
-| AI Life | https://life.kingai.work/ | Active persistent-world direction | Persistent second digital life | Consumer subscription/content/world expansion |
-| KINGAI Pet | https://pet.kingai.work/ | Active consumer product direction | Digital pets, collection, growth, adventure | Consumer engagement, premium content/customization |
-| Digital Life | https://digital.kingai.work/ | Active broader continuity direction | Persistent identity, memory and living worlds | Long-term digital-life category expansion |
+| Product | Official surface | Current public interpretation | Verified current public-safe fact |
+|---|---|---|---|
+| KING AI SEA | https://www.kingai.work/ | Available Now on public website | Persistent intelligence + governed AI workforce direction |
+| KINGAIBOT | https://www.kingai.work/ | In Development | Active governed-agent product/runtime direction |
+| KINGAI OS | https://os.kingai.work/ | Pre-Alpha | Active installed-system work; not finished mass-market OS |
+| KINGAI Office | https://office.kingai.work/ | Active working foundation | Writer/Sheets/Slides/PDF, basic OOXML/ODF, PWA + desktop packaging foundations |
+| KINGAI Security | https://aq.kingai.work/ | Production Candidate lines | Windows 0.4.0 + Android 0.1.0 candidates |
+| KINGAI OPS | https://ops.kingai.work/ | Active product direction | Governed server/edge/IoT-capable operations, fleet + bounded automation direction |
+| KING AI Customer OS | https://kefu.kingai.work/ | Active product direction | Public-knowledge-first support, leads, CRM and follow-up |
+| KING AI Online Tools | https://tools.kingai.work/ | Public utility surface | 138 bilingual calculators/converters/browser utilities |
+| KINGAI Global Intelligence | https://intel.kingai.work/ | Active public product | Country/media intelligence, provenance, evidence coverage, sanitized public data |
+| AI Life | https://life.kingai.work/ | Active persistent-world direction | Current verified world line 8.0 |
+| KINGAI Pet | https://pet.kingai.work/ | Active consumer foundation | 100 original pets + seven data-driven worlds |
+| Digital Life | https://digital.kingai.work/ | Active broader continuity direction | Persistent identity/memory/character/living-world direction |
 
-See [PRODUCTS.md](PRODUCTS.md) and [PUBLIC-STATUS.md](PUBLIC-STATUS.md) for details.
+See [PRODUCTS.md](PRODUCTS.md), [PROJECT-CATALOG.md](PROJECT-CATALOG.md) and [PUBLIC-STATUS.md](PUBLIC-STATUS.md).
 
 ## Archived legacy public repositories
 
-GitHub marks the following public repositories archived/read-only. They remain useful for old links, history and search continuity, but cannot be treated as current source, installation or release authorities.
+The following public repositories are archived/read-only historical surfaces. They remain useful for old links and search continuity but are not current source, installation or release authorities.
 
 | Archived repository | Current destination | Current role |
 |---|---|---|
-| `KINGAIBOT` | https://www.kingai.work/ | Historical discovery for controlled agentic work |
-| `KINGAIOS` | https://os.kingai.work/ | Historical KINGAI OS public surface |
-| `tools-public` | https://tools.kingai.work/ | Historical Online Tools public surface |
-| `kingaiopsfree` | https://ops.kingai.work/ | Historical OPS/free discovery surface |
+| `KINGAIBOT` | https://www.kingai.work/ | Historical controlled-agent discovery |
+| `KINGAIOS` | https://os.kingai.work/ | Historical OS public surface |
+| `tools-public` | https://tools.kingai.work/ | Historical Tools public surface |
+| `kingaiopsfree` | https://ops.kingai.work/ | Historical OPS/free discovery |
 | `KINGAIOPS-public` | https://ops.kingai.work/ | Historical OPS public surface |
 | `KINGAI-Security-public` | https://aq.kingai.work/ | Historical Security public surface |
 | `KINGAI-Office-public` | https://office.kingai.work/ | Historical Office public surface |
 | `KINGAI-Customer-OS-public` | https://kefu.kingai.work/ | Historical Customer OS public surface |
-| `KINGAI-Pet-public-dog-` | https://pet.kingai.work/ | Historical KINGAI Pet public surface |
+| `KINGAI-Pet-public-dog-` | https://pet.kingai.work/ | Historical Pet public surface |
 | `AI-Life-public` | https://life.kingai.work/ | Historical AI Life public surface |
 | `Digital-Life-public` | https://digital.kingai.work/ | Historical Digital Life public surface |
-| `jackhaotv-public` | https://jackhao.tv/ | Historical public companion for Jackhao.tv |
+| `jackhaotv-public` | https://jackhao.tv/ | Historical Jackhao.tv companion |
 | `usdxtech-legacy` | https://usdxtech.com/ | Historical USDX TECH public surface |
-| `ZuiMeiTV-public` | https://zuimeitv.com/ | Historical ZuiMeiTV public companion |
-| `Atalk-TV-public-Atalk.Tv-` | https://atalk.tv/ | Historical Atalk.TV public companion |
+| `ZuiMeiTV-public` | https://zuimeitv.com/ | Historical ZuiMeiTV companion |
+| `Atalk-TV-public-Atalk.Tv-` | https://atalk.tv/ | Historical Atalk.TV companion |
 
-### Why archived repositories are not being reactivated
+They remain archived because reactivating separate marketing repositories would recreate duplicate narratives, fragmented SEO/GEO authority, conflicting releases and accidental technical-disclosure risk.
 
-Reactivating each historical repository would recreate the problems the consolidated model is designed to solve:
+## Related current projects
 
-- multiple versions of the same product story;
-- fragmented search authority;
-- conflicting release claims;
-- duplicated maintenance;
-- stale customer knowledge;
-- higher chance of accidental implementation disclosure.
-
-The historical repositories should point users toward current official surfaces rather than become parallel marketing sites.
-
-## Independent related business and founder projects
-
-These projects may share a founder, commercial relationship, infrastructure experience or first-party promotion, but are **not automatically KING AI core products**.
+These projects are important to the broader portfolio but are not all part of the 12-product KING AI core family.
 
 ### USDX TECH / DXTECH LLC
 **Official:** https://usdxtech.com/
 
-Independent business technology and implementation company focused on websites, AI customer service, automation, internal systems, dashboards and security/maintenance.
-
-Relationship to KING AI: potential delivery, implementation and commercial relationship; not a core KING AI product.
+Business technology, modernization and implementation company. It can implement/support KING AI customer relationships but is not itself a core KING AI product.
 
 ### Jackhao.tv / 郝才子 Jackhao
 **Official:** https://jackhao.tv/
 
-Independent creator/IP brand covering original music, fiction, creative journals and related media/partnership opportunities.
+Independent creator/IP platform. Current verified foundation includes 48 original songs, 19 original novels, and *美漂：洛杉矶没有故乡* with preface/prologue plus 170 numbered chapters.
 
 ### ZuiMeiTV / 最美TV
 **Official:** https://zuimeitv.com/
 
-Independent global Chinese creator discovery, influence/ranking, editorial and brand-collaboration platform.
+Independent global Chinese creator public-data, ZCI influence-index and research-report platform. Public rankings/data must remain attributable and missing data must not be converted into fake demo values.
 
 ### Atalk.TV
 **Official:** https://atalk.tv/
 
-Independent source-first global trends and AI-assisted news-discovery product. It may disclose first-party KING AI promotion without becoming a core KING AI enterprise product.
+Current project authority classifies Atalk.TV as **part of the wider KINGAI ecosystem**. It remains a distinct source-first global trends/news media product, not one of the 12 core KING AI enterprise/software products.
+
+This distinction allows legitimate first-party ecosystem promotion without misclassifying Atalk.TV as the same product as SEA, Office, OPS or other core software.
 
 ### USChinese / 美国华人网
-Independent community/content direction. Until an active canonical public surface and verified commercial model are declared, descriptions should remain conservative.
+Active independent U.S. Chinese-language news/community/local-commerce project. Current verified foundation includes community, structured local listings, merchant workflows, advertising direction and VIP/Business/Business Pro membership directions.
+
+A canonical public URL is not yet declared in this public hub, so no URL is invented here.
 
 See [FOUNDER-PROJECTS.md](FOUNDER-PROJECTS.md).
 
+## Internal foundations are not additional public products
+
+The current system also contains private platform/governance, recovery/operations, intelligence-publication and personal/private continuity systems.
+
+Public implication:
+- shared identity and governance can span products;
+- private compute/recovery is provider-independent support rather than product authority;
+- Global Intelligence can publish sanitized evidence without exposing private collectors;
+- private agent/continuity systems are not automatically customer products.
+
+Their repository locations, memory, credentials, topology and implementation remain outside public product documentation.
+
 ## Portfolio economics
 
-The portfolio is not organized around the number of products. Different products are intended to create different reasons to return:
+Different project categories create different economic roles:
 
-**Discovery** — Online Tools and public product surfaces.  
+**Discovery** — Online Tools and public utility/content surfaces.  
 **Frequency** — Office, Customer OS, OPS.  
 **Trust** — Security, OS.  
 **Action** — SEA, KINGAIBOT.  
-**Insight** — Global Intelligence.  
-**Continuity** — SEA, AI Life, Pet, Digital Life.
+**Insight/data** — Global Intelligence.  
+**Continuity** — SEA, AI Life, Pet, Digital Life.  
+**Implementation/services** — USDX TECH.  
+**Creator/IP** — Jackhao.tv.  
+**Creator data/media** — ZuiMeiTV.  
+**News/trends media** — Atalk.TV.  
+**Community/local commerce** — USChinese.
 
-A healthy long-term journey is:
+A healthy long-term customer path remains:
 
 **Discover → Use → Trust → Return → Build history → Adopt a relevant adjacent product → Deepen the relationship.**
 
 ## Investor interpretation
 
-Investors should not count repository count as product traction. Useful evaluation questions are:
-
-- Which products are independently useful?
-- Which products have repeat-use potential?
-- Where is paid value clearest?
-- Which products can create recurring business relationships?
-- Which products reduce acquisition cost or increase expansion efficiency?
-- Are security, governance and release claims credible?
-- Does portfolio breadth create leverage or distraction?
-- Are roadmap and current capability clearly separated?
-
-See [INVESTORS.md](INVESTORS.md) and [MARKET.md](MARKET.md).
-
-## User interpretation
-
-Ordinary users do not need to adopt the whole portfolio. Start with one problem and one product.
-
-See [START-HERE.md](START-HERE.md).
+Repository count or project count is not traction. Investors should evaluate:
+- independent product usefulness;
+- repeat use and retention;
+- paid value;
+- recurring business relationships;
+- reliability and governance;
+- distribution efficiency;
+- natural cross-product expansion;
+- whether portfolio breadth creates leverage or distraction;
+- whether roadmap and released capability remain clearly separated.
 
 ## Public/private boundary
 
-Public repositories may explain:
+Public repositories may explain product value, official links, verified current capability summaries, use cases, commercial models, public status, roadmap, methodology, governance principles, KPI definitions and approved releases.
 
-- product value;
-- public UX;
-- official links;
-- use cases;
-- commercial models;
-- public status;
-- roadmap;
-- methodology;
-- trust/governance principles;
-- verified releases.
-
-They intentionally do not disclose:
-
-- production source;
-- proprietary algorithms;
-- internal prompts;
-- memory structures;
-- model routing;
-- private APIs;
-- credentials;
-- database internals;
-- production topology;
-- confidential customer information;
-- private security implementation;
-- unpublished operational data.
+They intentionally do not disclose production source, proprietary algorithms, prompts, private memory, model routing, private APIs, credentials, database internals, private topology, unpublished evidence, confidential customer data or sensitive security implementation.
 
 ## Canonical documentation
 
 - [README.md](README.md)
+- [PROJECT-CATALOG.md](PROJECT-CATALOG.md)
+- [public-project-facts.json](public-project-facts.json)
 - [START-HERE.md](START-HERE.md)
 - [PRODUCTS.md](PRODUCTS.md)
 - [USE-CASES.md](USE-CASES.md)
+- [SOLUTIONS.md](SOLUTIONS.md)
 - [BUSINESS.md](BUSINESS.md)
+- [COMMERCIAL-PACKAGING.md](COMMERCIAL-PACKAGING.md)
 - [INVESTORS.md](INVESTORS.md)
+- [DILIGENCE.md](DILIGENCE.md)
 - [MARKET.md](MARKET.md)
+- [COMPETITIVE-POSITIONING.md](COMPETITIVE-POSITIONING.md)
+- [PUBLIC-METRICS.md](PUBLIC-METRICS.md)
+- [DEMO-GUIDE.md](DEMO-GUIDE.md)
 - [ENTERPRISE.md](ENTERPRISE.md)
 - [PARTNERSHIPS.md](PARTNERSHIPS.md)
 - [PUBLIC-STATUS.md](PUBLIC-STATUS.md)
