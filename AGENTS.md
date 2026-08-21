@@ -1,19 +1,26 @@
-# KINGAI Repository Agent Contract
+# KING AI Public Repository Agent Contract
 
-This is an active KINGAI repository. Before any deployment, GPT, Codex, OpenClaw or other automation MUST read the canonical platform policy in `kingaiwork/KINGAIASE`:
+This repository is a public, customer-safe knowledge and discovery surface.
 
-1. `AGENTS.md`
-2. `config/repository-registry.json`
-3. `config/repository-operating-model.json`
-4. `config/infrastructure-policy.json`
-5. `config/free-resource-vps-plan.json`
-6. `config/runtime-resource-state.json`
-7. `docs/INFRASTRUCTURE-FREE-FIRST.md`
+Automation working in this repository MUST use only information that is already approved for public release in this repository or on official public KING AI websites.
 
-Repository-local code remains authoritative for this product/surface; cross-product infrastructure policy remains authoritative in `KINGAIASE`.
+## Public-only rules
 
-Mandatory deployment rules: free/unlimited static first; hard-capped free second; guarded metered-free resources only below policy thresholds; 60% warning/optimization, 70% eligible background migration to registered VPS, 80% VPS-first for eligible dynamic work, 90% edge-preservation mode. Paid overage/upgrade/model fallback is forbidden without explicit owner authorization.
+- Do not reference, enumerate, link to, or infer private repositories.
+- Do not publish internal file paths, infrastructure topology, host details, ports, deployment credentials, secret names, private APIs, database internals, signing material, proprietary prompts, model-routing internals, unpublished operational evidence, or confidential customer information.
+- Do not treat internal implementation details as customer-facing facts.
+- Do not copy material from private sources into this repository unless it has been explicitly transformed into a public-safe fact and independently reviewed for disclosure risk.
+- Public facts must stay conservative: released capability, official public status, approved roadmap language, public product links, customer-safe FAQs, commercial information, and verifiable public evidence.
+- Legacy public repositories are history/discovery surfaces only and must not become current deployment or release authority.
 
-VPS application traffic must enter only through Cloudflare Tunnel. Direct public VPS application/database/cache/OpenClaw/admin ports are forbidden. The only permitted direct public ingress profile is SSH TCP/58888. Legacy/frozen repositories must never be used as deployment authority.
+## Automation behavior
 
-A commit is not deployment evidence: build/test, deploy, smoke the real endpoint/runtime, and record evidence.
+Before publishing changes, automation MUST:
+
+1. run the repository's public-boundary checks;
+2. fail closed on any credential, private-authority reference, infrastructure detail, or other restricted disclosure;
+3. keep generated customer/AI knowledge derived from public-safe sources only;
+4. avoid publishing a value merely because it exists in an internal source;
+5. keep claims about maturity, availability, customers, revenue, security, certifications, partnerships, funding, market position, and release status evidence-based.
+
+A commit is not evidence that a public claim is true. Public-facing changes should be validated against the current official public surface or approved public evidence before release.
