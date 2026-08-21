@@ -1,13 +1,21 @@
 # KING AI
 
 **One public home for a connected intelligent product family.**  
-Work · Computing · Security · Operations · Customer Experience · Digital Life
+Work · Computing · Security · Operations · Customer Experience · Global Intelligence · Digital Life
 
 **Main system:** https://www.kingai.work/  
 **Business & strategic partnerships:** vip@kingai.work  
 **Public product hub:** this repository
 
 > This is the single active public commercial, product-discovery, customer-safe knowledge and verified-release hub for the KING AI ecosystem. Production source, internal architecture, private APIs, databases, infrastructure topology, security implementation, credentials, model configuration and proprietary algorithms remain private.
+
+## Start here
+
+- **I want to find the right product quickly** → [START-HERE.md](START-HERE.md)
+- **I am evaluating KING AI as an investor or strategic partner** → [INVESTORS.md](INVESTORS.md)
+- **I want the full product and legacy-public-repository map** → [PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md)
+- **I want to understand the public trust and disclosure standard** → [TRUST.md](TRUST.md)
+- **I want the commercial model and growth logic** → [BUSINESS.md](BUSINESS.md)
 
 ## English
 
@@ -22,6 +30,7 @@ KING AI is not designed around forcing every user into one giant application. Th
 - **I need better support, lead capture and customer follow-up** → KING AI Customer OS
 - **I want an AI-native computing environment** → KINGAI OS
 - **I want AI to help move longer work from intent to outcome** → KINGAIBOT
+- **I need evidence-linked country and global media intelligence** → KINGAI Global Intelligence
 - **I want a persistent virtual second life** → AI Life
 - **I want to raise, collect and adventure with digital pets** → KINGAI Pet
 - **I am interested in persistent digital identity, memory and continuity** → Digital Life
@@ -93,6 +102,16 @@ Fast browser tools for high-intent everyday tasks. The strategic role is larger 
 
 **Natural path:** Search → useful tool → repeat visit → brand trust → Office / Security / Customer OS / other products.
 
+### KINGAI Global Intelligence — Evidence-linked global context
+**Official:** https://intel.kingai.work/  
+**Public repository:** https://github.com/kingaiwork/kingai-global-intelligence
+
+A transparent country and media-intelligence product for comparing global conditions, reviewing fast-moving risk, inspecting source provenance and understanding uncertainty without pretending that incomplete evidence is certainty.
+
+**Best for:** researchers, analysts, media, international businesses, strategy teams and people who need a more structured way to understand country-level context.
+
+**Commercial direction:** professional monitoring, organization workflows, data delivery, research and strategic partnerships where formally supported.
+
 ### AI Life — A persistent second life
 **Official:** https://life.kingai.work/
 
@@ -120,6 +139,7 @@ KING AI is designed around different forms of value that can reinforce one anoth
 **Frequency** — Office, Customer OS and OPS can become recurring work surfaces.  
 **Trust** — Security and OS enter more important parts of digital life.  
 **Action** — KINGAIBOT helps move intelligence toward controlled completion.  
+**Insight** — Global Intelligence helps people and organizations make sense of comparative public evidence.  
 **Continuity** — SEA, AI Life, Pet and Digital Life make history and long-term relationships more meaningful.
 
 A healthy long-term path is:
@@ -130,13 +150,13 @@ Cross-promotion only works when the next product genuinely helps the user. We do
 
 ## For individuals
 
-Start with one problem. Use a free utility, explore a productivity workflow, learn about security, try a digital-life experience or understand the AI-native computing direction. You should not need to adopt the whole ecosystem before receiving value.
+Start with one problem. Use a free utility, explore a productivity workflow, learn about security, compare global context, try a digital-life experience or understand the AI-native computing direction. You should not need to adopt the whole ecosystem before receiving value.
 
 ## For teams and businesses
 
-KING AI becomes relevant where work is fragmented across too many tools, customer questions repeat, infrastructure management depends too heavily on manual effort, productivity needs better intelligent assistance or teams want automation without giving up governance.
+KING AI becomes relevant where work is fragmented across too many tools, customer questions repeat, infrastructure management depends too heavily on manual effort, productivity needs better intelligent assistance, global research is difficult to compare or teams want automation without giving up governance.
 
-Potential commercial relationships can include subscriptions, business editions, enterprise support, managed services, implementation, private/hybrid options where supported, distribution and strategic integrations.
+Potential commercial relationships can include subscriptions, business editions, enterprise support, managed services, implementation, private/hybrid options where supported, data/research collaboration, distribution and strategic integrations.
 
 ## For partners
 
@@ -147,6 +167,7 @@ We are interested in relationships where both sides create clearer value for use
 - enterprise and implementation partnerships;
 - infrastructure and managed-service relationships;
 - device and OEM opportunities;
+- research, data and media collaboration;
 - creator, entertainment and digital-life collaboration;
 - strategic co-development where product fit is real.
 
@@ -154,9 +175,11 @@ Start at **vip@kingai.work**.
 
 ## For strategic observers and investors
 
-The portfolio thesis is not that one AI application will replace all software. It is that focused, useful products can create stronger economics when discovery, frequency, identity, trust and intelligent assistance reinforce one another.
+The portfolio thesis is not that one AI application will replace all software. It is that focused, useful products can create stronger economics when discovery, frequency, identity, trust, insight and intelligent assistance reinforce one another.
 
-What matters over time is not the number of product names. The important signals are whether products become genuinely useful, users return, cross-product journeys feel natural, trust remains strong and commercial relationships deepen without depending on exaggerated claims.
+What matters over time is not the number of product names. The important signals are whether products become genuinely useful, users return, premium value is clear, cross-product journeys feel natural, trust remains strong and commercial relationships deepen without depending on exaggerated claims.
+
+A serious investor should evaluate product retention, conversion logic, recurring business value, distribution efficiency, cross-product fit, trust, reliability and capital discipline rather than presentation alone. See **[INVESTORS.md](INVESTORS.md)** for the detailed public investor thesis.
 
 KING AI does not publish invented user counts, revenue, ARR, enterprise customers, financing, valuation, certifications, market share or signed partnerships.
 
@@ -165,6 +188,7 @@ KING AI does not publish invented user counts, revenue, ARR, enterprise customer
 KING AI now uses a **single unified public hub** instead of maintaining a separate active public repository for every product.
 
 - **This repository** is the current public commercial, navigation, customer-safe knowledge and release-reference hub.
+- **KINGAI Global Intelligence** keeps its own active public repository because its public static product surface and sanitized data are themselves part of the product.
 - **Official product websites** are the preferred product experience entry points.
 - **Older product-specific public repositories** are legacy discovery/history surfaces only and should redirect here or to the relevant official product site.
 - **Private production repositories** remain the source and implementation authorities and are intentionally not mirrored here.
@@ -173,10 +197,14 @@ This consolidation reduces conflicting product descriptions, duplicated SEO auth
 
 ## Explore this public hub
 
+- **[START-HERE.md](START-HERE.md)** — find the right product or adoption path quickly
 - **[PRODUCTS.md](PRODUCTS.md)** — detailed product directory and recommended next steps
 - **[USE-CASES.md](USE-CASES.md)** — choose products by real-world need
 - **[BUSINESS.md](BUSINESS.md)** — commercial model, growth logic and strategic opportunity
+- **[INVESTORS.md](INVESTORS.md)** — investor thesis, monetization logic, defensibility and diligence framework
 - **[PARTNERSHIPS.md](PARTNERSHIPS.md)** — ways to work with KING AI
+- **[TRUST.md](TRUST.md)** — public trust, claims, safety and disclosure standard
+- **[PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md)** — active and legacy public repository/product map
 - **[FAQ.md](FAQ.md)** — product, commercial and public-repository questions
 - **[RELEASES.md](RELEASES.md)** — verified public release policy
 - **[REPOSITORY-CONSOLIDATION.md](REPOSITORY-CONSOLIDATION.md)** — why the public surface is unified
@@ -200,11 +228,18 @@ The following are independent founder personal projects and are **not KING AI ec
 
 # 中文
 
-## 一个统一的 KING AI 公开入口
+## 一个统一、可信、可商业化的 KING AI 公开入口
 
-KING AI 现在采用更清楚的公开仓布局：**一个统一公开中心 + 各产品官方网站 + 旧公开仓迁移入口。**
+KING AI 现在采用更清楚的公开仓布局：**一个统一公开中心 + 一个独立公开情报产品仓 + 各产品官方网站 + 旧公开仓迁移入口。**
 
-本仓就是 KING AI 当前唯一的公开商业、产品发现、客户安全知识和已验证发布信息中心。生产源码、内部架构、私有 API、数据库、基础设施拓扑、安全实现、凭据、模型配置和专有算法全部继续保留在私有生产体系中。
+本仓是 KING AI 当前统一的公开商业、产品发现、客户安全知识和已验证发布信息中心。生产源码、内部架构、私有 API、数据库、基础设施拓扑、安全实现、凭据、模型配置和专有算法全部继续保留在私有生产体系中。
+
+### 第一次来到这里，先选你的目标
+
+- 想快速找到适合自己的产品 → **[START-HERE.md](START-HERE.md)**
+- 想从投资人角度了解商业价值 → **[INVESTORS.md](INVESTORS.md)**
+- 想看完整产品与公开仓关系 → **[PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md)**
+- 想了解我们公开什么、保护什么 → **[TRUST.md](TRUST.md)**
 
 ### 先从你今天真正想完成的事情开始
 
@@ -215,6 +250,7 @@ KING AI 现在采用更清楚的公开仓布局：**一个统一公开中心 + �
 - 要做客服、线索、销售跟进和客户关系 → **KING AI Customer OS**
 - 想体验 AI 原生计算环境 → **KINGAI OS**
 - 想让 AI 帮助推进更长的多步骤工作 → **KINGAIBOT**
+- 想查看国家对比、全球风险与媒体情报 → **KINGAI Global Intelligence**
 - 想进入会持续发展的第二人生 → **AI Life**
 - 想养宠物、收集、成长、组队和冒险 → **KINGAI Pet**
 - 关注长期数字身份、记忆和角色连续性 → **Digital Life**
@@ -231,36 +267,49 @@ KING AI 现在采用更清楚的公开仓布局：**一个统一公开中心 + �
 **KINGAI OPS** 面向服务器、基础设施和未来智能运维。  
 **KING AI Customer OS** 连接客服、销售和客户关系。  
 **KING AI Online Tools** 负责即时价值和自然用户发现。  
+**KINGAI Global Intelligence** 负责国家比较、全球风险、媒体情报和透明证据。  
 **AI Life** 负责长期第二人生体验。  
 **KINGAI Pet** 负责宠物陪伴、收集、成长和冒险。  
 **Digital Life** 承担更广的数字身份、记忆和连续性方向。
 
+## 为什么投资人应该看“关系”，而不是只看产品数量
+
+KING AI 的商业逻辑不是“做很多产品”本身，而是让不同产品承担不同的经济角色：
+
+**Tools 负责发现 → Office / Customer OS / OPS 负责高频使用 → Security / OS 建立更深信任 → BOT / SEA 增加工作流深度 → Global Intelligence 建立专业情报与数据价值 → AI Life / Pet / Digital Life 建立长期数字关系。**
+
+真正需要验证的是：每个产品是否独立有价值、用户是否愿意回来、付费价值是否清楚、跨产品迁移是否自然、商业客户是否形成持续关系，以及整个体系能否在不夸大能力的情况下持续扩张。
+
 ## 为什么现在的仓位更合理
 
-过去每个产品分别维护公开仓，容易造成介绍重复、SEO 权威分散、版本信息不一致和长期维护成本上升。现在统一到一个公共中心以后：
+过去每个产品分别维护公开仓，容易造成介绍重复、SEO 权威分散、版本信息不一致和长期维护成本上升。现在统一到公共中心以后：
 
 **品牌更集中 → 产品关系更清楚 → 搜索/GEO 更容易理解 → 客服知识更统一 → 发布信息更可信 → 私密技术边界更安全。**
 
-旧产品公开仓仍可保留搜索和历史价值，但只作为迁移入口，不再作为新的产品介绍、源码、安装或发布权威。
+KINGAI Global Intelligence 因为公开静态前端、公开数据快照和方法论本身就是产品的一部分，所以继续保留独立活跃公开仓；其他旧产品公开仓只保留搜索和历史价值，不再作为新的源码、安装或发布权威。
 
 ## 用户增长路径
 
 **发现 → 使用 → 信任 → 再次回来 → 累积历史 → 进入真正相关的下一款产品 → 建立更深关系。**
 
-Tools 可以成为搜索入口；Office、Customer OS、OPS 可以进入高频工作；Security 和 OS 提升信任；BOT 承接受控行动；AI Life、Pet、Digital Life 扩展到长期数字关系。
+Tools 可以成为搜索入口；Office、Customer OS、OPS 可以进入高频工作；Security 和 OS 提升信任；BOT 承接受控行动；Global Intelligence 承担专业研究和数据价值；AI Life、Pet、Digital Life 扩展到长期数字关系。
 
 ## 商业与合作
 
-面向个人、团队和企业，可以根据正式产品成熟度探索个人高级体验、团队/企业版本、企业支持、托管服务、实施、私有/混合方案、渠道分发和战略集成。
+面向个人、团队和企业，可以根据正式产品成熟度探索个人高级体验、团队/企业版本、企业支持、托管服务、实施、私有/混合方案、专业情报、数据合作、渠道分发和战略集成。
 
 合作从 **vip@kingai.work** 开始。
 
 ## 继续阅读
 
+- [START-HERE.md](START-HERE.md)：快速找到产品和使用路径
 - [PRODUCTS.md](PRODUCTS.md)：完整产品目录
 - [USE-CASES.md](USE-CASES.md)：按需求选择产品
 - [BUSINESS.md](BUSINESS.md)：商业与增长逻辑
+- [INVESTORS.md](INVESTORS.md)：投资逻辑、商业模式、护城河方向与尽调框架
 - [PARTNERSHIPS.md](PARTNERSHIPS.md)：合作方式
+- [TRUST.md](TRUST.md)：公开信任、能力声明与保密边界
+- [PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md)：所有当前/历史公开仓和官网映射
 - [FAQ.md](FAQ.md)：常见问题
 - [RELEASES.md](RELEASES.md)：公开发布规则
 - [REPOSITORY-CONSOLIDATION.md](REPOSITORY-CONSOLIDATION.md)：统一公开仓说明
