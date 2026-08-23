@@ -2,16 +2,14 @@
 
 Architecture baseline: `2026-08-23 / current-v2`
 
-This repository participates in the current KINGAI system defined by `kingaiwork/KINGAIASE`.
+This repository is a **public KING AI delivery surface**. It does not define private platform, infrastructure, identity, data or provider authority.
 
-- GitHub is source/policy/automation authority.
-- Cloudflare is the public edge for DNS, TLS, CDN/cache, WAF/security, static delivery, Workers and Tunnel ingress.
-- Cloudflare D1 is the platform single-writer authority for central identity and bounded critical transactions.
-- Registered VPS capacity carries PostgreSQL 17 + pgvector, private APIs, agents, heavy jobs and encrypted backups.
-- VPS application/database/admin ports are never directly public; application ingress is Cloudflare Tunnel only.
-- Zero-cost mode forbids automatic paid plans, overage, paid AI or resource purchase.
-- Database failover is fenced single-writer only.
+Public delivery rules:
 
-This public repository must not contain private provider-access metadata, Secret locations or credential values. Authorized operators use the private control-plane `AGENTS.md` for takeover procedures.
+- serve customer-safe public information and verified public release metadata only;
+- use Cloudflare-backed public delivery according to the registered release configuration;
+- never publish private repository paths, internal topology, private API/database design, provider-access metadata, Secret locations, credential values, unpublished operational evidence or customer/private data;
+- never become a source-of-truth for infrastructure, account/identity authority, private product implementation or recovery state;
+- a commit is not production evidence; public endpoint/release verification is required.
 
-A commit is not deployment evidence; require real endpoint/runtime readback.
+Authorized private operators use the private KING AI control plane for takeover, provider access and infrastructure procedures. Those details are intentionally not replicated here.
