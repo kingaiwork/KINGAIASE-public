@@ -1,0 +1,15 @@
+{
+  "schema":"leo.project.v1",
+  "project_id":"kingai-public-ecosystem-hub",
+  "managed_by":"LEO",
+  "portfolio_scope":"kingai-public-sanitized",
+  "module_role":"public-ecosystem-hub-and-sanitized-knowledge-projection",
+  "source_authority":"kingaiwork/KINGAIASE-public",
+  "control_plane":"private-authority-redacted",
+  "private_source_import_allowed":false,
+  "secrets_allowed":false,
+  "customer_private_data_allowed":false,
+  "authority_transfer_allowed":false,
+  "consumes":["sanitized-public-contracts","public-product-links","public-status-and-knowledge"],
+  "must_not_own":["private-control-plane-source","LEO-private-continuity","customer-identity-writer","infrastructure-authority","database-writer-authority"]
+}
