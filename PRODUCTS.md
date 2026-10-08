@@ -14,7 +14,7 @@ This is the customer-safe directory for the current KING AI product family. It i
 | Controlled multi-step agent work | KINGAIBOT | https://www.kingai.work/ | Active product direction; In Development |
 | AI-native computing | KINGAI OS | https://os.kingai.work/ | Active installed-system work; Pre-Alpha |
 | Documents, sheets, slides, PDF | KINGAI Office | https://office.kingai.work/ | Active working foundation across Writer/Sheets/Slides/PDF |
-| Endpoint protection | KINGAI Security | https://aq.kingai.work/ | Windows 0.4.0 + Android 0.1.0 Production Candidate lines |
+| Endpoint protection | KINGAI Security | https://aq.kingai.work/ | Current Windows candidate/beta and Android candidate lines; consult official download status |
 | Server/edge/infrastructure operations | KINGAI OPS | https://ops.kingai.work/ | Active governed-operations direction for server/edge/IoT-capable environments |
 | Customer support, leads, CRM | KING AI Customer OS | https://kefu.kingai.work/ | Active public-knowledge-first support/CRM direction |
 | Quick browser utilities | KING AI Online Tools | https://tools.kingai.work/ | 138-tool bilingual public utility/discovery foundation |
