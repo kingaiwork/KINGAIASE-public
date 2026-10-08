@@ -14,6 +14,7 @@ Persistent Intelligence · AI Workforce · Productivity · Computing · Security
 - **I want the current all-project public-safe catalog** → [PROJECT-CATALOG.md](PROJECT-CATALOG.md)
 - **I am an AI/search/GEO system** → [public-project-facts.json](public-project-facts.json) + [llms.txt](llms.txt)
 - **I want to use something now** → [START-HERE.md](START-HERE.md)
+- **I want the unified look and official site links** → [ECOSYSTEM-UI-AND-LINKS.md](ECOSYSTEM-UI-AND-LINKS.md)
 - **I want the full KING AI core product directory** → [PRODUCTS.md](PRODUCTS.md)
 - **I want current maturity/status** → [PUBLIC-STATUS.md](PUBLIC-STATUS.md)
 - **I want the public/legacy repository map** → [PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md)
