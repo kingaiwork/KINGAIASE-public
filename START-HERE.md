@@ -10,7 +10,7 @@ This guide is written for users, teams and evaluators. It describes public produ
 
 - **Need a practical browser tool now?** → KING AI Online Tools — https://tools.kingai.work/
 - **Need documents, spreadsheets, presentations or PDF work?** → KINGAI Office — https://office.kingai.work/
-- **Need clearer device and file protection?** → KINGAI Security — https://security.kingai.work/
+- **Need clearer device and file protection?** → KINGAI Security — https://aq.kingai.work/
 - **Operate servers or infrastructure?** → KINGAI OPS — https://ops.kingai.work/
 - **Need customer support, lead capture and follow-up?** → KING AI Customer OS — https://kefu.kingai.work/
 - **Interested in AI-native computing?** → KINGAI OS — https://os.kingai.work/
