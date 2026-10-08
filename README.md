@@ -46,7 +46,7 @@ KING AI is building a connected family of intelligent products rather than one g
 | **KINGAIBOT** | Active controlled agentic-work project; public status **In Development** |
 | **KINGAI OS** | Active installed-system/AI-native computing work; public status **Pre-Alpha** |
 | **KINGAI Office** | Writer + Sheets + Slides + local PDF + basic OOXML/ODF + PWA/desktop foundations |
-| **KINGAI Security** | **Windows 0.4.0** and **Android 0.1.0** are current Production Candidate lines |
+| **KINGAI Security** | Windows candidate/beta and Android candidate lines are listed on the official Security site; confirm current version and signing status there |
 | **KINGAI OPS** | Governed server/edge/IoT-capable operations with fleet and bounded-automation direction |
 | **KING AI Customer OS** | Public-knowledge-first support, leads, protected CRM and follow-up |
 | **KING AI Online Tools** | **138** bilingual calculators, converters and browser utilities in the current foundation |
