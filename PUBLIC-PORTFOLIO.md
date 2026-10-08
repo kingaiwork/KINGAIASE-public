@@ -2,7 +2,7 @@
 
 **Canonical platform:** https://www.kingai.work/  
 **Business / strategic contact:** vip@kingai.work  
-**Reviewed against current project authorities:** 2026-08-20
+**Reviewed against GitHub-visible public repositories:** 2026-10-07
 
 This document maps the current public repository structure, official product websites, archived public repositories and related active projects. It is intentionally public-safe: private repository names, implementation details, credentials and sensitive topology are not required to understand the portfolio.
 
@@ -10,8 +10,8 @@ This document maps the current public repository structure, official product web
 
 KING AI uses a deliberately consolidated public structure:
 
-- **1 active ecosystem public hub** — `kingaiwork/KINGAIASE-public`
-- **1 active product-specific public repository** — `kingaiwork/kingai-global-intelligence`
+- **1 ecosystem public hub** — `kingaiwork/KINGAIASE-public`
+- **3 additional public delivery repositories** — Global Intelligence, Disaster Watch and OS Releases
 - **official product websites** — preferred user-facing surfaces
 - **15 archived public repositories** — history/search continuity only
 - **private production/project authorities** — current implementation truth, intentionally not mirrored publicly
@@ -37,6 +37,14 @@ Role:
 - verified release interpretation;
 - customer-safe and machine-readable facts.
 
+### KINGAI-OS-Releases
+**Repository:** https://github.com/kingaiwork/KINGAI-OS-Releases  
+**Purpose:** Public Developer Preview OS binaries and SHA-256 sidecars. Its existence does not make private source public.
+
+### kingai-disaster-watch
+**Repository:** https://github.com/kingaiwork/kingai-disaster-watch  
+**Purpose:** Public hazard-monitoring site; public signals and methodology must be separated from private modeling or operational evidence.
+
 ### kingai-global-intelligence
 **Repository:** https://github.com/kingaiwork/kingai-global-intelligence  
 **Official product:** https://intel.kingai.work/
@@ -59,7 +67,7 @@ Private collectors, proprietary implementation, unpublished evidence, credential
 | KINGAIBOT | https://www.kingai.work/ | In Development | Active governed-agent product/runtime direction |
 | KINGAI OS | https://os.kingai.work/ | Pre-Alpha | Active installed-system work; not finished mass-market OS |
 | KINGAI Office | https://office.kingai.work/ | Active working foundation | Writer/Sheets/Slides/PDF, basic OOXML/ODF, PWA + desktop packaging foundations |
-| KINGAI Security | https://aq.kingai.work/ | Production Candidate lines | Windows 0.4.0 + Android 0.1.0 candidates |
+| KINGAI Security | https://aq.kingai.work/ | Production Candidate lines | Windows candidate/beta builds + Android candidate; consult official release status |
 | KINGAI OPS | https://ops.kingai.work/ | Active product direction | Governed server/edge/IoT-capable operations, fleet + bounded automation direction |
 | KING AI Customer OS | https://kefu.kingai.work/ | Active product direction | Public-knowledge-first support, leads, CRM and follow-up |
 | KING AI Online Tools | https://tools.kingai.work/ | Public utility surface | 138 bilingual calculators/converters/browser utilities |
