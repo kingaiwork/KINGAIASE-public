@@ -38,11 +38,11 @@ Role:
 - customer-safe and machine-readable facts.
 
 ### KINGAI-OS-Releases
-**Repository:** https://github.com/kingaiwork/KINGAI-OS-Releases  
+**Repository:** https://os.kingai.work/download/  
 **Purpose:** Public Developer Preview OS binaries and SHA-256 sidecars. Its existence does not make private source public.
 
 ### kingai-disaster-watch
-**Repository:** https://github.com/kingaiwork/kingai-disaster-watch  
+**Repository:** https://hazard.kingai.work/  
 **Purpose:** Public hazard-monitoring site; public signals and methodology must be separated from private modeling or operational evidence.
 
 ### kingai-global-intelligence
