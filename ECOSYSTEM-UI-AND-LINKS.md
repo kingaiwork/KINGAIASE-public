@@ -17,7 +17,7 @@ Public, customer-safe companion to the official KING AI design authority. This p
 | Customer OS | https://kefu.kingai.work/ | Customer information and CRM |
 | Digital Life | https://digital.kingai.work/ | Persistent digital continuity |
 | Global Intelligence | https://intel.kingai.work/ | Public global-country and media intelligence |
-| KINGAI OS releases | https://github.com/kingaiwork/KINGAI-OS-Releases/releases | Public preview downloads / SHA256 sidecars |
+| KINGAI OS releases | https://os.kingai.work/download/ | Public preview downloads / SHA256 sidecars |
 
 Navigation across product marketing surfaces should link to **official websites**, not private implementation repositories. Product-specific user journeys and authorizations remain independent.
 
