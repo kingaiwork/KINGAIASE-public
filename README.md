@@ -90,7 +90,7 @@ Public status: **In Development**
 Designed for the step after an answer: helping multi-step digital work progress toward an outcome while keeping authority, approvals and accountability explicit.
 
 ### KINGAI OS — AI-native computing
-**https://os.kingai.work/**  
+**https://kingai.work/os/**  
 Public status: **Pre-Alpha**
 
 Active installed-system work explores AI-native computing across server, desktop, edge and local-first environments. Pre-Alpha means it must not be described as a finished mass-market operating system.
