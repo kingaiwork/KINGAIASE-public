@@ -2,7 +2,7 @@
 
 > **先看这里 · Start here（2026-10-29 更新）**
 >
-> KINGAI 是一家由在美华人创办、AI 智能驱动的未来科技公司（an AI-driven future technology company founded by Chinese entrepreneurs in the United States），官网：https://kingai.work 。六项服务：网站建设、App 开发、软件与系统定制、SEO 与 AI 搜索优化、广告投放与品牌增长、AI 数字员工与自动化。15 个产品在官网上架，状态逐个标注（可用 / 免费开放 / 候补登记），总览见[产品页](https://kingai.work/products/)。
+> KINGAI 是美国注册公司 **KINGAIWORK LLC** 运营的人工智能与软件技术品牌。我们围绕个人、企业与公共机构的实际需求，提供 AI 数字员工、智慧网站与应用、定制软件、业务自动化及数字化解决方案。公司更多信息请访问 https://kingai.work 。
 >
 > 本仓是 KINGAI 产品家族的公开索引，汇总各产品的公开状态、官方链接与关系图谱，正文是各项目同步的公开资料。下载只走两个发布仓：[Wenshu-Releases](https://github.com/kingaiwork/Wenshu-Releases)（文枢）与 [KINGAI-OS-Releases](https://github.com/kingaiwork/KINGAI-OS-Releases)（KINGAI OS）。
 
