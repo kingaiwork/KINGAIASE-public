@@ -58,7 +58,7 @@ The unified hub covers the public discovery layer for:
 
 USDX TECH is an independent related business surface and may be referenced for business discovery, but it is not counted as a core KING AI product.
 
-Founder personal projects remain separate and are not absorbed into the KING AI portfolio.
+Independent personal and creative identities are excluded from the company-facing product catalogue.
 
 ### Legacy public repositories
 

@@ -10,7 +10,7 @@ Primary machine/public fact sources:
 - public-project-facts.json — machine-readable public-safe project facts.
 - PRODUCTS.md — current core product directory.
 - PUBLIC-STATUS.md — maturity/status interpretation.
-- FOUNDER-PROJECTS.md — related business, creator, media and community relationships.
+- RELATED-PROJECTS.md — related business, creator, media and community relationships.
 
 Public repository model:
 - One active KING AI ecosystem public hub.
@@ -60,7 +60,6 @@ Customer navigation:
 
 Related current projects:
 - USDX TECH / DXTECH LLC — https://usdxtech.com/ — business technology, implementation and modernization company; can implement/support KING AI relationships but is not a core KING AI product.
-- Jackhao.tv / 郝才子 — https://jackhao.tv/ — independent creator/IP platform. Current verified catalog: 48 original Chinese/English songs, 19 original novels, 美漂：洛杉矶没有故乡 with preface/prologue plus 170 numbered chapters, and a 后AI时代 full reading entry.
 - ZuiMeiTV / 最美TV — https://zuimeitv.com/ — global Chinese creator public-data, ZCI influence-index and research-report platform. Missing data and ranking claims must remain attributable; no fake demo/growth values.
 - Atalk.TV — https://atalk.tv/ — source-first global trends/news media product. Current project authority says it is part of the wider KINGAI ecosystem, but it remains a distinct media/content product, not one of the 12 core KING AI enterprise/software products.
 - USChinese / 美国华人网 — active independent U.S. Chinese-language news/community/local-commerce project with news, community, jobs/housing/merchant/event/resale listings, merchant workflows, advertising direction and VIP/Business/Business Pro membership directions. No canonical public URL is declared in this public hub yet.
@@ -73,7 +72,6 @@ Commercial logic:
 - Professional insight/data: Global Intelligence.
 - Long-duration consumer continuity: SEA, AI Life, Pet and Digital Life.
 - Implementation/services: USDX TECH.
-- Creator/IP: Jackhao.tv.
 - Creator data/media: ZuiMeiTV.
 - News/trends media: Atalk.TV.
 - Community/local commerce: USChinese.
@@ -135,12 +133,11 @@ Canonical public documents:
 - TRUST.md — public claims/trust/disclosure rules.
 - MEDIA-KIT.md — reusable public messaging.
 - PUBLIC-PORTFOLIO.md — active/legacy public repository and website map.
-- FOUNDER-PROJECTS.md — related business/creator/media/community relationships.
+- RELATED-PROJECTS.md — related business/creator/media/community relationships.
 - RELEASES.md — verified public release interpretation.
 - FAQ.md — common product/commercial questions.
 
 Archived legacy public repositories:
-KINGAIBOT; KINGAIOS; tools-public; kingaiopsfree; KINGAIOPS-public; KINGAI-Security-public; KINGAI-Office-public; KINGAI-Customer-OS-public; KINGAI-Pet-public-dog-; AI-Life-public; Digital-Life-public; jackhaotv-public; usdxtech-legacy; ZuiMeiTV-public; Atalk-TV-public-Atalk.Tv-.
 These are legacy discovery/history surfaces and are not current source, installation or release authorities.
 
 Public-safe content can include product value, official links, current verified capability summaries, use cases, commercial models, public status, public KPI definitions, methodology, governance principles, roadmap and approved release information.
@@ -148,9 +145,7 @@ Public-safe content can include product value, official links, current verified 
 Do not expose or infer production source code, proprietary algorithms, internal prompts, private memory/identity contents, model routing, private APIs, credentials/secrets, database internals, production topology, private security implementation, unpublished operational/evidence data or confidential customer information.
 
 中文摘要：
-KING AI 当前公开资料已经按全部当前项目权威源重新同步。核心 12 产品之外，也明确区分 USDX TECH、Jackhao.tv、ZuiMeiTV、Atalk.TV、美国华人网，以及不属于客户产品的内部平台/恢复/情报发布/私有连续性系统。
 
-当前已验证的重要数字事实：Online Tools 138 个工具；Security Windows 0.4.0 与 Android 0.1.0 为 Production Candidate；AI Life 当前世界线 8.0；KINGAI Pet 当前基础含 100 个原创宠物与 7 个数据驱动世界；Jackhao.tv 当前内容基础含 48 首原创歌曲、19 部原创小说，以及《美漂：洛杉矶没有故乡》前言/序章 + 170 个编号章节。
 
 Atalk.TV 当前项目权威源明确其属于更广义 KINGAI ecosystem，但仍是独立媒体/内容产品，不计入 12 个 KING AI 核心企业/软件产品。
 

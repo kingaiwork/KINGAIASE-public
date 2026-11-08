@@ -35,7 +35,6 @@ jobs:
               'kingaiwork/KINGAIBOT',
               'kingaiwork/KINGAIOS',
               'kingaiwork/tools-public',
-              'kingaiwork/jackhaotv-public',
               'kingaiwork/usdxtech-legacy',
               'kingaiwork/kingaiopsfree',
               'kingaiwork/KINGAI-Security-public',
@@ -126,3 +125,7 @@ jobs:
           test ! -e .dev.vars
           test ! -e wrangler.jsonc
           test ! -e Dockerfile
+
+      - name: Enforce corporate identity privacy and no-public-pricing policy
+        shell: bash
+        run: python3 scripts/privacy_guard.py
