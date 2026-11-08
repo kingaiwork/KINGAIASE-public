@@ -19,7 +19,7 @@ REGISTRATION_DETAIL = re.compile(
     r"\b(?:registered|registration)\s+address\b|"
     r"\b\d{4}-\d{7,12}\b|"
     r"\b\d{1,6}\s+(?:N|S|E|W)\s+\w+\s+(?:St|Street|Ave|Avenue|Rd|Road)\b|"
-    r"\b[A-Z][a-z]+-registered\b|州实体(?:号|编号)|注册地址|注册日期|美国.{1,10}州注册)"
+    r"\b(?!US-registered\b|USA-registered\b)[A-Z][a-z]+-registered\b|州实体(?:号|编号)|注册地址|注册日期|美国.{1,10}州注册)"
 )
 FORMATION_CONTEXT = re.compile(
     r"(?i)\b(?:19|20)\d{2}[-/]\d{2}[-/]\d{2}\b|"

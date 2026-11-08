@@ -11,7 +11,7 @@
       "name": "KING AI SEA",
       "category": "persistent-intelligence-ai-workforce",
       "surface": "https://www.kingai.work/",
-      "status": "available-now-public-website",
+      "status": "availability-scope-needs-official-confirmation",
       "facts": [
         "persistent intelligence",
         "approved context and useful memory",
@@ -20,7 +20,7 @@
         "governed action",
         "controlled improvement"
       ],
-      "boundary": "software intelligence; not human consciousness or unrestricted authority"
+      "boundary": "exact supported functionality must be confirmed against official product or project scope; agentic autonomy is bounded"
     },
     {
       "id": "kingaibot",
@@ -39,22 +39,22 @@
       "id": "kingai-os",
       "name": "KINGAI OS",
       "category": "ai-native-computing",
-      "surface": "https://os.kingai.work/",
-      "status": "pre-alpha",
+      "surface": "https://kingai.work/os/",
+      "status": "developer-preview-desktop-server",
       "facts": [
         "installed-system work remains active",
         "server/desktop/edge direction",
         "local-first",
         "model-neutral design"
       ],
-      "boundary": "not a finished mass-market OS"
+      "boundary": "Desktop and Server developer previews; Edge and AI Workstation planned; no GA certification claim"
     },
     {
       "id": "office",
-      "name": "KINGAI Office",
+      "name": "KINGAI Office / Wenshu Office",
       "category": "productivity",
-      "surface": "https://office.kingai.work/",
-      "status": "active-working-foundation",
+      "surface": "https://github.com/kingaiwork/Wenshu-Releases",
+      "status": "public-beta-release",
       "facts": [
         "Writer",
         "Sheets",
@@ -66,7 +66,7 @@
         "PWA foundation",
         "desktop packaging foundations"
       ],
-      "boundary": "basic compatibility; no pixel-perfect advanced Office claim"
+      "boundary": "Wenshu public beta; check current version documentation and editing limitations; do not infer full Microsoft Office parity"
     },
     {
       "id": "security",
@@ -199,97 +199,89 @@
       "boundary": "software/product continuity concept; not human consciousness"
     }
   ],
-  "related_projects": [
-    {
-      "id": "usdxtech",
-      "name": "USDX TECH / DXTECH LLC",
-      "relationship": "business-implementation-company",
-      "surface": "https://usdxtech.com/",
-      "facts": [
-        "business technology delivery",
-        "websites",
-        "internal systems",
-        "workflow modernization",
-        "AI customer experience",
-        "dashboards",
-        "security/maintenance"
-      ],
-      "core_kingai_product": false
-    },
-    {
-      "id": "zuimeitv",
-      "name": "ZuiMeiTV / 最美TV",
-      "relationship": "independent-creator-data-media",
-      "surface": "https://zuimeitv.com/",
-      "facts": [
-        "global Chinese creator public data",
-        "ZCI influence index",
-        "creator discovery",
-        "claim/correction governance",
-        "research reports",
-        "structured public snapshots"
-      ],
-      "core_kingai_product": false
-    },
-    {
-      "id": "atalk",
-      "name": "Atalk.TV",
-      "relationship": "kingai-ecosystem-affiliated-media",
-      "surface": "https://atalk.tv/",
-      "facts": [
-        "AI-assisted global trends/news discovery",
-        "source-first",
-        "answer-first",
-        "event clustering",
-        "qualitative editorial trend signal"
-      ],
-      "core_kingai_product": false
-    },
-    {
-      "id": "uschinese",
-      "name": "USChinese / 美国华人网",
-      "relationship": "independent-community-local-commerce",
-      "surface": null,
-      "facts": [
-        "news",
-        "community",
-        "jobs/housing/merchants/events/resale",
-        "merchant workflows",
-        "advertising direction",
-        "VIP/Business/Business Pro membership directions",
-        "moderation/governance"
-      ],
-      "core_kingai_product": false
-    }
-  ],
-  "internal_foundations": [
-    {
-      "type": "unified-platform-control-plane",
-      "public_implication": "shared identity, organizations/workspaces, entitlements, governance and cross-product contracts",
-      "customer_product": false
-    },
-    {
-      "type": "vps-operations-recovery-plane",
-      "public_implication": "provider-independent recovery and private execution support; hosting provider is not product authority",
-      "customer_product": false
-    },
-    {
-      "type": "intelligence-publication-core",
-      "public_implication": "private ingestion/validation publishes sanitized public intelligence outputs",
-      "customer_product": false
-    },
-    {
-      "type": "private-continuity-agent-systems",
-      "public_implication": "personal/private continuity, goals, memory and recovery remain outside customer product documentation unless separately productized",
-      "customer_product": false
-    }
-  ],
+  "related_projects": [],
+  "internal_foundations": [],
   "integrity_rules": [
-    "repository activity is not customer availability",
-    "a successful build is not automatically Stable",
-    "roadmap is not released capability",
-    "private repositories are not customer knowledge sources",
-    "do not invent users, traffic, revenue, ARR, customers, partnerships, funding, valuation, certifications, market share or leadership",
-    "do not publish production source, credentials, private APIs, proprietary algorithms, prompts, private topology, database internals, unpublished evidence or sensitive security implementation"
+    "Public hub is for customer-facing business, products and solutions only",
+    "Product availability and release status must be verified against the official product site or release notes",
+    "Research and roadmap directions are not released capabilities",
+    "No claims of unsupported government deployments, customers, certifications or market leadership",
+    "Do not publish detailed company registration, private identity, personal contacts, contract prices or proprietary implementation",
+    "Use https://kingai.work for further company information and project inquiries"
+  ],
+  "presentation_scope": "business-products-solutions",
+  "presentation_updated_at": "2026-11-08",
+  "company": {
+    "legal_name": "KINGAIWORK LLC",
+    "registration": "United States",
+    "official_website": "https://kingai.work",
+    "business_contact": "vip@kingai.work"
+  },
+  "business_areas": [
+    {
+      "id": "ai-workforce",
+      "zh": "AI 数字员工与业务自动化",
+      "en": "AI workforce and governed automation"
+    },
+    {
+      "id": "intelligent-web-app",
+      "zh": "智慧网站与应用",
+      "en": "Intelligent websites and applications"
+    },
+    {
+      "id": "enterprise-software",
+      "zh": "企业软件与智能管理系统",
+      "en": "Custom software, SaaS and business systems"
+    },
+    {
+      "id": "ai-discoverability",
+      "zh": "AI 搜索可见度与数字增长",
+      "en": "AI search visibility and digital growth"
+    },
+    {
+      "id": "security-operations",
+      "zh": "安全与持续运营",
+      "en": "Security and operational continuity"
+    },
+    {
+      "id": "public-sector",
+      "zh": "机构与城市数字化方案",
+      "en": "Institutional and public-sector digital solutions"
+    }
+  ],
+  "solution_areas": [
+    {
+      "id": "individual",
+      "zh": "个人",
+      "en": "Individuals",
+      "examples": [
+        "productivity",
+        "personal digital experiences",
+        "websites and applications"
+      ]
+    },
+    {
+      "id": "business",
+      "zh": "企业",
+      "en": "Businesses",
+      "examples": [
+        "AI customer support",
+        "intelligent websites",
+        "workflow automation",
+        "custom systems",
+        "security operations"
+      ]
+    },
+    {
+      "id": "public-sector",
+      "zh": "公共机构及城市",
+      "en": "Public institutions and cities",
+      "examples": [
+        "digital service architecture",
+        "system integration design",
+        "data governance",
+        "phased joint delivery"
+      ]
+    }
   ]
 }

@@ -1,64 +1,26 @@
-# KING AI FAQ
+# KINGAI | Frequently Asked Questions · 常见问题
 
-**Main:** https://www.kingai.work/  
-**Business:** vip@kingai.work
+**Official website:** https://kingai.work · **Business contact:** vip@kingai.work
 
-## English
+## KINGAI 是什么？ / What is KINGAI?
+KINGAI 是美国注册公司 KINGAIWORK LLC 运营的人工智能与软件技术品牌，主要介绍业务、产品和客户解决方案。
 
-### Is KING AI one application?
-No. KING AI is a connected product family. Each product is expected to provide independent value while selected products can reinforce one another.
+KINGAI is the AI and software brand operated by KINGAIWORK LLC, a company registered in the United States.
 
-### Where is the official public repository?
-This repository, `KINGAIASE-public`, is the single active public commercial, product-discovery, customer-safe knowledge and verified-release hub for the KING AI main ecosystem.
+## KINGAI 提供哪些业务？ / What does KINGAI do?
+AI 数字员工与自动化、智慧网站和应用、企业软件与系统、AI 搜索可见度、安全及运营、机构与城市数字化规划和系统集成。参见 [业务](BUSINESS.md)。
 
-### Why do older product-specific public repositories still exist?
-They can preserve old links, search references, historical releases and migration continuity. They are legacy discovery/history surfaces and are not current source, installation or release authorities.
+AI workforce, intelligent websites and applications, custom business systems, AI discoverability, security operations and institutional digital solution design. See [Business](BUSINESS.md).
 
-### Where is the production source code?
-Production source and implementation details are private. This public hub intentionally does not publish private architecture, APIs, databases, deployment internals, credentials, security implementation, proprietary algorithms or model orchestration.
+## 哪些产品已经能够体验？ / Which products can I explore?
+请查看 [产品](PRODUCTS.md) 中的公开测试版、开发预览与产品方向。文枢、KINGAI OS、Global Intelligence 等各有独立公开说明；尚未发布的产品不能被当作现成可用。
 
-### Are roadmap features available now?
-Not necessarily. Words such as roadmap, product direction, future direction, long-term opportunity and designed to evolve toward mean the capability should not be assumed to be currently released.
+Check [Products](PRODUCTS.md) for public product links, previews and development status. Planned capabilities are not represented as released.
 
-### Which product should I start with?
-Use `USE-CASES.md` or start with a direct need: Tools for quick utilities, Office for productivity, Security for protection, OPS for infrastructure, Customer OS for support/sales, OS for AI-native computing, BOT for controlled longer workflows, AI Life/Pet/Digital Life for persistent digital experiences.
+## 怎样选择解决方案？ / How do I choose a solution?
+先说明问题与现状，再确认目标、数据与权限要求、交付范围及验收方式。参见 [解决方案](SOLUTIONS.md)。
 
-### Is USDX TECH part of the core KING AI product family?
-No. USDX TECH is an independent related business and technology delivery surface. It can be referenced for business discovery without being counted as a core KING AI product.
+Begin with your problem, existing environment, expected result, data boundaries and realistic delivery scope. See [Solutions](SOLUTIONS.md).
 
-### Does KING AI claim revenue, users or partnerships in this repository?
-Only verified public facts should be presented. This repository does not invent revenue, ARR, users, customers, financing, valuation, certifications, market leadership or signed partnerships.
-
-### How do I discuss a business or strategic relationship?
-Email **vip@kingai.work** with your organization/project, goal, relevant product, target users and a practical proposed next step.
-
-### How should I interpret GitHub Releases?
-For downloadable products, follow `RELEASES.md` and product-scoped current truth. A commit, CI build or old legacy release does not automatically represent the current verified product.
-
----
-
-# 中文
-
-### KING AI 是一个软件吗？
-不是。KING AI 是一组互相可以协同、但每个产品都必须独立有价值的产品家族。
-
-### 当前唯一活跃的公开仓是哪一个？
-就是 `KINGAIASE-public`。它是 KING AI 主生态统一的公开商业、产品发现、客户安全知识和已验证发布信息中心。
-
-### 为什么以前的产品公开仓还存在？
-它们可以保留旧链接、搜索引用、历史 Release 和迁移连续性，但已经属于 legacy 入口，不再是当前源码、安装或发布权威。
-
-### 生产源码在哪里？
-生产源码和内部实现保留在私有生产体系。公开中心不会发布内部架构、API、数据库、部署细节、凭据、安全实现、专有算法或模型编排。
-
-### 路线图里的功能现在都有吗？
-不一定。凡是“路线图 / 产品方向 / 未来方向 / 长期机会”等表述，都不能直接理解为已经正式上线。
-
-### 我应该先用哪个产品？
-可以查看 `USE-CASES.md`。简单来说：工具选 Tools，办公选 Office，安全选 Security，运维选 OPS，客服销售选 Customer OS，AI 原生电脑选 OS，多步骤受控工作选 BOT，数字人生与游戏看 AI Life / Pet / Digital Life。
-
-### USDX TECH 是 KING AI 核心产品吗？
-不是。它是独立的相关企业技术与产品交付业务。
-
-### 如何联系合作？
-发送邮件到 **vip@kingai.work**，说明机构/项目、目标、相关产品、目标用户和建议下一步。
+## 在哪里了解公司更多信息？ / Where can I learn more?
+更多公司信息、咨询及合作，请访问 **https://kingai.work**。本仓不公开个人身份、详细注册信息或具体商业合同条款。

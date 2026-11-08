@@ -132,3 +132,7 @@ jobs:
       - name: Enforce corporate identity privacy and no-public-pricing policy
         shell: bash
         run: python3 scripts/privacy_guard.py
+
+      - name: Verify customer-facing business, products and solutions scope
+        shell: bash
+        run: python3 scripts/public_scope_guard.py
