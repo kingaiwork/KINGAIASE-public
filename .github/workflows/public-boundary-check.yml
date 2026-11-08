@@ -32,6 +32,9 @@ jobs:
           approved_public_repositories = {
               'kingaiwork/KINGAIASE-public',
               'kingaiwork/kingai-global-intelligence',
+              'kingaiwork/KINGAI-OS-Releases',
+              'kingaiwork/Wenshu-Releases',
+              'kingaiwork/kingaiwork',
               'kingaiwork/KINGAIBOT',
               'kingaiwork/KINGAIOS',
               'kingaiwork/tools-public',
