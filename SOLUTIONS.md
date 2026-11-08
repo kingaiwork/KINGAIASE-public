@@ -1,194 +1,86 @@
-# KING AI — Solutions by Outcome
+# KINGAI | Solutions · 解决方案
 
-**Platform:** https://www.kingai.work/  
-**Business & strategic contact:** vip@kingai.work
+真正有价值的方案应先回答三个问题：**当前哪里不顺畅、希望改善什么、如何判断结果是否达到要求。**
 
-This guide explains KING AI from the buyer and user point of view: the outcome someone wants, the products that may help, the value to validate, and the next sensible step. It intentionally avoids proprietary implementation details.
+Solutions are organized around the customer's problem—not around an arbitrary collection of technologies.
 
-## 1. Personal productivity and intelligent work
+**Official website:** https://kingai.work · **Business inquiries:** vip@kingai.work
 
-### Problem
-People lose time moving between documents, utilities, assistants and repeated context. AI can answer questions but often does not remain connected to the work that follows.
+## 个人解决方案 · Individual Solutions
 
-### Relevant products
-- **KING AI Online Tools** — quick, low-friction browser utility.
-- **KINGAI Office** — documents, spreadsheets, presentations and PDF work.
-- **KINGAIBOT** — controlled multi-step assistance as capabilities mature.
-- **KING AI / SEA** — longer-term continuity, context and recurring-work direction.
+### 01 日常数字工作与办公效率
+**常见问题：** 文档、表格、PDF 与小工具相互分散，重复操作耗时。
 
-### Value to validate
-- less repetitive manual work;
-- faster completion of common document and information tasks;
-- clearer continuity between sessions and workflows;
-- explicit authority for actions that matter.
+**解决路径：** 从最常用的任务开始，选择适合的办公工具和智能辅助方式；尽可能减少不必要的数据迁移。
 
-### Commercial path
-Free utility and product discovery can lead to individual premium, professional workflow and eventually team/business value where formally offered.
+**可交付内容：** 产品使用指导、工作流程建议、实际可用功能配置；定制需求需另行评估。
 
-## 2. Customer support, sales and relationship continuity
+**相关产品：** 文枢 Wenshu、KINGAI Online Tools；需要更复杂任务协助时评估相关智能体方向。
 
-### Problem
-Businesses repeatedly answer the same questions, lose leads between channels and often separate support from sales follow-up.
+### 02 个人网站、应用与信息保护
+**常见问题：** 希望拥有实用的网站或应用，但缺少维护、移动端和安全方面的经验。
 
-### Relevant products
-- **KING AI Customer OS** — approved knowledge, support, lead capture and relationship continuity.
-- **KINGAI Office** — documents, proposals, summaries and internal work.
-- **KINGAIBOT / SEA** — controlled recurring workflows as production scope permits.
+**解决路径：** 先明确受众与关键功能，再设计轻量、易维护、适配手机的数字体验，并规划必要的安全与数据边界。
 
-### Value to validate
-- response consistency;
-- faster handling of known questions;
-- qualified lead capture;
-- fewer lost follow-ups;
-- clearer handoff from automation to people;
-- public-only knowledge boundaries where required.
+**可交付内容：** 网站与应用设计开发、内容结构、发布维护方案及适用的安全建议。
 
-### Commercial path
-Business subscription, implementation, managed support, workflow integration and enterprise governance can become distinct paid layers.
+## 企业解决方案 · Business Solutions
 
-## 3. Infrastructure operations and managed environments
+### 03 AI 客服与客户线索跟进
+**常见问题：** 相同问题反复回答，客户信息分散，咨询之后缺少跟进。
 
-### Problem
-Server and infrastructure operations are fragmented across dashboards, commands, alerts and operator knowledge. Automation can help, but unlimited automation increases operational risk.
+**解决路径：** 建立经过审核的知识内容，配置客户咨询入口、需求摘要、转人工及后续跟进流程。
 
-### Relevant products
-- **KINGAI OPS** — server, infrastructure, edge and governed operations.
-- **KINGAI Security** — protection and risk context.
-- **KINGAIBOT / SEA** — controlled workflow assistance.
+**可交付内容：** 智能咨询方案、信息收集流程、知识维护机制、人工接管和效果评估指标。
 
-### Value to validate
-- clearer operational visibility;
-- faster routine handling;
-- fewer manual handoffs;
-- auditable action boundaries;
-- recovery-oriented operations;
-- reduced dependence on one operator remembering every step.
+**相关能力：** AI 数字员工、智能网站、客户服务系统。
 
-### Commercial path
-Professional operations, fleet administration, managed service, support and enterprise governance are the strongest long-term business directions.
+### 04 企业工作流与智能管理
+**常见问题：** 审批、表单、报告和跨部门交接依靠人工，业务信息重复录入。
 
-## 4. Endpoint and digital-work protection
+**解决路径：** 梳理当前流程，明确人员角色、操作权限、所需审批和数据接口，先在单个流程验证效果。
 
-### Problem
-Security tools are often difficult for normal users to interpret, while businesses need stronger operational confidence without turning every alert into specialist-only work.
+**可交付内容：** 业务系统设计、定制软件、SaaS 或系统集成、权限和审计机制、维护方案。
 
-### Relevant products
-- **KINGAI Security** — understandable findings, protection and recovery direction.
-- **KINGAI OS** — longer-term trusted computing environment.
-- **KINGAI OPS** — infrastructure-side operational context.
+**相关能力：** 受控智能体、自动化和企业管理系统。
 
-### Value to validate
-- clear security status;
-- understandable findings;
-- safe quarantine/recovery behavior;
-- lower false-confidence risk;
-- clearer escalation when specialist judgment is needed.
+### 05 智慧网站、AI 搜索与品牌增长
+**常见问题：** 网站虽然上线，但访客难以理解业务，也缺少明确的咨询路径。
 
-### Commercial path
-Personal premium protection can expand toward business security, managed support and integrated operational offerings after release gates are satisfied.
+**解决路径：** 围绕客户问题重组网站内容，做好多语言与移动端体验、技术 SEO、结构化信息和可衡量的转化流程。
 
-## 5. AI-native computing
+**可交付内容：** 网站改造或新建、内容架构、技术可见度建议、咨询及需求收集路径。
 
-### Problem
-Today AI often feels like a separate website or chat window instead of a coherent part of the computing environment.
+### 06 安全治理与业务连续性
+**常见问题：** 服务故障、安全告警和恢复任务缺少统一责任与操作边界。
 
-### Relevant products
-- **KINGAI OS** — AI-native computing direction.
-- **KINGAI Office** — productivity surface.
-- **KINGAI Security** — trust layer.
-- **KINGAIBOT / SEA** — governed assistance and continuity.
+**解决路径：** 核对现有环境，确定监测、权限、响应、备份与恢复优先级。
 
-### Value to validate
-- lower friction between intent and software work;
-- consistent identity and permissions;
-- local-first or controlled experiences where appropriate;
-- tighter relationship between productivity, security and intelligent assistance.
+**可交付内容：** 安全与运营评估、改进计划、适用的监测和恢复机制、审计与人工升级流程。
 
-### Commercial path
-Possible value layers include professional editions, managed computing, enterprise administration, device/OEM relationships and strategic distribution. These are directions unless formally released.
+## 公共机构、城市与国家级方案 · Public-Sector Solutions
 
-## 6. Global research and decision intelligence
+### 07 数字公共服务与机构协同
+**常见问题：** 面向居民或企业的服务入口不统一，申请、审批及信息反馈不连贯。
 
-### Problem
-Global research is slowed by information overload, inconsistent country comparisons, weak source transparency and fast-changing media signals.
+**解决路径：** 从真实服务流程出发，评估门户、身份、权限、数据接口和跨部门交接要求。
 
-### Relevant product
-- **KINGAI Global Intelligence** — https://intel.kingai.work/
+**可交付内容：** 需求分析、服务旅程、总体架构、阶段实施计划、系统集成设计及联合交付方案。
 
-### Value to validate
-- faster country screening;
-- consistent comparison;
-- visible uncertainty;
-- source provenance;
-- clearer separation of structural conditions and fast-moving risk;
-- reusable public intelligence for deeper research.
+### 08 智慧城市与公共数据治理
+**常见问题：** 城市业务系统孤立，难以在合规前提下共享信息或评估服务质量。
 
-### Commercial path
-Professional monitoring, team workflows, scheduled intelligence, data delivery, research support and strategic partnerships where formally supported.
+**解决路径：** 明确业务主管部门、数据权属、隐私、安全、采购规范和持续运维责任，再确定技术组合。
 
-## 7. Persistent digital life and entertainment
+**可交付内容：** 场景与可行性研究、数据治理框架、技术架构、分期实施路线和合作交付安排。
 
-### Problem
-Most AI entertainment resets too easily. Characters, worlds and relationships lose emotional value when history does not matter.
+**交付边界：** 此类项目定位于研究、规划、设计、集成与联合交付，不暗示已有未经核实的政府业绩、认证或全国级平台部署。
 
-### Relevant products
-- **AI Life** — persistent second-life experience.
-- **KINGAI Pet** — companionship, collecting, growth and adventure.
-- **Digital Life** — broader persistent identity and continuity direction.
+## 从需求到交付 · How We Work
 
-### Value to validate
-- return behavior;
-- attachment to characters and progress;
-- meaningful history;
-- content expansion without invalidating prior investment;
-- safe age-appropriate and account-aware experiences where applicable.
+**提出问题 → 梳理现状 → 选择解决路径 → 明确范围与验收 → 实施与改进。**
 
-### Commercial path
-Consumer subscriptions, premium content, customization, progression, creator collaboration and world expansion are potential directions.
+无论项目规模，方案都应写明目标、适用技术、实施边界、风险和明确的下一步；尚在研发的产品不会被包装为已经完成的交付。
 
-## 8. Enterprise digital workforce
-
-### Problem
-Organizations want AI to help with repetitive service, sales, operations and knowledge work, but they also need role boundaries, approval, accountability and human escalation.
-
-### Relevant KING AI directions
-- **KINGAI Workforce** — governed digital-worker direction.
-- **KING AI Customer OS** — customer-facing workflows.
-- **KINGAI Office** — productivity.
-- **KINGAI OPS** — operations.
-- **SEA / KINGAIBOT** — controlled intelligent action.
-
-### Value to validate
-- measurable task completion;
-- reduced repetitive effort;
-- defined authority;
-- approval and escalation quality;
-- auditability;
-- cost and reliability over time.
-
-### Commercial path
-Pilot → scoped production workflow → team/business subscription or managed service → enterprise governance and integration.
-
-## 9. Institutional and sovereign-control scenarios
-
-KINGAI Sovereign is a direction for organizations that require stronger control over identity, data, models and execution boundaries. Exact deployments are project-specific and must not be presented as a universally available off-the-shelf product.
-
-Useful evaluation questions include data residency, operator control, identity, auditability, recovery, provider portability and contractual responsibility.
-
-## How to start
-
-### Individual
-Choose one immediate problem and one product. Do not adopt the ecosystem all at once.
-
-### Business
-Choose one workflow with a measurable baseline, clear owner, approved data boundary and human escalation path.
-
-### Enterprise
-Start with a bounded pilot and defined success criteria before expanding scope.
-
-### Investor or strategic partner
-Evaluate independent product usefulness, return behavior, paid-value clarity, distribution efficiency, cross-product fit and execution discipline.
-
-## Public integrity boundary
-
-This document describes customer problems, value and commercial direction. It does not disclose proprietary algorithms, internal prompts, private APIs, infrastructure topology, credentials, security implementation, unpublished data or confidential customer information.
+**Tell us what you want to solve:** https://kingai.work  
+**Business contact:** vip@kingai.work
