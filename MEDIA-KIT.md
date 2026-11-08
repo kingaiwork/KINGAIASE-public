@@ -161,7 +161,6 @@ Keep private:
 
 ## Independent related projects
 
-USDX TECH, Jackhao.tv, ZuiMeiTV, Atalk.TV and USChinese are documented separately in `FOUNDER-PROJECTS.md`. They should not be automatically described as KING AI core products.
 
 ## Contact
 

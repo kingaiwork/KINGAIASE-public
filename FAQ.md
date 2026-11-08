@@ -26,9 +26,6 @@ Use `USE-CASES.md` or start with a direct need: Tools for quick utilities, Offic
 ### Is USDX TECH part of the core KING AI product family?
 No. USDX TECH is an independent related business and technology delivery surface. It can be referenced for business discovery without being counted as a core KING AI product.
 
-### Are Jackhao.tv, USChinese, ZuiMeiTV and Atalk.TV KING AI products?
-No. They are independent founder personal projects.
-
 ### Does KING AI claim revenue, users or partnerships in this repository?
 Only verified public facts should be presented. This repository does not invent revenue, ARR, users, customers, financing, valuation, certifications, market leadership or signed partnerships.
 
@@ -62,9 +59,6 @@ For downloadable products, follow `RELEASES.md` and product-scoped current truth
 
 ### USDX TECH 是 KING AI 核心产品吗？
 不是。它是独立的相关企业技术与产品交付业务。
-
-### Jackhao.tv、美国华人网、最美TV、Atalk.TV 是 KING AI 产品吗？
-不是，都是创始人独立个人项目。
 
 ### 如何联系合作？
 发送邮件到 **vip@kingai.work**，说明机构/项目、目标、相关产品、目标用户和建议下一步。

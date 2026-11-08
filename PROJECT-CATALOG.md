@@ -187,23 +187,6 @@ Business technology and implementation company. It is the commercial/services re
 
 Relationship to KING AI: implementation/commercial partner and business operator, not a core KING AI product itself.
 
-### Jackhao.tv / 郝才子 Jackhao
-**Official:** https://jackhao.tv/
-
-Independent creator and IP platform.
-
-Current verified public-content foundation includes:
-- **48 original Chinese/English songs**;
-- **19 original novels**;
-- *美漂：洛杉矶没有故乡* with preface/prologue plus **170 numbered chapters** in the structured catalog;
-- a full reading entry for *后AI时代*;
-- music, fiction, journals, images, listening-room, studio, author and contact experiences;
-- structured AI/search-readable creator, music, book, chapter and article entities.
-
-Commercial paths can include music distribution/licensing, publishing, adaptation, creator/media collaboration and original-IP development.
-
-This remains independent from the KING AI core SaaS/product family.
-
 ### ZuiMeiTV / 最美TV
 **Official:** https://zuimeitv.com/
 
@@ -306,7 +289,6 @@ The broader system now spans several economic roles:
 - **Professional insight/data:** Global Intelligence.
 - **Persistent consumer experiences:** AI Life, Pet and Digital Life.
 - **Business implementation:** USDX TECH.
-- **Creator/IP:** Jackhao.tv.
 - **Creator data/media:** ZuiMeiTV.
 - **News/trends media:** Atalk.TV.
 - **Community/local commerce:** USChinese.

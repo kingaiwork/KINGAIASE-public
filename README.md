@@ -24,7 +24,7 @@ Persistent Intelligence · AI Workforce · Productivity · Computing · Security
 - **I want the full KING AI core product directory** → [PRODUCTS.md](PRODUCTS.md)
 - **I want current maturity/status** → [PUBLIC-STATUS.md](PUBLIC-STATUS.md)
 - **I want the public/legacy repository map** → [PUBLIC-PORTFOLIO.md](PUBLIC-PORTFOLIO.md)
-- **I want related business, creator, media and community projects** → [FOUNDER-PROJECTS.md](FOUNDER-PROJECTS.md)
+- **I want related business, creator, media and community projects** → [RELATED-PROJECTS.md](RELATED-PROJECTS.md)
 - **I want real-world use cases** → [USE-CASES.md](USE-CASES.md)
 - **I want outcome-based solutions** → [SOLUTIONS.md](SOLUTIONS.md)
 - **I want business and monetization logic** → [BUSINESS.md](BUSINESS.md) + [COMMERCIAL-PACKAGING.md](COMMERCIAL-PACKAGING.md)
@@ -176,9 +176,6 @@ The broader current portfolio also includes distinct business, creator, media an
 ### USDX TECH / DXTECH LLC
 **https://usdxtech.com/** — business technology, implementation and modernization company. It can implement/support KING AI customer relationships but is not itself a core KING AI product.
 
-### Jackhao.tv / 郝才子 Jackhao
-**https://jackhao.tv/** — independent creator/IP platform. Current verified public-content foundation includes **48 original Chinese/English songs**, **19 original novels**, and *美漂：洛杉矶没有故乡* with preface/prologue plus **170 numbered chapters**.
-
 ### ZuiMeiTV / 最美TV
 **https://zuimeitv.com/** — independent global Chinese creator public-data, ZCI influence-index and research-report platform. Missing data and rankings must remain attributable; no fake demo/growth data.
 
@@ -188,7 +185,7 @@ The broader current portfolio also includes distinct business, creator, media an
 ### USChinese / 美国华人网
 Active independent U.S. Chinese-language news/community/local-commerce project with community, jobs/housing/merchant/event/resale listings, merchant workflows, advertising direction and **VIP / Business / Business Pro** membership directions. This public hub does not invent a canonical URL until one is formally declared.
 
-See [FOUNDER-PROJECTS.md](FOUNDER-PROJECTS.md).
+See [RELATED-PROJECTS.md](RELATED-PROJECTS.md).
 
 ## Internal foundations are not extra products
 
@@ -207,7 +204,6 @@ Different project families can create different economic relationships:
 - **Insight/Data** — Global Intelligence
 - **Continuity** — SEA, AI Life, Pet, Digital Life
 - **Implementation/Services** — USDX TECH
-- **Creator/IP** — Jackhao.tv
 - **Creator Data/Media** — ZuiMeiTV
 - **News/Trends Media** — Atalk.TV
 - **Community/Local Commerce** — USChinese
@@ -296,7 +292,6 @@ Public material intentionally does **not** disclose:
 ### 相关项目也已经重新分类
 
 - **USDX TECH**：企业技术、实施和现代化服务公司，不是 KING AI 核心产品；
-- **Jackhao.tv**：独立创作者/IP 平台，当前资料基础包括 **48 首原创歌曲、19 部原创小说**，以及《美漂：洛杉矶没有故乡》前言/序章 + **170 个编号章节**；
 - **ZuiMeiTV**：全球华人创作者公开数据、ZCI 指数与研究报告平台；
 - **Atalk.TV**：当前项目权威已经明确其属于更广义 **KINGAI ecosystem**，但它仍然是独立媒体/内容产品，不计入 12 个 KING AI 核心软件产品；
 - **美国华人网**：当前活跃的全美华人新闻、社区、本地生活与商业服务项目，已有社区、本地分类、商家、广告和 VIP / Business / Business Pro 会员方向；当前公开中心尚未声明正式 URL，因此不虚构链接。
@@ -311,7 +306,6 @@ Public material intentionally does **not** disclose:
 
 同时：
 
-**USDX TECH = 实施服务；Jackhao.tv = 创作者 IP；ZuiMeiTV = 创作者数据媒体；Atalk.TV = 新闻趋势媒体；美国华人网 = 社区与本地商业。**
 
 这些项目可以共享合作、推广或基础设施，但不应被错误地包装成同一个产品。
 
