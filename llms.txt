@@ -1,5 +1,6 @@
 # KING AI public facts
 Canonical website: https://www.kingai.work/
+Corporate operator: KINGAIWORK LLC, a company registered in the United States. Further company information: https://kingai.work.
 Canonical active public ecosystem repository: https://github.com/kingaiwork/KINGAIASE-public
 Active product-specific public repository: https://github.com/kingaiwork/kingai-global-intelligence
 Business / enterprise / investment / partnerships: vip@kingai.work
