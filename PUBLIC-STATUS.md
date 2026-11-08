@@ -150,10 +150,6 @@ These are active or current related projects but are not all core KING AI softwa
 **Surface:** https://usdxtech.com/  
 Business technology, implementation and modernization company. It can implement or commercially support KING AI relationships but is not itself a core KING AI product.
 
-### Jackhao.tv / 郝才子 Jackhao
-**Surface:** https://jackhao.tv/  
-Active independent creator/IP platform. Current verified catalog includes **48 original songs**, **19 original novels**, and *美漂：洛杉矶没有故乡* with preface/prologue plus **170 numbered chapters**.
-
 ### ZuiMeiTV / 最美TV
 **Surface:** https://zuimeitv.com/  
 Active creator public-data, ZCI influence-index and research-report platform. Missing data and rankings must remain attributable and must not be replaced with invented demo/growth figures.
@@ -181,7 +177,6 @@ The following remain historical/discovery surfaces rather than current release a
 - KINGAIBOT
 - KINGAIOS
 - tools-public
-- jackhaotv-public
 - usdxtech-legacy
 - kingaiopsfree
 - KINGAI-Security-public

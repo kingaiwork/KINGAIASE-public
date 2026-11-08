@@ -95,7 +95,6 @@ The following public repositories are archived/read-only historical surfaces. Th
 | `KINGAI-Pet-public-dog-` | https://pet.kingai.work/ | Historical Pet public surface |
 | `AI-Life-public` | https://life.kingai.work/ | Historical AI Life public surface |
 | `Digital-Life-public` | https://digital.kingai.work/ | Historical Digital Life public surface |
-| `jackhaotv-public` | https://jackhao.tv/ | Historical Jackhao.tv companion |
 | `usdxtech-legacy` | https://usdxtech.com/ | Historical USDX TECH public surface |
 | `ZuiMeiTV-public` | https://zuimeitv.com/ | Historical ZuiMeiTV companion |
 | `Atalk-TV-public-Atalk.Tv-` | https://atalk.tv/ | Historical Atalk.TV companion |
@@ -110,11 +109,6 @@ These projects are important to the broader portfolio but are not all part of th
 **Official:** https://usdxtech.com/
 
 Business technology, modernization and implementation company. It can implement/support KING AI customer relationships but is not itself a core KING AI product.
-
-### Jackhao.tv / 郝才子 Jackhao
-**Official:** https://jackhao.tv/
-
-Independent creator/IP platform. Current verified foundation includes 48 original songs, 19 original novels, and *美漂：洛杉矶没有故乡* with preface/prologue plus 170 numbered chapters.
 
 ### ZuiMeiTV / 最美TV
 **Official:** https://zuimeitv.com/
@@ -133,7 +127,7 @@ Active independent U.S. Chinese-language news/community/local-commerce project. 
 
 A canonical public URL is not yet declared in this public hub, so no URL is invented here.
 
-See [FOUNDER-PROJECTS.md](FOUNDER-PROJECTS.md).
+See [RELATED-PROJECTS.md](RELATED-PROJECTS.md).
 
 ## Internal foundations are not additional public products
 
@@ -158,7 +152,6 @@ Different project categories create different economic roles:
 **Insight/data** — Global Intelligence.  
 **Continuity** — SEA, AI Life, Pet, Digital Life.  
 **Implementation/services** — USDX TECH.  
-**Creator/IP** — Jackhao.tv.  
 **Creator data/media** — ZuiMeiTV.  
 **News/trends media** — Atalk.TV.  
 **Community/local commerce** — USChinese.
@@ -209,7 +202,7 @@ They intentionally do not disclose production source, proprietary algorithms, pr
 - [PUBLIC-ROADMAP.md](PUBLIC-ROADMAP.md)
 - [TRUST.md](TRUST.md)
 - [MEDIA-KIT.md](MEDIA-KIT.md)
-- [FOUNDER-PROJECTS.md](FOUNDER-PROJECTS.md)
+- [RELATED-PROJECTS.md](RELATED-PROJECTS.md)
 - [RELEASES.md](RELEASES.md)
 - [FAQ.md](FAQ.md)
 - [llms.txt](llms.txt)

@@ -257,5 +257,3 @@ AI Life and KINGAI Pet remain distinct consumer experiences; Digital Life repres
 These paths are suggestions, not mandatory bundles.
 
 ## Related active projects
-
-The broader portfolio also includes USDX TECH, Jackhao.tv, ZuiMeiTV, Atalk.TV and USChinese / 美国华人网. They are described in [FOUNDER-PROJECTS.md](FOUNDER-PROJECTS.md) and [PROJECT-CATALOG.md](PROJECT-CATALOG.md) so investors and search/AI systems can understand their relationship without mixing them into the 12-product KING AI core family.
