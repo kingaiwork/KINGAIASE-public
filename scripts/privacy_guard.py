@@ -15,13 +15,13 @@ SUFFIXES = {".md", ".txt", ".json", ".html", ".svg", ".xml", ".yml", ".yaml",
 EXCLUDE = {Path("scripts/privacy_guard.py")}
 IDENTITY = re.compile("jack[._ -]*" + "hao" + "|" + "郝" + "才子", re.I)
 REGISTRATION_DETAIL = re.compile(
-    r"(?i)(?:\\bWyoming\\b|\\bSheridan\\s*,?\\s*WY\\b|2026-002120886|"
-    r"30\\s+N\\s+Gould\\s+St|怀俄明州|州实体编号|注册地址)"
+    r"(?i)(?:\bWyoming\b|\bSheridan\s*,?\s*WY\b|2026-002120886|"
+    r"30\s+N\s+Gould\s+St|怀俄明州|州实体编号|注册地址)"
 )
 FORMATION_CONTEXT = re.compile(
-    r"(?i)(?:Nov(?:ember)?\\s+1,?\\s+2026|2026-11-01)"
+    r"(?i)(?:Nov(?:ember)?\s+1,?\s+2026|2026-11-01)"
 )
-CORPORATE_CONTEXT = re.compile(r"(?i)\\b(?:LLC|Entity ID|formed|formation)\\b|成立日期|注册")
+CORPORATE_CONTEXT = re.compile(r"(?i)\b(?:LLC|Entity ID|formed|formation)\b|成立日期|注册")
 PERSONAL_EMAIL = re.compile(
     r"\b[A-Za-z0-9_.+%-]+@(?:gmail|hotmail|outlook|yahoo|icloud|qq|163)\.(?:com|cn)\b",
     re.I,
