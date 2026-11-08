@@ -14,6 +14,14 @@ SUFFIXES = {".md", ".txt", ".json", ".html", ".svg", ".xml", ".yml", ".yaml",
             ".js", ".mjs", ".cjs", ".ts", ".tsx", ".astro", ".css"}
 EXCLUDE = {Path("scripts/privacy_guard.py")}
 IDENTITY = re.compile("jack[._ -]*" + "hao" + "|" + "郝" + "才子", re.I)
+REGISTRATION_DETAIL = re.compile(
+    r"(?i)(?:\bWyoming\b|\bSheridan\s*,?\s*WY\b|2026-002120886|"
+    r"30\s+N\s+Gould\s+St|怀俄明州|州实体编号|注册地址)"
+)
+FORMATION_CONTEXT = re.compile(
+    r"(?i)(?:Nov(?:ember)?\s+1,?\s+2026|2026-11-01)"
+)
+CORPORATE_CONTEXT = re.compile(r"(?i)\b(?:LLC|Entity ID|formed|formation)\b|成立日期|注册")
 PERSONAL_EMAIL = re.compile(
     r"\b[A-Za-z0-9_.+%-]+@(?:gmail|hotmail|outlook|yahoo|icloud|qq|163)\.(?:com|cn)\b",
     re.I,
@@ -46,6 +54,8 @@ for path in sorted(ROOT.rglob("*")):
             kinds.append("private-identity")
         if PERSONAL_EMAIL.search(line):
             kinds.append("personal-mailbox")
+        if REGISTRATION_DETAIL.search(line) or (FORMATION_CONTEXT.search(line) and CORPORATE_CONTEXT.search(line)):
+            kinds.append("unnecessary-company-registration-detail")
         if PRICE_LINE.search(line) and PUBLIC_RATES.search(line):
             kinds.append("published-commercial-amount")
         if kinds:
