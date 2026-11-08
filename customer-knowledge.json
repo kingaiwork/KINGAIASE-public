@@ -6,31 +6,12 @@
   "verified_at": "2026-08-20",
   "customer_safe_paths": [
     "README.md",
-    "PROJECT-CATALOG.md",
-    "public-project-facts.json",
-    "START-HERE.md",
-    "PRODUCTS.md",
-    "USE-CASES.md",
-    "SOLUTIONS.md",
     "BUSINESS.md",
-    "COMMERCIAL-PACKAGING.md",
-    "INVESTORS.md",
-    "DILIGENCE.md",
-    "MARKET.md",
-    "COMPETITIVE-POSITIONING.md",
-    "PUBLIC-METRICS.md",
-    "DEMO-GUIDE.md",
-    "ENTERPRISE.md",
-    "PARTNERSHIPS.md",
-    "PUBLIC-STATUS.md",
-    "PUBLIC-ROADMAP.md",
-    "TRUST.md",
-    "MEDIA-KIT.md",
-    "PUBLIC-PORTFOLIO.md",
-    "RELATED-PROJECTS.md",
-    "FAQ.md",
-    "RELEASES.md",
-    "llms.txt"
+    "PRODUCTS.md",
+    "SOLUTIONS.md",
+    "public-project-facts.json",
+    "llms.txt",
+    "COMPANY.md"
   ],
   "entries": [
     {
@@ -39,9 +20,9 @@
       "publish": true,
       "visibility": "public",
       "risk": "low",
-      "confidence": 0.99,
+      "confidence": 0.95,
       "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "Persistent intelligence and governed AI-workforce direction",
       "questions": {
         "en": [
@@ -56,8 +37,8 @@
         ]
       },
       "answer": {
-        "en": "KING AI SEA is the persistent-intelligence and governed AI-workforce direction at https://www.kingai.work/. The public website labels it Available Now. It is built around approved context, useful memory, specialized digital roles, recurring workflows, governed action and controlled improvement. ‘Intelligent lifeform’ is product language for persistent software intelligence, not human consciousness or unrestricted authority.",
-        "zh": "KING AI SEA 是位于 https://www.kingai.work/ 的长期智慧与受治理 AI 员工方向，主官网标注为 Available Now。它围绕授权上下文、长期记忆、专业数字岗位、周期工作流、受控行动与持续改进展开。“智慧生命体”是持续软件智慧的产品表达，不代表人类意识或无限自主权限。"
+        "zh": "KINGAI 的智能体与数字员工方向关注授权知识、任务协同、审批和人工接管。实际可用的接入能力需要以官网及具体项目范围为准。",
+        "en": "KINGAI agent and AI workforce initiatives focus on approved knowledge, coordinated tasks, explicit approvals and human escalation. Available integration scope must be confirmed against the official website and project requirements."
       },
       "cta": "platform"
     },
@@ -69,7 +50,7 @@
       "risk": "low",
       "confidence": 0.99,
       "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "Controlled agentic work for moving longer digital tasks",
       "questions": {
         "en": [
@@ -92,9 +73,9 @@
       "publish": true,
       "visibility": "public",
       "risk": "low",
-      "confidence": 0.99,
+      "confidence": 0.95,
       "verified_at": "2026-08-20",
-      "source_path": "PUBLIC-STATUS.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "Public status: **Pre-Alpha**",
       "questions": {
         "en": [
@@ -107,8 +88,8 @@
         ]
       },
       "answer": {
-        "en": "KINGAI OS is the AI-native computing direction at https://os.kingai.work/. Installed-system work remains active, but the public status is Pre-Alpha. It should not be described as a finished mass-market operating system.",
-        "zh": "KINGAI OS 是位于 https://os.kingai.work/ 的 AI 原生计算方向，当前系统开发仍然活跃，但公开状态为 Pre-Alpha，不能描述成已经成熟商用的大众操作系统。"
+        "zh": "KINGAI OS 的 Desktop 与 Server 已有开发预览，Edge 和 AI Workstation 不宣称已公开发布，也不宣称已经取得正式生产认证。以 KINGAI OS 发布仓的版本和安装限制为准。",
+        "en": "KINGAI OS has developer previews for Desktop and Server. Edge and AI Workstation are not claimed as released, and no general-availability certification is claimed. Consult official release notes and installation limits."
       }
     },
     {
@@ -117,7 +98,7 @@
       "publish": true,
       "visibility": "public",
       "risk": "low",
-      "confidence": 0.99,
+      "confidence": 0.95,
       "verified_at": "2026-08-20",
       "source_path": "PRODUCTS.md",
       "evidence": "Current verified working foundation",
@@ -134,8 +115,8 @@
         ]
       },
       "answer": {
-        "en": "KINGAI Office is an original local-first productivity suite direction at https://office.kingai.work/. Its current working foundation includes Writer, Sheets, Slides, local PDF viewing, offline deterministic assistance, autosave/recovery, basic OOXML/ODF compatibility, an installable PWA foundation and desktop packaging foundations. Compatibility is basic, not pixel-perfect advanced Office parity.",
-        "zh": "KINGAI Office 是位于 https://office.kingai.work/ 的原创本地优先办公套件方向。当前基础包括 Writer、Sheets、Slides、本地 PDF、离线确定性辅助、自动保存/恢复、基础 OOXML/ODF 兼容、PWA 和桌面封装基础。当前兼容属于基础兼容，不代表高级 Office 格式像素级完全兼容。"
+        "zh": "文枢 Wenshu Office 提供文档、表格、演示和 PDF 办公方向的公开测试版。可用功能、文件兼容性和安装限制以 Wenshu Releases 的实际说明为准。",
+        "en": "Wenshu Office has a public beta for documents, sheets, presentations and PDF tasks. Verify current features, document compatibility and installation limits from the Wenshu Releases documentation."
       },
       "cta": "product"
     },
@@ -147,7 +128,7 @@
       "risk": "medium",
       "confidence": 0.99,
       "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "Windows engine 0.4.0 — Production Candidate",
       "questions": {
         "en": [
@@ -177,7 +158,7 @@
       "risk": "medium",
       "confidence": 0.99,
       "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "Governed operations for server, edge, IoT-capable",
       "questions": {
         "en": [
@@ -203,7 +184,7 @@
       "risk": "low",
       "confidence": 0.99,
       "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "Public-knowledge-first AI customer support",
       "questions": {
         "en": [
@@ -231,7 +212,7 @@
       "risk": "low",
       "confidence": 0.99,
       "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "138 calculators, converters and browser utilities",
       "questions": {
         "en": [
@@ -259,7 +240,7 @@
       "risk": "low",
       "confidence": 0.99,
       "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "Evidence-linked global intelligence",
       "questions": {
         "en": [
@@ -287,7 +268,7 @@
       "risk": "low",
       "confidence": 0.99,
       "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "Current verified world line: 8.0",
       "questions": {
         "en": [
@@ -315,7 +296,7 @@
       "risk": "low",
       "confidence": 0.99,
       "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "100 original pet definitions",
       "questions": {
         "en": [
@@ -343,7 +324,7 @@
       "risk": "low",
       "confidence": 0.98,
       "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "persistent digital identity, memory, character continuity",
       "questions": {
         "en": [
@@ -361,134 +342,6 @@
       }
     },
     {
-      "id": "related.usdxtech",
-      "intent": "business_implementation",
-      "publish": true,
-      "visibility": "public",
-      "risk": "low",
-      "confidence": 0.99,
-      "verified_at": "2026-08-20",
-      "source_path": "RELATED-PROJECTS.md",
-      "evidence": "business technology, implementation and delivery company",
-      "questions": {
-        "en": [
-          "What is USDX TECH?",
-          "Is USDX TECH a KING AI product?"
-        ],
-        "zh": [
-          "USDX TECH 是什么？",
-          "USDX TECH 是 KING AI 产品吗？"
-        ]
-      },
-      "answer": {
-        "en": "USDX TECH / DXTECH LLC is the business technology, implementation and delivery company at https://usdxtech.com/. It can implement or support relevant KING AI customer relationships, but it is not itself a core KING AI product.",
-        "zh": "USDX TECH / DXTECH LLC 是位于 https://usdxtech.com/ 的企业技术、实施与交付公司，可以实施或支持相关 KING AI 客户项目，但它本身不是 KING AI 核心产品。"
-      },
-      "cta": "sales"
-    },
-    {
-      "id": "related.zuimeitv",
-      "intent": "creator_data_media",
-      "publish": true,
-      "visibility": "public",
-      "risk": "low",
-      "confidence": 0.99,
-      "verified_at": "2026-08-20",
-      "source_path": "RELATED-PROJECTS.md",
-      "evidence": "global Chinese creator public-data, ZCI influence-index and research-report platform",
-      "questions": {
-        "en": [
-          "What is ZuiMeiTV?",
-          "What is ZCI?"
-        ],
-        "zh": [
-          "最美TV 是什么？",
-          "ZCI 是什么？"
-        ]
-      },
-      "answer": {
-        "en": "ZuiMeiTV at https://zuimeitv.com/ is an independent global Chinese creator public-data, ZCI influence-index and research-report platform. Public rankings and data should remain attributable; missing values must not be replaced with invented demo data or fake growth.",
-        "zh": "最美TV（https://zuimeitv.com/）是独立的全球华人创作者公开数据、ZCI 影响力指数和研究报告平台。公开榜单和数据必须保持可追溯，缺失值不能被替换成虚构 Demo 数据或假增长。"
-      }
-    },
-    {
-      "id": "related.atalk",
-      "intent": "news_media",
-      "publish": true,
-      "visibility": "public",
-      "risk": "low",
-      "confidence": 0.99,
-      "verified_at": "2026-08-20",
-      "source_path": "RELATED-PROJECTS.md",
-      "evidence": "part of the wider KINGAI ecosystem",
-      "questions": {
-        "en": [
-          "What is Atalk.TV?",
-          "Is Atalk.TV part of KING AI?"
-        ],
-        "zh": [
-          "Atalk.TV 是什么？",
-          "Atalk.TV 属于 KING AI 吗？"
-        ]
-      },
-      "answer": {
-        "en": "Atalk.TV at https://atalk.tv/ is a source-first global trends/news media product. Current project authority identifies it as part of the wider KINGAI ecosystem, while it remains a distinct media/content product and is not one of the 12 core KING AI enterprise/software products.",
-        "zh": "Atalk.TV（https://atalk.tv/）是来源优先的全球趋势/新闻媒体产品。当前项目权威明确其属于更广义 KINGAI ecosystem，但它仍是独立媒体/内容产品，不计入 12 个 KING AI 核心企业/软件产品。"
-      }
-    },
-    {
-      "id": "related.uschinese",
-      "intent": "community_local_commerce",
-      "publish": true,
-      "visibility": "public",
-      "risk": "low",
-      "confidence": 0.98,
-      "verified_at": "2026-08-20",
-      "source_path": "RELATED-PROJECTS.md",
-      "evidence": "active independent U.S. Chinese-language news, community, local-life and business-services project",
-      "questions": {
-        "en": [
-          "What is USChinese?",
-          "What does 美国华人网 include?",
-          "What membership directions exist?"
-        ],
-        "zh": [
-          "美国华人网是什么？",
-          "美国华人网包括哪些内容？",
-          "有哪些会员方向？"
-        ]
-      },
-      "answer": {
-        "en": "USChinese / 美国华人网 is an active independent U.S. Chinese-language news, community, local-life and business-services project. Current verified foundations include community, structured jobs/housing/merchant/event/resale listings, merchant workflows, advertising direction and VIP / Business / Business Pro membership directions. A canonical public URL is not yet declared in this public hub, so no URL is invented.",
-        "zh": "美国华人网是当前活跃的全美华人新闻、社区、本地生活与商业服务项目。已验证基础包括社区、招聘/房屋/商家/活动/二手结构化信息、商家流程、广告方向和 VIP / Business / Business Pro 会员方向。当前公开中心尚未声明正式 URL，因此不会虚构链接。"
-      }
-    },
-    {
-      "id": "kingai.governance",
-      "intent": "authority_governance",
-      "publish": true,
-      "visibility": "public",
-      "risk": "low",
-      "confidence": 0.99,
-      "verified_at": "2026-08-20",
-      "source_path": "PROJECT-CATALOG.md",
-      "evidence": "explicit permissions, approvals and human escalation",
-      "questions": {
-        "en": [
-          "How does KING AI handle authority?",
-          "Does a stronger AI automatically get more permissions?"
-        ],
-        "zh": [
-          "KING AI 怎么处理权限？",
-          "模型变强会自动获得更多权限吗？"
-        ]
-      },
-      "answer": {
-        "en": "KING AI treats model capability and execution authority as separate concerns. Public product principles keep permissions, approvals, human escalation and accountability explicit; stronger model capability does not automatically mean broader authority.",
-        "zh": "KING AI 把模型能力和执行权限分开处理。公开产品原则要求权限、审批、人工升级和责任边界保持明确；模型能力变强不等于自动扩大权限。"
-      }
-    },
-    {
       "id": "kingai.public_status",
       "intent": "product_status",
       "publish": true,
@@ -496,7 +349,7 @@
       "risk": "low",
       "confidence": 0.99,
       "verified_at": "2026-08-20",
-      "source_path": "PUBLIC-STATUS.md",
+      "source_path": "PRODUCTS.md",
       "evidence": "Repository activity is not customer availability",
       "questions": {
         "en": [
@@ -512,32 +365,6 @@
         "en": "No. Repository activity is not customer availability. Production Candidate is not automatically Stable, Pre-Alpha is an early maturity label, In Development is not a finished-product claim, and roadmap items are future directions only.",
         "zh": "不是。仓库有活动不等于客户可用。Production Candidate 不自动等于 Stable；Pre-Alpha 是早期成熟度标签；In Development 不代表成品；Roadmap 只表示未来方向。"
       }
-    },
-    {
-      "id": "kingai.investor",
-      "intent": "investment",
-      "publish": true,
-      "visibility": "public",
-      "risk": "low",
-      "confidence": 0.99,
-      "verified_at": "2026-08-20",
-      "source_path": "README.md",
-      "evidence": "Do not evaluate KING AI by counting repositories or feature names",
-      "questions": {
-        "en": [
-          "Why might an investor evaluate KING AI?",
-          "What should investors verify?"
-        ],
-        "zh": [
-          "投资人为什么关注 KING AI？",
-          "投资人应该验证什么？"
-        ]
-      },
-      "answer": {
-        "en": "The investment case should be evaluated through independent product usefulness, repeat use and retention, paid value, recurring business relationships, reliability, governance, distribution efficiency, natural cross-product expansion and capital discipline—not repository count or feature count. Public materials do not invent users, revenue, customers, partnerships, funding or market leadership.",
-        "zh": "投资逻辑应通过独立产品价值、重复使用与留存、付费价值、持续商业关系、可靠性、治理、分发效率、自然跨产品扩展和资本纪律来验证，而不是数仓库或功能数量。公开材料不会虚构用户、收入、客户、合作、融资或行业领先。"
-      },
-      "cta": "investor"
     },
     {
       "id": "kingai.contact",
@@ -562,6 +389,100 @@
         "zh": "企业、投资、渠道、OEM、研究、数据、媒体或战略合作，请联系 vip@kingai.work。"
       },
       "cta": "contact"
+    },
+    {
+      "id": "kingai.business",
+      "intent": "business_capabilities",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.97,
+      "verified_at": "2026-11-08",
+      "source_path": "BUSINESS.md",
+      "questions": {
+        "zh": [
+          "KINGAI 能提供哪些业务？"
+        ],
+        "en": [
+          "What services does KINGAI offer?"
+        ]
+      },
+      "answer": {
+        "zh": "KINGAIWORK LLC 是一家在美国注册的公司，业务涵盖 AI 数字员工、智慧网站、企业软件、业务自动化、AI 搜索可见度、安全运营以及公共机构数字化方案。具体实施范围通过官网沟通。",
+        "en": "KINGAIWORK LLC is a US-registered company providing AI workforce solutions, intelligent websites, business software, automation, AI discoverability, security and public-sector digital solution design. Project scope is discussed through the official website."
+      },
+      "cta": "platform"
+    },
+    {
+      "id": "kingai.solutions.individual",
+      "intent": "individual_solutions",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.97,
+      "verified_at": "2026-11-08",
+      "source_path": "SOLUTIONS.md",
+      "questions": {
+        "zh": [
+          "KINGAI 的个人解决方案有哪些？"
+        ],
+        "en": [
+          "What individual solutions does KINGAI provide?"
+        ]
+      },
+      "answer": {
+        "zh": "围绕个人办公、日常数字任务、网站或应用与安全需求，选择当前适用的工具和可验证能力。",
+        "en": "Individual solutions cover productivity, everyday digital tasks, websites or applications and appropriate security guidance using currently supported capabilities."
+      },
+      "cta": "platform"
+    },
+    {
+      "id": "kingai.solutions.business",
+      "intent": "business_solutions",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.97,
+      "verified_at": "2026-11-08",
+      "source_path": "SOLUTIONS.md",
+      "questions": {
+        "zh": [
+          "KINGAI 如何帮助企业？"
+        ],
+        "en": [
+          "How does KINGAI help businesses?"
+        ]
+      },
+      "answer": {
+        "zh": "从企业客服、线索跟进、智慧网站、业务流程、系统集成和安全运营等具体问题切入，确定清晰范围和可衡量的交付。",
+        "en": "KINGAI begins with specific business problems such as customer support, lead handling, intelligent websites, workflows, integration and security operations, then scopes measurable deliverables."
+      },
+      "cta": "platform"
+    },
+    {
+      "id": "kingai.solutions.public",
+      "intent": "public_sector_solutions",
+      "publish": true,
+      "visibility": "public",
+      "risk": "low",
+      "confidence": 0.97,
+      "verified_at": "2026-11-08",
+      "source_path": "SOLUTIONS.md",
+      "questions": {
+        "zh": [
+          "KINGAI 提供什么公共机构数字化方案？"
+        ],
+        "en": [
+          "What public-sector solutions does KINGAI offer?"
+        ]
+      },
+      "answer": {
+        "zh": "面向机构与城市的数字服务、系统集成和数据治理需求，提供研究、规划、设计与分阶段联合交付方案；不宣称未经核实的政府业绩。",
+        "en": "For public institutions and cities, KINGAI offers discovery, planning, architecture, integration design and phased joint-delivery approaches. No unverified government deployment experience is claimed."
+      },
+      "cta": "platform"
     }
-  ]
+  ],
+  "presentation_scope": "business-products-solutions",
+  "presentation_updated_at": "2026-11-08"
 }
