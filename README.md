@@ -66,3 +66,10 @@ Tell us the problem, your current environment and the outcome you need. We'll di
 产品状态以对应官方页面及 GitHub Releases 为准。未发布能力不作为已完成交付宣传。本仓库不是生产系统源码、个人档案或完整公司登记资料的公开目录。
 
 Product status is governed by official product pages and release notes. Planned features are not represented as shipped capabilities. This repository does not publish private source, personal profiles or detailed corporate registration records.
+
+---
+
+**KINGAIWORK LLC** — the company behind this project.
+Legal name: KINGAIWORK LLC · Formed in Wyoming, USA on November 1, 2026 · Wyoming Entity ID: 2026-002120886
+Registered address: 30 N Gould St Ste R, Sheridan, WY 82801, USA
+Website: https://kingai.work · Contact: vip@kingai.work
