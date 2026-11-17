@@ -1,5 +1,7 @@
 # Static-first: why most small-business websites don't need a server
 
+> **TL;DR** — Most small-business websites are informational, so they can be prebuilt and served as static files from a CDN: faster by default, a much smaller attack surface, nothing to patch, and uptime that does not depend on one server. Keep dynamic services only where money or data changes hands (checkout, accounts, live inventory).
+
 Ask a room of small-business owners about their websites and a pattern shows up fast. The site was built years ago on a dynamic stack: a database, a runtime, a stack of plugins. Since then it has been patched, slowed down, patched again, and at least once it has gone down or been defaced at the worst possible moment: a weekend, a holiday rush, the night before a big quote went out.
 
 The usual conclusion is "we need a better server" or "we need a bigger maintenance plan." Most of the time, the real problem is simpler: the site never needed a server in the first place.
@@ -53,6 +55,8 @@ At KINGAIWORK we default to static for client marketing sites and reserve dynami
 ---
 
 # 中文版：静态优先——大多数小企业网站，其实不需要一台服务器
+
+> **摘要**——大多数小企业网站本质上是信息展示，完全可以预先生成、以静态文件经 CDN 发出：速度是默认状态，攻击面大幅缩小，没有补丁要追，可用性也不押在一台服务器上。动态服务只留给钱和数据真正交手的环节（结账、账户、实时库存）。
 
 问一圈小企业主他们的网站是怎么回事，故事大同小异。网站是几年前用动态系统搭的：一个数据库、一个运行时，外加一堆插件。这些年打补丁、变慢、再打补丁，中间至少有一次在最不该出事的时候出了事：周末、节假日旺季，或者一份大报价发出去的前夜。
 
