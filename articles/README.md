@@ -3,6 +3,7 @@
 Premium, original technical notes from KINGAIWORK LLC, in English and Chinese: AI automation, intelligent websites, business systems, and keeping them running. New pieces are published daily.
 高级原创技术专栏 · 中英双语：AI 自动化、智慧网站、业务系统与持续运营。每日更新。
 
+- 2026-11-22 · [Security by Subtraction: Removing Unused Logins, Plugins, and Stale Pages｜减法式安全：清理闲置登录、插件与过期页面](2026-11-22-security-by-subtraction.md)
 - 2026-11-21 · [AI Search Visibility: Structuring Pages So Search Engines and AI Assistants Can Cite Them｜AI 搜索可见度：把页面写成搜索引擎与 AI 助手都能引用的答案](2026-11-21-ai-search-visibility-citable-pages.md)
 - 2026-11-20 · [Unified Sign-In for Every Product: What One Account Changes for Customers and Support｜一号通统一登录：一个账户用遍全部产品，客户与支持端各变了什么](2026-11-20-unified-sign-in-one-account.md)
 - 2026-11-19 · [Backup Restore Drills for Small Teams: A Quarterly Routine That Proves Recovery Works｜小团队备份恢复演练：用季度例行动作证明恢复真的可行](2026-11-19-backup-restore-drill.md)
