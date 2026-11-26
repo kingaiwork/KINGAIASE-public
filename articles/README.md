@@ -3,6 +3,7 @@
 Premium, original technical notes from KINGAIWORK LLC, in English and Chinese: AI automation, intelligent websites, business systems, and keeping them running. New pieces are published daily.
 高级原创技术专栏 · 中英双语：AI 自动化、智慧网站、业务系统与持续运营。每日更新。
 
+- 2026-11-24 · [AI Concierge for Business Websites: Guardrails That Keep Answers Within Approved Facts｜企业网站的 AI 客服：用护栏把回答限定在已核准事实内](2026-11-24-ai-concierge-guardrails-business-website.md)
 - 2026-11-23 · [From Spreadsheets to a Database: Graduation Signals and a Staged Migration Plan｜从电子表格到数据库：升级信号与分阶段迁移方案](2026-11-23-spreadsheets-to-database-migration.md)
 - 2026-11-22 · [Security by Subtraction: Removing Unused Logins, Plugins, and Stale Pages｜减法式安全：清理闲置登录、插件与过期页面](2026-11-22-security-by-subtraction.md)
 - 2026-11-21 · [AI Search Visibility: Structuring Pages So Search Engines and AI Assistants Can Cite Them｜AI 搜索可见度：把页面写成搜索引擎与 AI 助手都能引用的答案](2026-11-21-ai-search-visibility-citable-pages.md)
