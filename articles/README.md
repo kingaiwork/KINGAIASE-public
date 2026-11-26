@@ -3,6 +3,7 @@
 Premium, original technical notes from KINGAIWORK LLC, in English and Chinese: AI automation, intelligent websites, business systems, and keeping them running. New pieces are published daily.
 高级原创技术专栏 · 中英双语：AI 自动化、智慧网站、业务系统与持续运营。每日更新。
 
+- 2026-11-26 · [Role-Based Access Control for Small Business Systems: Permissions Before Features｜小企业系统的角色权限管理：先定权限，再加功能](2026-11-26-role-based-access-control-small-business.md)
 - 2026-11-25 · [CDN for Local Businesses: What Edge Hosting Actually Does, in Plain English｜本地企业的 CDN 入门：边缘托管到底做了什么，用大白话讲清](2026-11-25-cdn-edge-hosting-local-business.md)
 - 2026-11-24 · [AI Concierge for Business Websites: Guardrails That Keep Answers Within Approved Facts｜企业网站的 AI 客服：用护栏把回答限定在已核准事实内](2026-11-24-ai-concierge-guardrails-business-website.md)
 - 2026-11-23 · [From Spreadsheets to a Database: Graduation Signals and a Staged Migration Plan｜从电子表格到数据库：升级信号与分阶段迁移方案](2026-11-23-spreadsheets-to-database-migration.md)
